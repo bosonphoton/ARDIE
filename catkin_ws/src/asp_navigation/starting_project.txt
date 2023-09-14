@@ -1,0 +1,14 @@
+Command list
+(1) source research_ws/devel/setup.bash
+(2) roslaunch asp_navigation bot_bringup.launch
+(3) roslaunch turtlebot_teleop keyboard_teleop.launch
+(4) roslaunch asp_navigation asp_navigation.launch --screen
+
+Steps
+
+Open 3 terminals type the command (1) in all terminals
+In 1st terminal type command 2
+In 2nd terminal type command 3
+Set the initial pose of the robot using the button in RVIZ
+Move the robot for 15 secs for robot to orient in the map 
+In 3rd terminal type command 4 and the robot will start moving around

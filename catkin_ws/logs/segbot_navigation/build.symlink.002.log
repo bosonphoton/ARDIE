@@ -1,0 +1,4 @@
+Linked: (/home/chels/catkin_ws/devel/.private/segbot_navigation/lib/segbot_navigation/move_base_interruptable_server, /home/chels/catkin_ws/devel/lib/segbot_navigation/move_base_interruptable_server)
+Linked: (/home/chels/catkin_ws/devel/.private/segbot_navigation/lib/pkgconfig/segbot_navigation.pc, /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_navigation.pc)
+Linked: (/home/chels/catkin_ws/devel/.private/segbot_navigation/share/segbot_navigation/cmake/segbot_navigationConfig.cmake, /home/chels/catkin_ws/devel/share/segbot_navigation/cmake/segbot_navigationConfig.cmake)
+Linked: (/home/chels/catkin_ws/devel/.private/segbot_navigation/share/segbot_navigation/cmake/segbot_navigationConfig-version.cmake, /home/chels/catkin_ws/devel/share/segbot_navigation/cmake/segbot_navigationConfig-version.cmake)

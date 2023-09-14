@@ -1,0 +1,789 @@
+
+ Picked object 2 at :2019-02-23 15:38:00.818195
+ Picked object 2 at :2019-02-23 15:40:38.177990
+ Unloaded object 2 at :2019-02-23 15:40:42.435243
+ Total time taken for bringing 2 is :0:04:15.435180
+ Picked object 1 at :2019-02-23 15:40:42.435364
+ Unloaded object 1 at :2019-02-23 15:40:46.712210
+ Total time taken for bringing 1 is :0:04:16.610760
+ Picked object 0 at :2019-02-23 15:40:46.712318
+ Unloaded object 0 at :2019-02-23 15:40:50.902163
+ Total time taken for bringing 0 is :0:04:11.390700
+ Total time taken for all tasks is : 0:12:43.456680
+ Picked object 2 at :2019-02-23 15:44:00.105759
+ Unloaded object 2 at :2019-02-23 15:44:04.399098
+ Total time taken for bringing 2 is :0:04:17.600340
+ Picked object 1 at :2019-02-23 15:44:04.399208
+ Unloaded object 1 at :2019-02-23 15:44:08.644125
+ Total time taken for bringing 1 is :0:04:14.695020
+ Picked object 0 at :2019-02-23 15:44:08.644298
+ Unloaded object 0 at :2019-02-23 15:44:12.824193
+ Total time taken for bringing 0 is :0:04:10.793700
+ Total time taken for all tasks is : 0:12:43.114080
+ Picked object 2 at :2019-02-23 15:45:10.790465
+ Unloaded object 2 at :2019-02-23 15:45:15.022949
+ Total time taken for bringing 2 is :0:04:13.949040
+ Picked object 1 at :2019-02-23 15:45:15.023082
+ Unloaded object 1 at :2019-02-23 15:45:19.498948
+ Total time taken for bringing 1 is :0:04:28.551960
+ Picked object 0 at :2019-02-23 15:45:19.499047
+ Unloaded object 0 at :2019-02-23 15:45:24.079132
+ Total time taken for bringing 0 is :0:04:34.805100
+ Total time taken for all tasks is : 0:13:17.340180
+ Picked object 2 at :2019-02-23 15:58:38.619886
+ Unloaded object 2 at :2019-02-23 15:58:43.291585
+ Total time taken for bringing 2 is :0:04:40.301940
+ Picked object 1 at :2019-02-23 15:58:43.291839
+ Unloaded object 1 at :2019-02-23 15:58:48.074977
+ Total time taken for bringing 1 is :0:04:46.988280
+ Picked object 0 at :2019-02-23 15:58:48.075229
+ Unloaded object 0 at :2019-02-23 15:58:53.401832
+ Total time taken for bringing 0 is :0:05:19.596180
+ Total time taken for all tasks is : 0:14:46.936440
+ Picked object 2 at :2019-02-23 15:59:17.012456
+ Unloaded object 2 at :2019-02-23 15:59:22.154411
+ Total time taken for bringing 2 is :0:05:08.517300
+ Picked object 1 at :2019-02-23 15:59:22.154664
+ Unloaded object 1 at :2019-02-23 15:59:26.841089
+ Total time taken for bringing 1 is :0:04:41.185500
+ Picked object 0 at :2019-02-23 15:59:26.841335
+ Unloaded object 0 at :2019-02-23 15:59:31.505627
+ Total time taken for bringing 0 is :0:04:39.857520
+ Total time taken for all tasks is : 0:14:29.607240
+ Picked object 2 at :2019-02-23 16:00:04.217621
+ Unloaded object 2 at :2019-02-23 16:00:08.948390
+ Total time taken for bringing 2 is :0:04:43.846140
+ Picked object 1 at :2019-02-23 16:00:08.948682
+ Unloaded object 1 at :2019-02-23 16:00:13.785376
+ Total time taken for bringing 1 is :0:04:50.201640
+ Picked object 0 at :2019-02-23 16:00:13.785660
+ Unloaded object 0 at :2019-02-23 16:00:18.492385
+ Total time taken for bringing 0 is :0:04:42.403500
+ Total time taken for all tasks is : 0:14:16.504140
+ Picked object 2 at :2019-02-23 16:00:35.885980
+ Unloaded object 2 at :2019-02-23 16:00:40.422954
+ Total time taken for bringing 2 is :0:04:32.218440
+ Picked object 1 at :2019-02-23 16:00:40.423214
+ Unloaded object 1 at :2019-02-23 16:00:45.101172
+ Total time taken for bringing 1 is :0:04:40.677480
+ Picked object 0 at :2019-02-23 16:00:45.101582
+ Unloaded object 0 at :2019-02-23 16:00:49.800778
+ Total time taken for bringing 0 is :0:04:41.951760
+ Total time taken for all tasks is : 0:13:54.907620
+ Picked object 2 at :2019-02-23 16:01:37.444061
+ Unloaded object 2 at :2019-02-23 16:01:41.987621
+ Total time taken for bringing 2 is :0:04:32.613600
+ Picked object 1 at :2019-02-23 16:01:41.987884
+ Unloaded object 1 at :2019-02-23 16:01:46.684711
+ Total time taken for bringing 1 is :0:04:41.809620
+ Picked object 0 at :2019-02-23 16:01:46.684985
+ Unloaded object 0 at :2019-02-23 16:01:51.375014
+ Total time taken for bringing 0 is :0:04:41.401740
+ Total time taken for all tasks is : 0:13:55.881840
+ Picked object 2 at :2019-02-23 16:02:00.213976
+ Unloaded object 2 at :2019-02-23 16:02:04.829514
+ Total time taken for bringing 2 is :0:04:36.932280
+ Picked object 1 at :2019-02-23 16:02:04.829762
+ Unloaded object 1 at :2019-02-23 16:02:09.929755
+ Total time taken for bringing 1 is :0:05:05.999580
+ Picked object 0 at :2019-02-23 16:02:09.930004
+ Unloaded object 0 at :2019-02-23 16:02:14.165564
+ Total time taken for bringing 0 is :0:04:14.133600
+ Total time taken for all tasks is : 0:13:57.113100
+ Picked object 2 at :2019-02-23 16:02:43.262210
+ Picked object 2 at :2019-02-23 16:03:02.637051
+ Unloaded object 2 at :2019-02-23 16:03:07.178393
+ Total time taken for bringing 2 is :0:04:32.480520
+ Picked object 1 at :2019-02-23 16:03:07.178641
+ Unloaded object 1 at :2019-02-23 16:03:11.880815
+ Total time taken for bringing 1 is :0:04:42.130440
+ Picked object 0 at :2019-02-23 16:03:11.881021
+ Unloaded object 0 at :2019-02-23 16:03:16.562837
+ Total time taken for bringing 0 is :0:04:40.908960
+ Total time taken for all tasks is : 0:13:55.566240
+ Picked object 2 at :2019-02-23 16:08:28.179719
+ Unloaded object 2 at :2019-02-23 16:08:33.168993
+ Total time taken for bringing 2 is :0:04:59.356440
+ Picked object 1 at :2019-02-23 16:08:33.169239
+ Unloaded object 1 at :2019-02-23 16:08:37.995733
+ Total time taken for bringing 1 is :0:04:49.589640
+ Picked object 0 at :2019-02-23 16:08:37.995984
+ Unloaded object 0 at :2019-02-23 16:08:42.935081
+ Total time taken for bringing 0 is :0:04:56.345820
+ Total time taken for all tasks is : 0:14:45.337320
+ Picked object 2 at :2019-02-23 16:09:50.639862
+ Unloaded object 2 at :2019-02-23 16:09:55.191282
+ Total time taken for bringing 2 is :0:04:33.085200
+ Picked object 1 at :2019-02-23 16:09:55.191530
+ Unloaded object 1 at :2019-02-23 16:09:59.882082
+ Total time taken for bringing 1 is :0:04:41.433120
+ Picked object 0 at :2019-02-23 16:09:59.882335
+ Unloaded object 0 at :2019-02-23 16:10:05.700519
+ Total time taken for bringing 0 is :0:05:49.091040
+ Total time taken for all tasks is : 0:15:03.657480
+ Picked object 2 at :2019-02-23 16:11:43.625258
+ Unloaded object 2 at :2019-02-23 16:11:48.209924
+ Total time taken for bringing 2 is :0:04:35.079960
+ Picked object 1 at :2019-02-23 16:11:48.210172
+ Unloaded object 1 at :2019-02-23 16:11:52.746935
+ Total time taken for bringing 1 is :0:04:32.205780
+ Picked object 0 at :2019-02-23 16:11:52.747180
+ Unloaded object 0 at :2019-02-23 16:11:57.448968
+ Total time taken for bringing 0 is :0:04:42.107280
+ Total time taken for all tasks is : 0:13:49.438140
+ Picked object 2 at :2019-02-23 16:15:26.826863
+ Unloaded object 2 at :2019-02-23 16:15:32.014264
+ Total time taken for bringing 2 is :0:05:11.244060
+ Picked object 1 at :2019-02-23 16:15:32.014526
+ Unloaded object 1 at :2019-02-23 16:15:36.972306
+ Total time taken for bringing 1 is :0:04:57.466800
+ Picked object 0 at :2019-02-23 16:15:36.972558
+ Unloaded object 0 at :2019-02-23 16:15:41.832527
+ Total time taken for bringing 0 is :0:04:51.598140
+ Total time taken for all tasks is : 0:15:00.356100
+ Picked object 2 at :2019-02-23 16:26:08.064874
+ Unloaded object 2 at :2019-02-23 16:27:38.448993
+ Total time taken for bringing 2 is :1:30:23.047140
+ Picked object 1 at :2019-02-23 16:27:38.449330
+ Unloaded object 1 at :2019-02-23 16:29:59.394156
+ Total time taken for bringing 1 is :2:20:56.689560
+ Picked object 0 at :2019-02-23 16:29:59.394267
+ Unloaded object 0 at :2019-02-23 16:32:08.297354
+ Total time taken for bringing 0 is :2:08:54.185220
+ Total time taken for all tasks is : 6:00:13.960500
+ Picked object 2 at :2019-02-23 16:39:32.890756
+ Picked object 2 at :2019-02-23 16:43:09.804792
+ Unloaded object 2 at :2019-02-23 16:46:19.565757
+ Total time taken for bringing 2 is :3:09:45.657900
+ Picked object 1 at :2019-02-23 16:46:19.566049
+ Unloaded object 1 at :2019-02-23 16:48:47.489047
+ Total time taken for bringing 1 is :2:27:55.379880
+ Picked object 0 at :2019-02-23 16:48:47.489381
+ Unloaded object 0 at :2019-02-23 16:53:12.550197
+ Total time taken for bringing 0 is :4:25:03.648960
+ Total time taken for all tasks is : 10:02:44.752020
+ Picked object 2 at :2019-02-23 23:16:22.386419
+ Picked object 2 at :2019-02-23 23:18:56.587951
+ Picked object 2 at :2019-02-23 23:19:47.324628
+ Picked object 2 at :2019-02-23 23:20:51.980217
+ Unloaded object 2 at :2019-02-23 23:20:56.528825
+ Total time taken for bringing 2 is :0:04:32.916480
+ Picked object 1 at :2019-02-23 23:20:56.529054
+ Unloaded object 1 at :2019-02-23 23:21:01.061074
+ Total time taken for bringing 1 is :0:04:31.921200
+ Picked object 0 at :2019-02-23 23:21:01.061303
+ Unloaded object 0 at :2019-02-23 23:21:05.583136
+ Total time taken for bringing 0 is :0:04:31.309980
+ Total time taken for all tasks is : 0:13:36.190080
+ Picked object 2 at :2019-02-23 23:22:19.679534
+ Unloaded object 2 at :2019-02-23 23:22:24.560097
+ Total time taken for bringing 2 is :0:04:52.833780
+ Picked object 1 at :2019-02-23 23:22:24.560331
+ Unloaded object 1 at :2019-02-23 23:22:29.428761
+ Total time taken for bringing 1 is :0:04:52.105800
+ Picked object 0 at :2019-02-23 23:22:29.428991
+ Unloaded object 0 at :2019-02-23 23:22:34.278108
+ Total time taken for bringing 0 is :0:04:50.947020
+ Total time taken for all tasks is : 0:14:35.930820
+ Picked object 2 at :2019-02-23 23:24:05.510665
+ Picked object 2 at :2019-02-23 23:24:36.773860
+ Picked object 2 at :2019-02-23 23:27:30.164575
+ Picked object 2 at :2019-02-23 23:28:19.026549
+ Picked object 2 at :2019-02-23 23:29:09.598360
+ Picked object 2 at :2019-02-23 23:30:01.879496
+ Picked object 2 at :2019-02-23 23:31:04.985469
+ Picked object 2 at :2019-02-23 23:31:43.034918
+ Picked object 2 at :2019-02-23 23:32:21.130726
+ Picked object 2 at :2019-02-23 23:32:48.063095
+ Picked object 2 at :2019-02-23 23:34:08.763179
+ Picked object 2 at :2019-02-23 23:48:46.406438
+ Picked object 2 at :2019-02-24 00:08:45.647589
+ Picked object 2 at :2019-02-24 00:10:43.348618
+ Picked object 2 at :2019-02-24 00:10:56.599011
+ Unloaded object 2 at :2019-02-24 00:11:01.847749
+ Total time taken for bringing 2 is :0:05:14.924280
+ Picked object 1 at :2019-02-24 00:11:01.847982
+ Unloaded object 1 at :2019-02-24 00:11:06.836040
+ Total time taken for bringing 1 is :0:04:59.283480
+ Picked object 0 at :2019-02-24 00:11:06.836288
+ Unloaded object 0 at :2019-02-24 00:11:11.808998
+ Total time taken for bringing 0 is :0:04:58.362600
+ Total time taken for all tasks is : 0:15:12.615600
+ Picked object 2 at :2019-02-24 00:12:45.241123
+ Picked object 2 at :2019-02-24 00:13:32.205523
+ Unloaded object 2 at :2019-02-24 00:13:37.284253
+ Total time taken for bringing 2 is :0:05:04.723800
+ Picked object 1 at :2019-02-24 00:13:37.284481
+ Unloaded object 1 at :2019-02-24 00:13:42.356030
+ Total time taken for bringing 1 is :0:05:04.292940
+ Picked object 0 at :2019-02-24 00:13:42.356272
+ Unloaded object 0 at :2019-02-24 00:13:47.323038
+ Total time taken for bringing 0 is :0:04:58.005960
+ Total time taken for all tasks is : 0:15:07.065240
+ Picked object 2 at :2019-02-24 01:04:06.166645
+ Unloaded object 2 at :2019-02-24 01:04:33.477681
+ Total time taken for bringing 2 is :0:27:18.662160
+ Picked object 1 at :2019-02-24 01:04:33.477914
+ Unloaded object 1 at :2019-02-24 01:04:38.629041
+ Total time taken for bringing 1 is :0:05:09.067620
+ Picked object 0 at :2019-02-24 01:04:38.629276
+ Unloaded object 0 at :2019-02-24 01:04:44.310344
+ Total time taken for bringing 0 is :0:05:40.864080
+ Total time taken for all tasks is : 0:38:08.637120
+ Picked object 2 at :2019-02-24 01:25:15.835416
+ Unloaded object 2 at :2019-02-24 01:25:36.520591
+ Total time taken for bringing 2 is :0:20:41.110500
+ Picked object 1 at :2019-02-24 01:25:36.520821
+ Unloaded object 1 at :2019-02-24 01:25:41.492520
+ Total time taken for bringing 1 is :0:04:58.301940
+ Picked object 0 at :2019-02-24 01:25:41.492752
+ Unloaded object 0 at :2019-02-24 01:25:51.575206
+ Total time taken for bringing 0 is :0:10:04.947240
+ Total time taken for all tasks is : 0:35:44.403660
+ Picked object 2 at :2019-02-24 01:30:52.883960
+ Picked object 2 at :2019-02-24 01:32:55.640365
+ Unloaded object 2 at :2019-02-24 01:33:10.158079
+ Total time taken for bringing 2 is :0:14:31.062840
+ Picked object 1 at :2019-02-24 01:33:10.158328
+ Picked object 2 at :2019-02-24 01:34:23.102254
+ Unloaded object 2 at :2019-02-24 01:34:37.632379
+ Total time taken for bringing 2 is :0:14:31.807500
+ Picked object 1 at :2019-02-24 01:34:37.632600
+ Picked object 2 at :2019-02-24 01:38:20.559169
+ Unloaded object 2 at :2019-02-24 01:38:38.771134
+ Total time taken for bringing 2 is :0:18:12.717900
+ Picked object 1 at :2019-02-24 01:38:38.771382
+ Picked object 2 at :2019-02-24 01:43:25.979664
+ Unloaded object 2 at :2019-02-24 01:43:35.995057
+ Total time taken for bringing 2 is :0:10:00.923580
+ Picked object 1 at :2019-02-24 01:43:35.995286
+ Unloaded object 1 at :2019-02-24 01:43:41.291015
+ Total time taken for bringing 1 is :0:05:17.743740
+ Picked object 0 at :2019-02-24 01:43:41.291237
+ Unloaded object 0 at :2019-02-24 01:43:46.597543
+ Total time taken for bringing 0 is :0:05:18.378360
+ Total time taken for all tasks is : 0:20:37.087980
+ Picked object 2 at :2019-02-24 01:44:26.732192
+ Unloaded object 2 at :2019-02-24 01:44:38.045916
+ Total time taken for bringing 2 is :0:11:18.823440
+ Picked object 1 at :2019-02-24 01:44:38.046157
+ Picked object 2 at :2019-02-24 01:49:35.266359
+ Unloaded object 2 at :2019-02-24 01:49:49.795377
+ Total time taken for bringing 2 is :0:14:31.741080
+ Picked object 1 at :2019-02-24 01:49:49.795610
+ Picked object 2 at :2019-02-24 01:53:30.000488
+ Unloaded object 2 at :2019-02-24 01:53:50.690519
+ Total time taken for bringing 2 is :0:20:41.401860
+ Picked object 1 at :2019-02-24 01:53:50.690761
+ Picked object 2 at :2019-02-24 01:55:21.579407
+ Unloaded object 2 at :2019-02-24 01:55:44.009952
+ Total time taken for bringing 2 is :0:22:25.832700
+ Picked object 1 at :2019-02-24 01:55:44.010157
+ Unloaded object 1 at :2019-02-24 01:55:52.654979
+ Total time taken for bringing 1 is :0:08:38.689320
+ Picked object 0 at :2019-02-24 01:55:52.655210
+ Unloaded object 0 at :2019-02-24 01:56:01.269606
+ Total time taken for bringing 0 is :0:08:36.863760
+ Total time taken for all tasks is : 0:39:41.427060
+ Picked object 2 at :2019-02-24 01:56:54.210450
+ Unloaded object 2 at :2019-02-24 01:57:24.467056
+ Total time taken for bringing 2 is :0:30:15.396360
+ Picked object 1 at :2019-02-24 01:57:24.467283
+ Unloaded object 1 at :2019-02-24 01:57:32.808762
+ Total time taken for bringing 1 is :0:08:20.488740
+ Picked object 0 at :2019-02-24 01:57:32.808993
+ Unloaded object 0 at :2019-02-24 01:57:41.194834
+ Total time taken for bringing 0 is :0:08:23.150460
+ Total time taken for all tasks is : 0:46:59.079420
+ Picked object 2 at :2019-02-24 01:58:03.634874
+ Unloaded object 2 at :2019-02-24 01:58:11.862213
+ Total time taken for bringing 2 is :0:08:13.640340
+ Picked object 1 at :2019-02-24 01:58:11.862444
+ Picked object 2 at :2019-02-24 02:06:21.151062
+ Unloaded object 2 at :2019-02-24 02:06:46.709187
+ Total time taken for bringing 2 is :0:25:33.487500
+ Picked object 1 at :2019-02-24 02:06:46.709420
+ Unloaded object 1 at :2019-02-24 02:06:55.514133
+ Total time taken for bringing 1 is :0:08:48.282780
+ Picked object 0 at :2019-02-24 02:06:55.514383
+ Unloaded object 0 at :2019-02-24 02:07:03.639689
+ Total time taken for bringing 0 is :0:08:07.518360
+ Total time taken for all tasks is : 0:42:29.333160
+ Picked object 2 at :2019-02-24 02:09:08.184951
+ Unloaded object 2 at :2019-02-24 02:09:43.878201
+ Total time taken for bringing 2 is :0:35:41.595000
+ Picked object 1 at :2019-02-24 02:09:43.878433
+ Unloaded object 1 at :2019-02-24 02:10:07.214124
+ Total time taken for bringing 1 is :0:23:20.141460
+ Picked object 0 at :2019-02-24 02:10:07.214351
+ Unloaded object 0 at :2019-02-24 02:10:30.622800
+ Total time taken for bringing 0 is :0:23:24.506940
+ Total time taken for all tasks is : 1:22:26.288040
+ Picked object 2 at :2019-02-24 02:11:41.933347
+ Unloaded object 2 at :2019-02-24 02:12:11.509492
+ Total time taken for bringing 2 is :0:29:34.568700
+ Picked object 1 at :2019-02-24 02:12:11.509709
+ Picked object 2 at :2019-02-24 02:12:31.331554
+ Unloaded object 2 at :2019-02-24 02:13:05.683911
+ Total time taken for bringing 2 is :0:34:21.141420
+ Picked object 1 at :2019-02-24 02:13:05.684140
+ Unloaded object 1 at :2019-02-24 02:13:29.007183
+ Total time taken for bringing 1 is :0:23:19.382580
+ Picked object 0 at :2019-02-24 02:13:29.007411
+ Unloaded object 0 at :2019-02-24 02:13:52.314643
+ Total time taken for bringing 0 is :0:23:18.433920
+ Total time taken for all tasks is : 1:20:58.999140
+ Picked object 2 at :2019-02-24 02:14:27.575528
+ Unloaded object 2 at :2019-02-24 02:15:00.234495
+ Total time taken for bringing 2 is :0:32:39.538020
+ Picked object 1 at :2019-02-24 02:15:00.234712
+ Unloaded object 1 at :2019-02-24 02:15:23.840932
+ Total time taken for bringing 1 is :0:23:36.373200
+ Picked object 0 at :2019-02-24 02:15:23.841140
+ Unloaded object 0 at :2019-02-24 02:15:47.158297
+ Total time taken for bringing 0 is :0:23:19.029420
+ Total time taken for all tasks is : 1:19:34.980180
+ Picked object 2 at :2019-02-24 02:16:08.076959
+ Unloaded object 2 at :2019-02-24 02:16:46.996431
+ Total time taken for bringing 2 is :0:38:55.168320
+ Picked object 1 at :2019-02-24 02:16:46.996659
+ Unloaded object 1 at :2019-02-24 02:17:10.454261
+ Total time taken for bringing 1 is :0:23:27.456120
+ Picked object 0 at :2019-02-24 02:17:10.454532
+ Unloaded object 0 at :2019-02-24 02:17:33.879355
+ Total time taken for bringing 0 is :0:23:25.489380
+ Total time taken for all tasks is : 1:25:48.161100
+ Picked object 2 at :2019-02-24 02:17:52.753556
+ Unloaded object 2 at :2019-02-24 02:18:29.124016
+ Total time taken for bringing 2 is :0:36:22.227600
+ Picked object 1 at :2019-02-24 02:18:29.124257
+ Picked object 2 at :2019-02-24 02:22:51.717937
+ Unloaded object 2 at :2019-02-24 02:23:24.714646
+ Total time taken for bringing 2 is :0:32:59.802540
+ Picked object 1 at :2019-02-24 02:23:24.714882
+ Picked object 2 at :2019-02-24 02:26:30.564692
+ Unloaded object 2 at :2019-02-24 02:27:13.736263
+ Total time taken for bringing 2 is :0:43:10.294260
+ Picked object 1 at :2019-02-24 02:27:13.736521
+ Unloaded object 1 at :2019-02-24 02:27:39.036592
+ Total time taken for bringing 1 is :0:25:18.004260
+ Picked object 0 at :2019-02-24 02:27:39.036793
+ Unloaded object 0 at :2019-02-24 02:28:04.357142
+ Total time taken for bringing 0 is :0:25:19.220940
+ Total time taken for all tasks is : 1:33:47.563080
+ Picked object 2 at :2019-02-24 02:28:29.054109
+ Unloaded object 2 at :2019-02-24 02:28:49.026548
+ Total time taken for bringing 2 is :0:19:58.346340
+ Picked object 1 at :2019-02-24 02:28:49.026781
+ Picked object 2 at :2019-02-24 11:59:51.551785
+ Picked object 2 at :2019-02-24 12:00:02.022382
+ Unloaded object 2 at :2019-02-24 12:00:28.660841
+ Total time taken for bringing 2 is :0:26:38.307540
+ Picked object 1 at :2019-02-24 12:00:28.661076
+ Unloaded object 1 at :2019-02-24 12:00:39.006577
+ Total time taken for bringing 1 is :0:10:20.730060
+ Picked object 0 at :2019-02-24 12:00:39.006834
+ Unloaded object 0 at :2019-02-24 12:00:49.458183
+ Total time taken for bringing 0 is :0:10:27.080940
+ Total time taken for all tasks is : 0:47:26.162700
+ Picked object 2 at :2019-02-24 12:01:09.781609
+ Unloaded object 2 at :2019-02-24 12:01:35.920369
+ Total time taken for bringing 2 is :0:26:08.325600
+ Picked object 1 at :2019-02-24 12:01:35.920609
+ Unloaded object 1 at :2019-02-24 12:01:46.541617
+ Total time taken for bringing 1 is :0:10:37.260480
+ Picked object 0 at :2019-02-24 12:01:46.541854
+ Unloaded object 0 at :2019-02-24 12:01:56.902055
+ Total time taken for bringing 0 is :0:10:21.612060
+ Total time taken for all tasks is : 0:47:07.242300
+ Picked object 2 at :2019-02-24 12:04:01.004801
+ Unloaded object 2 at :2019-02-24 12:04:49.039258
+ Total time taken for bringing 2 is :0:48:02.067420
+ Picked object 1 at :2019-02-24 12:04:49.039495
+ Picked object 2 at :2019-02-24 12:06:21.374969
+ Unloaded object 2 at :2019-02-24 12:06:47.781441
+ Total time taken for bringing 2 is :0:26:24.388320
+ Picked object 1 at :2019-02-24 12:06:47.781670
+ Picked object 2 at :2019-02-24 12:19:33.218648
+ Unloaded object 2 at :2019-02-24 12:20:02.586725
+ Total time taken for bringing 2 is :0:29:22.084620
+ Picked object 1 at :2019-02-24 12:20:02.586936
+ Picked object 2 at :2019-02-24 12:28:53.589337
+ Unloaded object 2 at :2019-02-24 12:29:00.727402
+ Total time taken for bringing 2 is :0:07:08.283900
+ Picked object 1 at :2019-02-24 12:29:00.727628
+ Unloaded object 1 at :2019-02-24 12:29:08.599918
+ Total time taken for bringing 1 is :0:07:52.337400
+ Picked object 0 at :2019-02-24 12:29:08.600144
+ Picked object 2 at :2019-02-24 12:30:17.225581
+ Unloaded object 2 at :2019-02-24 12:30:32.472535
+ Total time taken for bringing 2 is :0:15:14.817240
+ Picked object 1 at :2019-02-24 12:30:32.472773
+ Picked object 2 at :2019-02-24 12:34:09.405304
+ Unloaded object 2 at :2019-02-24 12:34:16.478890
+ Total time taken for bringing 2 is :0:07:04.415160
+ Picked object 1 at :2019-02-24 12:34:16.479074
+ Unloaded object 1 at :2019-02-24 12:34:23.944406
+ Total time taken for bringing 1 is :0:07:27.919920
+ Picked object 0 at :2019-02-24 12:34:23.944639
+ Picked object 2 at :2019-02-24 12:40:28.347861
+ Picked object 2 at :2019-02-24 12:42:30.338273
+ Unloaded object 2 at :2019-02-24 12:42:37.788341
+ Total time taken for bringing 2 is :0:07:27.004080
+ Picked object 1 at :2019-02-24 12:42:37.788564
+ Unloaded object 1 at :2019-02-24 12:42:45.277793
+ Total time taken for bringing 1 is :0:07:29.353740
+ Picked object 0 at :2019-02-24 12:42:45.278053
+ Picked object 2 at :2019-02-24 12:44:53.129583
+ Unloaded object 2 at :2019-02-24 12:45:00.186193
+ Total time taken for bringing 2 is :0:07:03.396600
+ Picked object 1 at :2019-02-24 12:45:00.186421
+ Unloaded object 1 at :2019-02-24 12:45:08.354974
+ Total time taken for bringing 1 is :0:08:10.113180
+ Picked object 0 at :2019-02-24 12:45:08.355230
+ Picked object 2 at :2019-02-24 12:47:39.455393
+ Unloaded object 2 at :2019-02-24 12:47:46.990804
+ Total time taken for bringing 2 is :0:07:32.124660
+ Picked object 1 at :2019-02-24 12:47:46.991035
+ Unloaded object 1 at :2019-02-24 12:47:54.455005
+ Total time taken for bringing 1 is :0:07:27.838200
+ Picked object 0 at :2019-02-24 12:47:54.455235
+ Picked object 2 at :2019-02-24 12:50:27.354000
+ Unloaded object 2 at :2019-02-24 12:50:34.385142
+ Total time taken for bringing 2 is :0:07:01.868520
+ Picked object 1 at :2019-02-24 12:50:34.385374
+ Unloaded object 1 at :2019-02-24 12:50:44.310217
+ Total time taken for bringing 1 is :0:09:55.490580
+ Picked object 0 at :2019-02-24 12:50:44.310454
+ Unloaded object 0 at :2019-02-24 12:50:53.902964
+ Total time taken for bringing 0 is :0:09:35.550600
+ Total time taken for all tasks is : 0:26:32.952900
+ Picked object 2 at :2019-02-24 12:52:39.743020
+ Unloaded object 2 at :2019-02-24 12:52:55.066605
+ Total time taken for bringing 2 is :0:15:19.415100
+ Picked object 1 at :2019-02-24 12:52:55.066879
+ Picked object 2 at :2019-02-24 12:53:58.522421
+ Unloaded object 2 at :2019-02-24 12:54:21.938985
+ Total time taken for bringing 2 is :0:23:24.993840
+ Picked object 1 at :2019-02-24 12:54:21.939215
+ Unloaded object 1 at :2019-02-24 12:54:56.160391
+ Total time taken for bringing 1 is :0:34:13.270560
+ Picked object 0 at :2019-02-24 12:54:56.160623
+ Unloaded object 0 at :2019-02-24 12:55:05.857268
+ Total time taken for bringing 0 is :0:09:41.798700
+ Total time taken for all tasks is : 1:07:20.106900
+ Picked object 2 at :2019-02-24 13:15:35.917350
+ Unloaded object 2 at :2019-02-24 13:15:51.151721
+ Total time taken for bringing 2 is :0:15:14.062260
+ Picked object 1 at :2019-02-24 13:15:51.151953
+ Picked object 2 at :2019-02-24 13:21:36.372113
+ Unloaded object 2 at :2019-02-24 13:21:43.709668
+ Total time taken for bringing 2 is :0:07:20.253300
+ Picked object 1 at :2019-02-24 13:21:43.709895
+ Unloaded object 1 at :2019-02-24 13:21:53.314197
+ Total time taken for bringing 1 is :0:09:36.258120
+ Picked object 0 at :2019-02-24 13:21:53.314450
+ Unloaded object 0 at :2019-02-24 13:22:02.974263
+ Total time taken for bringing 0 is :0:09:39.588780
+ Total time taken for all tasks is : 0:26:36.143880
+ Picked object 2 at :2019-02-24 13:25:57.611727
+ Unloaded object 2 at :2019-02-24 13:26:21.547361
+ Total time taken for bringing 2 is :0:23:56.138040
+ Picked object 1 at :2019-02-24 13:26:21.547582
+ Unloaded object 1 at :2019-02-24 13:26:55.727143
+ Total time taken for bringing 1 is :0:34:10.773660
+ Picked object 0 at :2019-02-24 13:26:55.727412
+ Unloaded object 0 at :2019-02-24 13:27:05.373796
+ Total time taken for bringing 0 is :0:09:38.783040
+ Total time taken for all tasks is : 1:07:45.742080
+ Picked object 2 at :2019-02-24 13:28:11.816686
+ Unloaded object 2 at :2019-02-24 13:28:27.014096
+ Total time taken for bringing 2 is :0:15:11.844600
+ Picked object 1 at :2019-02-24 13:28:27.014334
+ Unloaded object 1 at :2019-02-24 13:29:01.178583
+ Total time taken for bringing 1 is :0:34:09.854940
+ Picked object 0 at :2019-02-24 13:29:01.178823
+ Unloaded object 0 at :2019-02-24 13:29:10.814241
+ Total time taken for bringing 0 is :0:09:38.125080
+ Total time taken for all tasks is : 0:58:59.868000
+ Picked object 2 at :2019-02-24 14:18:08.666668
+ Picked object 2 at :2019-02-24 14:21:53.517186
+ Unloaded object 2 at :2019-02-24 14:22:01.322184
+ Total time taken for bringing 2 is :0:07:48.299880
+ Picked object 1 at :2019-02-24 14:22:01.322424
+ Picked object 2 at :2019-02-24 14:25:45.410648
+ Unloaded object 2 at :2019-02-24 14:25:52.288825
+ Total time taken for bringing 2 is :0:06:52.690620
+ Picked object 1 at :2019-02-24 14:25:52.289046
+ Picked object 2 at :2019-02-24 14:26:25.645544
+ Unloaded object 2 at :2019-02-24 14:26:37.503005
+ Total time taken for bringing 2 is :0:11:51.447660
+ Picked object 1 at :2019-02-24 14:26:37.503246
+ Picked object 2 at :2019-02-24 14:33:52.186023
+ Picked object 2 at :2019-02-24 14:34:23.167533
+ Unloaded object 2 at :2019-02-24 14:34:31.209188
+ Total time taken for bringing 2 is :0:08:02.499300
+ Picked object 1 at :2019-02-24 14:34:31.209421
+ Unloaded object 1 at :2019-02-24 14:34:40.677935
+ Total time taken for bringing 1 is :0:09:28.110840
+ Picked object 0 at :2019-02-24 14:34:40.678202
+ Picked object 2 at :2019-02-24 14:42:13.085798
+ Unloaded object 2 at :2019-02-24 14:42:19.946284
+ Total time taken for bringing 2 is :0:06:51.629160
+ Picked object 1 at :2019-02-24 14:42:19.946506
+ Unloaded object 1 at :2019-02-24 14:42:29.397569
+ Total time taken for bringing 1 is :0:09:27.063780
+ Picked object 0 at :2019-02-24 14:42:29.397808
+ Unloaded object 0 at :2019-02-24 14:42:39.303754
+ Total time taken for bringing 0 is :0:09:54.356760
+ Total time taken for all tasks is : 0:26:13.092900
+ Picked object 2 at :2019-02-24 14:46:13.099596
+ Unloaded object 2 at :2019-02-24 14:46:25.108846
+ Total time taken for bringing 2 is :0:12:00.555000
+ Picked object 1 at :2019-02-24 14:46:25.109074
+ Picked object 2 at :2019-02-24 14:46:39.103490
+ Unloaded object 2 at :2019-02-24 14:46:45.950844
+ Total time taken for bringing 2 is :0:06:50.841240
+ Picked object 1 at :2019-02-24 14:46:45.951086
+ Unloaded object 1 at :2019-02-24 14:46:55.393387
+ Total time taken for bringing 1 is :0:09:26.538060
+ Picked object 0 at :2019-02-24 14:46:55.393617
+ Unloaded object 0 at :2019-02-24 14:47:04.846909
+ Total time taken for bringing 0 is :0:09:27.197520
+ Total time taken for all tasks is : 0:25:44.620620
+ Picked object 2 at :2019-02-24 14:56:07.616594
+ Unloaded object 2 at :2019-02-24 14:56:14.507052
+ Total time taken for bringing 2 is :0:06:53.427480
+ Picked object 1 at :2019-02-24 14:56:14.507294
+ Unloaded object 1 at :2019-02-24 14:56:23.941123
+ Total time taken for bringing 1 is :0:09:26.029740
+ Picked object 0 at :2019-02-24 14:56:23.941367
+ Unloaded object 0 at :2019-02-24 14:56:33.415129
+ Total time taken for bringing 0 is :0:09:28.425720
+ Total time taken for all tasks is : 0:25:57.291900
+ Picked object 2 at :2019-02-24 15:00:29.019464
+ Unloaded object 2 at :2019-02-24 15:00:42.454780
+ Total time taken for bringing 2 is :0:13:26.118960
+ Picked object 1 at :2019-02-24 15:00:42.455013
+ Unloaded object 1 at :2019-02-24 15:01:27.702755
+ Total time taken for bringing 1 is :0:45:14.864520
+ Picked object 0 at :2019-02-24 15:01:27.702999
+ Picked object 2 at :2019-02-24 15:03:06.959677
+ Unloaded object 2 at :2019-02-24 15:03:26.789350
+ Total time taken for bringing 2 is :0:19:49.780380
+ Picked object 1 at :2019-02-24 15:03:26.789553
+ Unloaded object 1 at :2019-02-24 15:03:47.095253
+ Total time taken for bringing 1 is :0:20:18.342000
+ Picked object 0 at :2019-02-24 15:03:47.095517
+ Unloaded object 0 at :2019-02-24 15:03:56.565397
+ Total time taken for bringing 0 is :0:09:28.192800
+ Total time taken for all tasks is : 0:49:47.559480
+ Picked object 2 at :2019-02-24 15:14:17.905699
+ Unloaded object 2 at :2019-02-24 15:14:33.642171
+ Total time taken for bringing 2 is :0:15:44.188320
+ Picked object 1 at :2019-02-24 15:14:33.642410
+ Unloaded object 1 at :2019-02-24 15:14:53.882187
+ Total time taken for bringing 1 is :0:20:14.386620
+ Picked object 0 at :2019-02-24 15:14:53.882425
+ Unloaded object 0 at :2019-02-24 15:15:03.344354
+ Total time taken for bringing 0 is :0:09:27.715740
+ Total time taken for all tasks is : 0:45:57.256200
+ Picked object 2 at :2019-02-24 15:18:20.132852
+ Unloaded object 2 at :2019-02-24 15:18:27.000378
+ Total time taken for bringing 2 is :0:06:52.051560
+ Picked object 1 at :2019-02-24 15:18:27.000607
+ Unloaded object 1 at :2019-02-24 15:18:36.444746
+ Total time taken for bringing 1 is :0:09:26.648340
+ Picked object 0 at :2019-02-24 15:18:36.445014
+ Unloaded object 0 at :2019-02-24 15:18:45.968256
+ Total time taken for bringing 0 is :0:09:31.394520
+ Total time taken for all tasks is : 0:25:59.788260
+ Picked object 2 at :2019-02-24 16:20:43.295701
+ Picked object 2 at :2019-02-24 16:22:11.140724
+ Picked object 2 at :2019-02-24 16:23:50.589819
+ Picked object 2 at :2019-02-24 16:25:49.177340
+ Picked object 2 at :2019-02-24 16:27:37.975107
+ Picked object 2 at :2019-02-24 16:28:18.743588
+ Picked object 2 at :2019-02-24 16:29:57.214423
+ Picked object 2 at :2019-02-24 16:31:19.964357
+ Picked object 2 at :2019-02-24 16:34:30.662764
+ Picked object 2 at :2019-02-24 16:35:19.163547
+ Picked object 1 at :2019-02-24 16:35:25.985905
+ Picked object 0 at :2019-02-24 16:35:31.157190
+ Total time taken for all tasks is : 0:15:46.062600
+ Picked object 2 at :2019-02-24 17:06:16.528902
+ Picked object 1 at :2019-02-24 17:06:23.509372
+ Picked object 2 at :2019-02-24 17:07:13.422152
+ Picked object 1 at :2019-02-24 17:07:20.644316
+ Picked object 0 at :2019-02-24 17:07:27.586330
+ Total time taken for all tasks is : 0:23:10.809360
+ Picked object 2 at :2019-02-24 17:11:06.216360
+ Picked object 1 at :2019-02-24 17:11:10.620587
+ Picked object 0 at :2019-02-24 17:11:14.979774
+ Total time taken for all tasks is : 0:13:15.590520
+ Picked object 2 at :2019-02-24 17:14:24.341244
+ Picked object 1 at :2019-02-24 17:14:33.637003
+ Picked object 0 at :2019-02-24 17:14:39.150233
+ Total time taken for all tasks is : 0:20:19.642620
+ Picked object 2 at :2019-02-24 17:15:26.871579
+ Picked object 1 at :2019-02-24 17:15:31.827312
+ Picked object 0 at :2019-02-24 17:15:37.166968
+ Total time taken for all tasks is : 0:15:57.636360
+ Picked object 2 at :2019-02-24 17:21:42.767088
+ Picked object 1 at :2019-02-24 17:21:47.362788
+ Picked object 0 at :2019-02-24 17:21:53.169832
+ Total time taken for all tasks is : 0:16:30.785820
+ Picked object 2 at :2019-02-24 17:25:51.971802
+ Picked object 1 at :2019-02-24 17:25:56.469582
+ Picked object 0 at :2019-02-24 17:26:02.468780
+ Total time taken for all tasks is : 0:17:05.149380
+ Picked object 2 at :2019-02-24 17:31:07.337027
+ Picked object 1 at :2019-02-24 17:31:12.122434
+ Picked object 0 at :2019-02-24 17:31:17.850090
+ Total time taken for all tasks is : 0:20:43.625880
+ Picked object 2 at :2019-02-24 17:36:30.464802
+ Picked object 1 at :2019-02-24 17:36:35.485315
+ Picked object 0 at :2019-02-24 17:36:41.201643
+ Total time taken for all tasks is : 0:21:28.504800
+ Picked object 2 at :2019-02-24 17:38:44.751529
+ Picked object 1 at :2019-02-24 17:38:49.605300
+ Picked object 0 at :2019-02-24 17:39:00.364452
+ Total time taken for all tasks is : 0:26:15.188640
+ Picked object 2 at :2019-02-24 17:42:41.469769
+ Picked object 1 at :2019-02-24 17:42:45.928060
+ Picked object 0 at :2019-02-24 17:42:54.832075
+ Total time taken for all tasks is : 0:29:28.036140
+ Picked object 2 at :2019-02-24 17:47:12.764990
+ Picked object 2 at :2019-02-24 17:47:40.149649
+ Picked object 1 at :2019-02-24 17:47:44.600679
+ Picked object 0 at :2019-02-24 17:47:54.144251
+ Total time taken for all tasks is : 0:30:21.465780
+ Picked object 2 at :2019-02-24 17:49:55.870013
+ Picked object 1 at :2019-02-24 17:50:00.659160
+ Picked object 0 at :2019-02-24 17:50:12.131274
+ Total time taken for all tasks is : 0:34:22.150800
+ Picked object 2 at :2019-02-24 17:54:59.828132
+ Picked object 1 at :2019-02-24 17:55:06.371594
+ Picked object 0 at :2019-02-24 17:55:18.831448
+ Total time taken for all tasks is : 0:38:16.060920
+ Picked object 2 at :2019-02-24 18:32:10.700754
+ Picked object 1 at :2019-02-24 18:32:19.278847
+ Picked object 2 at :2019-02-24 18:33:33.511582
+ Picked object 1 at :2019-02-24 18:33:42.123175
+ Picked object 0 at :2019-02-24 18:34:00.395446
+ Picked object 2 at :2019-02-24 18:36:57.855833
+ Picked object 2 at :2019-02-24 18:38:24.562622
+ Picked object 1 at :2019-02-24 18:38:32.961185
+ Picked object 0 at :2019-02-24 18:38:51.063402
+ Total time taken for all tasks is : 0:52:30.997380
+ Picked object 2 at :2019-02-24 18:43:17.570847
+ Picked object 1 at :2019-02-24 18:43:27.077839
+ Picked object 0 at :2019-02-24 18:43:45.459617
+ Total time taken for all tasks is : 0:53:11.474940
+ Picked object 1 at :2019-02-24 19:34:06.989592
+ Picked object 1 at :2019-02-24 20:12:46.019736
+ Picked object 1 at :2019-02-24 20:21:30.225698
+ Unloaded object 1 at :2019-02-24 20:25:45.036172
+ Total time taken for bringing 1 is :4:14:48.628440
+ Picked object 0 at :2019-02-24 20:25:45.036377
+ Unloaded object 0 at :2019-02-24 20:30:17.323672
+ Total time taken for bringing 0 is :4:32:17.237700
+ Picked object 2 at :2019-02-24 20:30:17.324415
+ Unloaded object 2 at :2019-02-24 20:35:08.304332
+ Total time taken for bringing 2 is :4:50:58.795020
+ Total time taken for all tasks is : 13:38:04.738680
+ Picked object 1 at :2019-02-24 20:44:20.760028
+ Unloaded object 1 at :2019-02-24 20:48:45.831282
+ Total time taken for bringing 1 is :4:25:04.275240
+ Picked object 0 at :2019-02-24 20:48:45.831700
+ Picked object 1 at :2019-02-24 21:03:07.018316
+ Unloaded object 1 at :2019-02-24 21:06:28.614096
+ Total time taken for bringing 1 is :3:21:35.746800
+ Picked object 0 at :2019-02-24 21:06:28.614281
+ Picked object 1 at :2019-02-25 12:16:14.419594
+ Picked object 1 at :2019-02-25 12:17:06.286896
+ Picked object 1 at :2019-02-25 12:17:24.585433
+ Picked object 0 at :2019-02-25 12:17:32.391253
+ Picked object 2 at :2019-02-25 12:17:35.916532
+ Picked object 1 at :2019-02-25 12:17:41.633652
+ Picked object 1 at :2019-02-25 12:22:38.296254
+ Picked object 0 at :2019-02-25 12:22:41.078110
+ Picked object 2 at :2019-02-25 12:22:45.738422
+ Picked object 1 at :2019-02-25 12:22:51.384931
+ Picked object 2 at :2019-02-28 20:39:44.622760
+ Picked object 2 at :2019-02-28 20:41:50.278882
+ Picked object 0 at :2019-02-28 20:41:57.186291
+ Picked object 1 at :2019-02-28 20:41:59.154291
+ Picked object 1 at :2019-02-28 20:44:13.198147
+ Picked object 2 at :2019-02-28 20:44:15.789025
+ Picked object 0 at :2019-02-28 20:44:18.285396
+ Picked object 0 at :2019-02-28 20:44:47.393896
+ Picked object 1 at :2019-02-28 20:44:49.215285
+ Picked object 2 at :2019-02-28 20:44:52.002511
+ Picked object 0 at :2019-03-01 23:19:48.844278
+ Picked object 0 at :2019-03-01 23:21:23.048566
+ Picked object 1 at :2019-03-01 23:21:36.499509
+ Picked object 0 at :2019-03-01 23:23:39.416223
+ Picked object 1 at :2019-03-01 23:23:50.940486
+ Picked object 0 at :2019-03-01 23:26:07.431045
+ Picked object 0 at :2019-03-01 23:32:01.017022
+ Picked object 1 at :2019-03-01 23:32:12.335137
+ Picked object 2 at :2019-03-01 23:32:29.552905
+ Picked object 0 at :2019-03-01 23:40:34.315121
+ Picked object 1 at :2019-03-01 23:40:45.735124
+ Picked object 2 at :2019-03-01 23:41:03.481684
+ Picked object 0 at :2019-03-01 23:48:58.429880
+ Picked object 1 at :2019-03-01 23:49:09.476473
+ Picked object 2 at :2019-03-01 23:49:27.202618
+ Picked object 0 at :2019-03-01 23:49:43.053009
+ Picked object 1 at :2019-03-01 23:49:53.704551
+ Picked object 1 at :2019-03-01 23:51:37.579001
+ Picked object 2 at :2019-03-01 23:51:48.291875
+ Picked object 0 at :2019-03-01 23:52:04.948267
+ Picked object 0 at :2019-03-02 00:09:12.828557
+ Picked object 1 at :2019-03-02 00:09:13.823141
+ Picked object 1 at :2019-03-02 00:09:29.000548
+ Picked object 2 at :2019-03-02 00:09:37.472993
+ Picked object 2 at :2019-03-02 00:09:50.922140
+ Picked object 0 at :2019-03-02 00:16:02.392762
+ Picked object 1 at :2019-03-02 00:16:04.056731
+ Picked object 0 at :2019-03-02 00:17:44.847247
+ Picked object 1 at :2019-03-02 00:17:46.003187
+ Picked object 1 at :2019-03-02 00:18:31.310250
+ Picked object 2 at :2019-03-02 00:18:40.286697
+ Picked object 2 at :2019-03-02 00:19:40.910147
+ Picked object 0 at :2019-03-02 00:19:51.382999
+ Picked object 0 at :2019-03-03 16:21:40.189793
+ Picked object 0 at :2019-03-03 16:23:01.821497
+ Picked object 1 at :2019-03-03 16:24:04.568100
+ Picked object 2 at :2019-03-03 16:26:07.144218
+ Picked object 0 at :2019-03-03 16:30:04.551376
+ Picked object 1 at :2019-03-03 16:30:05.525788
+ Picked object 1 at :2019-03-03 16:31:01.976726
+ Picked object 2 at :2019-03-03 16:31:11.974591
+ Picked object 2 at :2019-03-03 16:32:30.239122
+ Picked object 0 at :2019-03-03 16:32:39.843208
+ Picked object 0 at :2019-03-04 22:18:41.278335
+ Picked object 1 at :2019-03-04 22:19:24.699385
+ Picked object 1 at :2019-03-04 22:20:31.722431
+ Picked object 1 at :2019-03-04 22:21:18.807104
+ Picked object 2 at :2019-03-04 22:21:20.549624
+ Picked object 0 at :2019-03-04 22:21:22.442007
+ Picked object 1 at :2019-03-04 22:22:11.343430
+ Picked object 2 at :2019-03-04 22:22:12.956653
+ Picked object 0 at :2019-03-04 22:22:14.685987
+ Picked object 2 at :2019-03-04 22:23:40.212265
+ Picked object 0 at :2019-03-04 22:23:41.901631
+ Picked object 1 at :2019-03-04 22:23:43.686735
+ Picked object 2 at :2019-03-04 22:26:25.485047
+ Picked object 0 at :2019-03-04 22:26:26.996330
+ Picked object 1 at :2019-03-04 22:26:28.759262
+ Picked object 2 at :2019-03-04 22:28:25.727636
+ Picked object 0 at :2019-03-04 22:28:27.383108
+ Picked object 1 at :2019-03-04 22:28:29.535884
+ Picked object 0 at :2019-03-04 22:29:31.561645
+ Picked object 1 at :2019-03-04 22:29:33.139364
+ Picked object 2 at :2019-03-04 22:29:40.165366
+ Picked object 1 at :2019-03-04 22:30:25.423359
+ Picked object 2 at :2019-03-04 22:30:27.223611
+ Picked object 0 at :2019-03-04 22:30:29.184921

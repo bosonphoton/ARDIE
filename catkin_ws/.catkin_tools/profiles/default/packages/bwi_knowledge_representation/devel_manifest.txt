@@ -1,0 +1,7 @@
+bwi_common/bwi_knowledge_representation
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/etc/catkin/profile.d/bwi_knowledge_representation.sh /home/chels/catkin_ws/devel/etc/catkin/profile.d/bwi_knowledge_representation.sh
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/lib/python2.7/dist-packages/bwi_knowledge_representation/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_knowledge_representation/__init__.py
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/lib/pkgconfig/bwi_knowledge_representation.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_knowledge_representation.pc
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/share/bwi_knowledge_representation/cmake/bwi_knowledge_representationConfig.cmake /home/chels/catkin_ws/devel/share/bwi_knowledge_representation/cmake/bwi_knowledge_representationConfig.cmake
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/share/bwi_knowledge_representation/cmake/bwi_knowledge_representationConfig-version.cmake /home/chels/catkin_ws/devel/share/bwi_knowledge_representation/cmake/bwi_knowledge_representationConfig-version.cmake

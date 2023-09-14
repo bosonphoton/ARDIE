@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="asp_navigation" name="asp_navigation" type="asp_navigator.py" cwd="node"/>
+</launch>

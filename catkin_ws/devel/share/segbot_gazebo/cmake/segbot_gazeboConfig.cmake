@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/share/segbot_gazebo/cmake/segbot_gazeboConfig.cmake

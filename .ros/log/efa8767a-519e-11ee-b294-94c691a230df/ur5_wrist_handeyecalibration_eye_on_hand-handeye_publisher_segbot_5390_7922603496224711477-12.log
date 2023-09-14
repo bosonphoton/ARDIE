@@ -1,0 +1,20 @@
+[rospy.client][INFO] 2023-09-12 15:12:59,146: init_node, name[/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_5390_7922603496224711477], pid[5483]
+[xmlrpc][INFO] 2023-09-12 15:12:59,147: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:12:59,147: Started XML-RPC server [http://segbot:34341/]
+[rospy.init][INFO] 2023-09-12 15:12:59,147: ROS Slave URI: [http://segbot:34341/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:12:59,147: _ready: http://segbot:34341/
+[xmlrpc][INFO] 2023-09-12 15:12:59,147: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:12:59,148: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-12 15:12:59,247: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:12:59,247: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:12:59,249: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:12:59,249: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-12 15:12:59,252: Loading the calibration from file: /home/chels/.ros/easy_handeye/ur5_wrist_handeyecalibration_eye_on_hand.yaml
+[rosout][INFO] 2023-09-12 15:12:59,258: loading calibration parameters into namespace /ur5_wrist_handeyecalibration_eye_on_hand/
+[rosout][INFO] 2023-09-12 15:12:59,259: Storing calibration /ur5_wrist_handeyecalibration_eye_on_hand/ into the parameters server
+[rosout][INFO] 2023-09-12 15:12:59,260: Storing parameters for calibration /ur5_wrist_handeyecalibration_eye_on_hand/ into the parameters server
+[rospy.internal][INFO] 2023-09-12 15:13:29,667: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694546009260138329], count 0
+[rospy.internal][INFO] 2023-09-12 15:13:35,660: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694546009260138329
+[rospy.core][INFO] 2023-09-12 15:20:34,531: signal_shutdown [signal-2]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:20:34,535: signal-2
+[rospy.core][INFO] 2023-09-12 15:20:34,667: signal_shutdown [atexit]

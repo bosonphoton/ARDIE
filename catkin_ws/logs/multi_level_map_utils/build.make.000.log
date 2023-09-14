@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target multi_level_map_utils[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/multi_level_map_utils.dir/src/utils.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/multi_level_map_utils/lib/libmulti_level_map_utils.so[0m
+[100%] Built target multi_level_map_utils

@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/segbot_bringup
+
+Name: segbot_bringup
+Description: Description of segbot_bringup
+Version: 0.3.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

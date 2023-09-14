@@ -1,0 +1,6 @@
+[Added Associations]
+text/x-python=sublime_text.desktop;sublime-text_subl.desktop;
+text/x-python3=sublime_text.desktop;org.gnome.gedit.desktop;code_code.desktop;sublime-text_subl.desktop;
+application/postscript=evince.desktop;
+application/x-shellscript=sublime_text.desktop;
+text/plain=sublime_text.desktop;

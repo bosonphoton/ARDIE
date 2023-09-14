@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bu_probabilistic_inference
+
+Name: bu_probabilistic_inference
+Description: Description of bu_probabilistic_inference
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

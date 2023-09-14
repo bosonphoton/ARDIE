@@ -1,0 +1,1 @@
+/home/chelsea/catkin_ws/devel/.private/camera1394/share/camera1394/cmake/camera1394Config.cmake

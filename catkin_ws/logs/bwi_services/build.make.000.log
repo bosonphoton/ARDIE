@@ -1,0 +1,181 @@
+[35m[1mScanning dependencies of target _bwi_services_generate_messages_check_deps_DeliverMessage[0m
+[  0%] Built target _bwi_services_generate_messages_check_deps_DeliverMessage
+[35m[1mScanning dependencies of target _bwi_services_generate_messages_check_deps_GoToLocation[0m
+[  0%] Built target _bwi_services_generate_messages_check_deps_GoToLocation
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_services_generate_messages_check_deps_SpeakMessage[0m
+[  0%] Built target _bwi_services_generate_messages_check_deps_SpeakMessage
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target plan_execution_generate_messages_eus[0m
+[  0%] Built target plan_execution_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target plan_execution_generate_messages_cpp[0m
+[  0%] Built target plan_execution_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  0%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  0%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  0%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_services_generate_messages_lisp[0m
+[  4%] [34m[1mGenerating Lisp code from bwi_services/GoToLocation.srv[0m
+[  8%] [34m[1mGenerating Lisp code from bwi_services/DeliverMessage.srv[0m
+[ 13%] [34m[1mGenerating Lisp code from bwi_services/SpeakMessage.srv[0m
+[ 13%] Built target bwi_services_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_cpp[0m
+[ 13%] Built target bwi_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 13%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[ 13%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 13%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target plan_execution_generate_messages_lisp[0m
+[ 13%] Built target plan_execution_generate_messages_lisp
+[35m[1mScanning dependencies of target plan_execution_generate_messages_py[0m
+[ 13%] Built target plan_execution_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 13%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 13%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 13%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 13%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 13%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_nodejs[0m
+[ 13%] Built target bwi_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target plan_execution_generate_messages_nodejs[0m
+[ 13%] Built target plan_execution_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_eus[0m
+[ 13%] Built target bwi_planning_common_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_eus[0m
+[ 13%] Built target bwi_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_lisp[0m
+[ 13%] Built target bwi_planning_common_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 13%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_lisp[0m
+[ 13%] Built target bwi_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_nodejs[0m
+[ 13%] Built target bwi_planning_common_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_py[0m
+[ 13%] Built target bwi_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[ 13%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[ 13%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_cpp[0m
+[ 13%] Built target bwi_planning_common_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_py[0m
+[ 13%] Built target bwi_planning_common_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 13%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[ 13%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 13%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[ 13%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[ 13%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 13%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 13%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 13%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[ 13%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 13%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 13%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 13%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 13%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 13%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 13%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 13%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_services_generate_messages_eus[0m
+[ 17%] [34m[1mGenerating EusLisp code from bwi_services/GoToLocation.srv[0m
+[ 21%] [34m[1mGenerating EusLisp code from bwi_services/DeliverMessage.srv[0m
+[ 26%] [34m[1mGenerating EusLisp code from bwi_services/SpeakMessage.srv[0m
+[ 30%] [34m[1mGenerating EusLisp manifest code for bwi_services[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 30%] Built target bwi_services_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_services_generate_messages_py[0m
+[ 34%] [34m[1mGenerating Python code from SRV bwi_services/GoToLocation[0m
+[ 39%] [34m[1mGenerating Python code from SRV bwi_services/DeliverMessage[0m
+[ 43%] [34m[1mGenerating Python code from SRV bwi_services/SpeakMessage[0m
+[ 47%] [34m[1mGenerating Python srv __init__.py for bwi_services[0m
+[ 47%] Built target bwi_services_generate_messages_py
+[35m[1mScanning dependencies of target bwi_services_generate_messages_nodejs[0m
+[ 52%] [34m[1mGenerating Javascript code from bwi_services/GoToLocation.srv[0m
+[ 56%] [34m[1mGenerating Javascript code from bwi_services/DeliverMessage.srv[0m
+[ 60%] [34m[1mGenerating Javascript code from bwi_services/SpeakMessage.srv[0m
+[ 60%] Built target bwi_services_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_services_generate_messages_cpp[0m
+[ 65%] [34m[1mGenerating C++ code from bwi_services/GoToLocation.srv[0m
+[ 69%] [34m[1mGenerating C++ code from bwi_services/DeliverMessage.srv[0m
+[ 73%] [34m[1mGenerating C++ code from bwi_services/SpeakMessage.srv[0m
+[ 73%] Built target bwi_services_generate_messages_cpp
+[35m[1mScanning dependencies of target speak_message_service[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/speak_message_service.dir/src/speak_message_service.cpp.o[0m
+[ 82%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_services/lib/bwi_services/speak_message_service[0m
+[ 82%] Built target speak_message_service
+[35m[1mScanning dependencies of target go_to_location_service[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/go_to_location_service.dir/src/go_to_location_service.cpp.o[0m
+[ 91%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_services/lib/bwi_services/go_to_location_service[0m
+[ 91%] Built target go_to_location_service
+[35m[1mScanning dependencies of target deliver_message_service[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/deliver_message_service.dir/src/deliver_message_service.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_services/lib/bwi_services/deliver_message_service[0m
+[100%] Built target deliver_message_service
+[35m[1mScanning dependencies of target bwi_services_generate_messages[0m
+[100%] Built target bwi_services_generate_messages

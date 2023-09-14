@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_perception
+Description: Description of bwi_perception
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -llibbwi_perception
+Requires: actionlib_msgs

@@ -1,0 +1,56 @@
+[rospy.client][INFO] 2023-09-14 16:01:02,665: init_node, name[/ur_grasp_node_10946_1694721662588], pid[10946]
+[xmlrpc][INFO] 2023-09-14 16:01:02,666: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:01:02,666: Started XML-RPC server [http://segbot:36105/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:01:02,666: _ready: http://segbot:36105/
+[rospy.init][INFO] 2023-09-14 16:01:02,667: ROS Slave URI: [http://segbot:36105/]
+[rospy.registration][INFO] 2023-09-14 16:01:02,668: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 16:01:02,668: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-14 16:01:02,769: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:01:02,769: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:01:02,770: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:01:02,771: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:01:04,064: topic[/tf] adding connection to [http://segbot:36339/], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,065: topic[/tf] adding connection to [http://segbot:35679/], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,066: topic[/tf] adding connection to [http://segbot:36341/], count 1
+[rospy.internal][INFO] 2023-09-14 16:01:04,067: topic[/tf_static] adding connection to [http://segbot:36339/], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,072: topic[/tf_static] adding connection to [http://segbot:33569/], count 1
+[rospy.internal][INFO] 2023-09-14 16:01:04,158: topic[/Robotiq2FGripperRobotOutput] adding connection to [/robotiq2FGripper], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,159: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,162: topic[/collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 16:01:04,162: topic[/attached_collision_object] adding connection to [/move_group], count 0
+[rospy.core][INFO] 2023-09-14 16:01:28,554: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-14 16:01:28,560: topic[/collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 16:01:28,560: topic[/attached_collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 16:01:28,561: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-14 16:01:28,562: topic[/Robotiq2FGripperRobotOutput] removing connection to /robotiq2FGripper
+[rospy.internal][INFO] 2023-09-14 16:01:28,562: topic[/tf_static] removing connection to http://segbot:36339/
+[rospy.internal][INFO] 2023-09-14 16:01:28,563: topic[/tf_static] removing connection to http://segbot:33569/
+[rospy.internal][INFO] 2023-09-14 16:01:28,563: topic[/tf_static] removing connection to http://segbot:33569/
+[rospy.topics][ERROR] 2023-09-14 16:01:28,564: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 858, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][INFO] 2023-09-14 16:01:28,564: topic[/tf] removing connection to http://segbot:36339/
+[rospy.internal][INFO] 2023-09-14 16:01:28,565: topic[/tf] removing connection to http://segbot:35679/
+[rospy.internal][INFO] 2023-09-14 16:01:28,565: topic[/tf] removing connection to http://segbot:36341/
+[rospy.impl.masterslave][INFO] 2023-09-14 16:01:28,565: signal-2
+[rospy.core][INFO] 2023-09-14 16:01:28,787: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:28,952: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,077: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,200: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,327: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,449: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,571: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,689: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,820: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,940: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:30,065: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,561: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,761: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,931: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:21,861: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:22,053: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:22,223: signal_shutdown [signal-2]

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_mapper/share/bwi_mapper/cmake/bwi_mapperConfig.cmake

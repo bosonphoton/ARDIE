@@ -1,0 +1,6 @@
+bwi_common/stop_base
+/home/chels/catkin_ws/devel/.private/stop_base/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/stop_base/lib/python2.7/dist-packages/stop_base/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/stop_base/__init__.py
+/home/chels/catkin_ws/devel/.private/stop_base/lib/pkgconfig/stop_base.pc /home/chels/catkin_ws/devel/lib/pkgconfig/stop_base.pc
+/home/chels/catkin_ws/devel/.private/stop_base/share/stop_base/cmake/stop_baseConfig-version.cmake /home/chels/catkin_ws/devel/share/stop_base/cmake/stop_baseConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/stop_base/share/stop_base/cmake/stop_baseConfig.cmake /home/chels/catkin_ws/devel/share/stop_base/cmake/stop_baseConfig.cmake

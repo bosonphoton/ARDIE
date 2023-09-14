@@ -1,0 +1,1 @@
+/home/chelsea/catkin_ws/devel/.private/camera1394/include/camera1394/SetCameraRegisters.h

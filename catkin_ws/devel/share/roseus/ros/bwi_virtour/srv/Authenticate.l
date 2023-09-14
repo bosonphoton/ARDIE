@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_virtour/share/roseus/ros/bwi_virtour/srv/Authenticate.l

@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bu_ispc
+
+Name: bu_ispc
+Description: Description of bu_ispc
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

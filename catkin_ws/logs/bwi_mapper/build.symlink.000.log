@@ -1,0 +1,12 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libbwi_mapper.so
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/prepare_graph
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/test_graph
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/generate_graph
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/test_map_loader
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/test_voronoi
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/view_graph
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/test_circle
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_mapper/test_dfs
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_mapper.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_mapper/cmake/bwi_mapperConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_mapper/cmake/bwi_mapperConfig-version.cmake

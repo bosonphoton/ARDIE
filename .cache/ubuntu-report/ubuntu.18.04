@@ -1,0 +1,95 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "Intel Corporation",
+    "Product": "NUC7i7BNH",
+    "Family": "Intel NUC"
+  },
+  "BIOS": {
+    "Vendor": "Intel Corp.",
+    "Version": "BNKBL357.86A.0062.2018.0222.1644"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "9",
+    "Name": "Intel(R) Core(TM) i7-7567U CPU @ 3.50GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "5927"
+    }
+  ],
+  "RAM": 16.3,
+  "Partitions": [
+    28.7,
+    1,
+    196
+  ],
+  "Screens": [
+    {
+      "Size": "256mmx144mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_US",
+  "Timezone": "America/New_York",
+  "Install": {
+    "Media": "Ubuntu 18.04.6 LTS \"Bionic Beaver\" - Release amd64 (20210915)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "10": "console_setup",
+      "12": "wireless",
+      "105": "prepare",
+      "113": "partman",
+      "115": "prepare",
+      "117": "wireless",
+      "175": "console_setup",
+      "177": "prepare",
+      "183": "partman",
+      "210": "partman",
+      "222": "partman",
+      "224": "partman",
+      "227": "partman",
+      "228": "partman",
+      "249": "partman",
+      "262": "partman",
+      "354": "partman",
+      "367": "partman",
+      "368": "partman",
+      "379": "partman",
+      "398": "partman",
+      "408": "partman",
+      "409": "partman",
+      "472": "partman",
+      "482": "timezone",
+      "484": "usersetup",
+      "506": "user_done",
+      "733": "done"
+    }
+  }
+}

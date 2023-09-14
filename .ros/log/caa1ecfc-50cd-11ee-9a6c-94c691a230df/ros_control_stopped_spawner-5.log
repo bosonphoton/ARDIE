@@ -1,0 +1,20 @@
+[rospy.client][INFO] 2023-09-11 14:05:31,990: init_node, name[/ros_control_stopped_spawner], pid[5736]
+[xmlrpc][INFO] 2023-09-11 14:05:31,990: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2023-09-11 14:05:31,991: ROS Slave URI: [http://segbot:44155/]
+[xmlrpc][INFO] 2023-09-11 14:05:31,990: Started XML-RPC server [http://segbot:44155/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:05:31,991: _ready: http://segbot:44155/
+[xmlrpc][INFO] 2023-09-11 14:05:31,991: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:05:31,991: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-11 14:05:32,091: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:05:32,091: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:05:32,093: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:05:32,093: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-11 14:05:32,095: Controller Spawner: Waiting for service controller_manager/load_controller
+[rospy.internal][INFO] 2023-09-11 14:05:32,301: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2023-09-11 14:05:33,001: Controller Spawner: Waiting for service controller_manager/switch_controller
+[rosout][INFO] 2023-09-11 14:05:33,006: Controller Spawner: Waiting for service controller_manager/unload_controller
+[rosout][INFO] 2023-09-11 14:05:33,011: Loading controller: pos_joint_traj_controller
+[rosout][INFO] 2023-09-11 14:05:33,073: Loading controller: joint_group_vel_controller
+[rosout][INFO] 2023-09-11 14:05:33,083: Controller Spawner: Loaded controllers: pos_joint_traj_controller, joint_group_vel_controller
+[rospy.core][INFO] 2023-09-11 14:25:46,659: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-11 14:25:46,660: signal_shutdown [atexit]

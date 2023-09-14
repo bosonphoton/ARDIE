@@ -1,0 +1,6 @@
+bwi_common/bwi_rqt_plugins
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/lib/python2.7/dist-packages/bwi_rqt_plugins/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_rqt_plugins/__init__.py
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/lib/pkgconfig/bwi_rqt_plugins.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_rqt_plugins.pc
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig-version.cmake /home/chels/catkin_ws/devel/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig.cmake /home/chels/catkin_ws/devel/share/bwi_rqt_plugins/cmake/bwi_rqt_pluginsConfig.cmake

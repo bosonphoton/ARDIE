@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/move_robot_gaze/lib/pkgconfig/move_robot_gaze.pc

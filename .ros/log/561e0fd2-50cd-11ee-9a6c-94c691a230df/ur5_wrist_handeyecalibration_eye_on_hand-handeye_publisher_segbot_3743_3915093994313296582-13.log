@@ -1,0 +1,14 @@
+[rospy.client][INFO] 2023-09-11 14:02:17,022: init_node, name[/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_3743_3915093994313296582], pid[3820]
+[xmlrpc][INFO] 2023-09-11 14:02:17,023: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:02:17,023: Started XML-RPC server [http://segbot:43585/]
+[rospy.init][INFO] 2023-09-11 14:02:17,023: ROS Slave URI: [http://segbot:43585/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:02:17,023: _ready: http://segbot:43585/
+[rospy.registration][INFO] 2023-09-11 14:02:17,024: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-11 14:02:17,024: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-11 14:02:17,124: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:02:17,124: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:02:17,126: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:02:17,127: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-11 14:02:17,131: Loading the calibration from file: /home/chels/.ros/easy_handeye/ur5_wrist_handeyecalibration_eye_on_hand.yaml
+[rospy.core][INFO] 2023-09-11 14:02:17,133: signal_shutdown [atexit]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:02:17,134: atexit

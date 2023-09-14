@@ -1,0 +1,3 @@
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_launch.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_launch/cmake/bwi_launchConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_launch/cmake/bwi_launchConfig-version.cmake

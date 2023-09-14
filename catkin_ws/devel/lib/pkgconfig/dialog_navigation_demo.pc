@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialog_navigation_demo/lib/pkgconfig/dialog_navigation_demo.pc

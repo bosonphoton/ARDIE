@@ -1,0 +1,5 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libbwi_logical_translator.so
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_logical_translator/bwi_logical_navigator
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_logical_translator.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig-version.cmake

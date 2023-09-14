@@ -1,0 +1,6 @@
+segway_v3/segway_v3_config
+/home/chels/catkin_ws/devel/.private/segway_v3_config/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segway_v3_config/etc/catkin/profile.d/50.segway_config.bash /home/chels/catkin_ws/devel/etc/catkin/profile.d/50.segway_config.bash
+/home/chels/catkin_ws/devel/.private/segway_v3_config/lib/pkgconfig/segway_v3_config.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segway_v3_config.pc
+/home/chels/catkin_ws/devel/.private/segway_v3_config/share/segway_v3_config/cmake/segway_v3_configConfig-version.cmake /home/chels/catkin_ws/devel/share/segway_v3_config/cmake/segway_v3_configConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/segway_v3_config/share/segway_v3_config/cmake/segway_v3_configConfig.cmake /home/chels/catkin_ws/devel/share/segway_v3_config/cmake/segway_v3_configConfig.cmake

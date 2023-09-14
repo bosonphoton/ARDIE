@@ -1,0 +1,5 @@
+bu_common/bu_ispc
+/home/chels/catkin_ws/devel/.private/bu_ispc/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bu_ispc/lib/pkgconfig/bu_ispc.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bu_ispc.pc
+/home/chels/catkin_ws/devel/.private/bu_ispc/share/bu_ispc/cmake/bu_ispcConfig.cmake /home/chels/catkin_ws/devel/share/bu_ispc/cmake/bu_ispcConfig.cmake
+/home/chels/catkin_ws/devel/.private/bu_ispc/share/bu_ispc/cmake/bu_ispcConfig-version.cmake /home/chels/catkin_ws/devel/share/bu_ispc/cmake/bu_ispcConfig-version.cmake

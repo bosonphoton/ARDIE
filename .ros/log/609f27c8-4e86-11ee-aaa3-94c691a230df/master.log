@@ -1,0 +1,1416 @@
+[rosmaster.main][INFO] 2023-09-08 16:29:16,905: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2023-09-08 16:29:16,905: Starting ROS Master Node
+[xmlrpc][INFO] 2023-09-08 16:29:16,906: XML-RPC server binding to 0.0.0.0:11311
+[xmlrpc][INFO] 2023-09-08 16:29:16,906: Started XML-RPC server [http://segbot:11311/]
+[rosmaster.master][INFO] 2023-09-08 16:29:16,906: Master initialized: port[11311], uri[http://segbot:11311/]
+[xmlrpc][INFO] 2023-09-08 16:29:16,906: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2023-09-08 16:29:16,982: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:16,984: +PARAM [/roslaunch/uris/host_segbot__34295] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,229: +PARAM [/move_group/planner_configs/TRRT/temp_change_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/controller_stopper/consistent_controllers] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_1_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/ur_hardware_interface/kinematics/wrist_1/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/robot_description_planning/joint_limits/shoulder_pan_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/vel_joint_traj_controller/velocity_ff/shoulder_pan_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,230: +PARAM [/move_group/planner_configs/EST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,231: +PARAM [/aruco_tracker/marker_frame] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,231: +PARAM [/move_group/planner_configs/STRIDE/use_projected_distance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,231: +PARAM [/scaled_vel_joint_traj_controller/constraints/shoulder_pan_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,231: +SERVICE [/rosout/get_loggers] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,231: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_pan_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,232: +PARAM [/pose_based_cartesian_traj_controller/base] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,232: +SERVICE [/rosout/set_logger_level] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,232: +PARAM [/move_group/max_safe_path_cost] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,232: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_pan_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,233: +PARAM [/ur_hardware_interface/kinematics/forearm/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,233: +PARAM [/vel_joint_traj_controller/constraints/wrist_3_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,233: +PUB [/rosout_agg] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,233: +PARAM [/ur_hardware_interface/kinematics/wrist_2/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,233: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_pan_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,234: +PARAM [/pos_joint_traj_controller/constraints/shoulder_lift_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,234: +PARAM [/ur_hardware_interface/headless_mode] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,234: +PARAM [/vel_joint_traj_controller/constraints/shoulder_pan_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,234: +PARAM [/move_group/joint_state_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +SUB [/rosout] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/move_group/planner_configs/SPARStwo/max_failures] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/move_group/planner_configs/KPIECE/failed_expansion_score_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/move_group/planner_configs/RRTstar/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/vel_joint_traj_controller/constraints/wrist_1_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/pos_joint_traj_controller/constraints/wrist_3_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/move_group/planner_configs/TRRT/min_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/scaled_vel_joint_traj_controller/gains/elbow_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_lift_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/vel_joint_traj_controller/constraints/wrist_2_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/pos_joint_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_lift_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_lift_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,235: +PARAM [/ur5_wrist_handeyecalibration_eye_on_hand/inverse] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/moveit_sim_hw_interface/joint_model_group] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/planner_configs/BFMT/balanced] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/robot_status_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_3_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/wrist_3_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/speed_scaling_state_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/planner_configs/LazyPRM/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/wrist_3_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/allow_trajectory_execution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/wrist_3_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/planner_configs/KPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/planner_configs/LBTRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/shoulder_pan_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/shoulder_pan_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/pose_based_cartesian_traj_controller/tip] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/pos_joint_traj_controller/constraints/wrist_2_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/vel_joint_traj_controller/gains/shoulder_pan_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/planner_configs/BKPIECE/failed_expansion_score_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,236: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,237: +PARAM [/usb_cam/image_width] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,237: +PARAM [/ur_hardware_interface/kinematics/forearm/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,237: +PARAM [/ur_hardware_interface/kinematics/forearm/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,237: +PARAM [/move_group/planner_configs/SPARStwo/stretch_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,237: +PARAM [/ur_hardware_interface/kinematics/forearm/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/vel_joint_traj_controller/velocity_ff/shoulder_lift_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/scaled_pos_joint_traj_controller/action_monitor_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/vel_joint_traj_controller/gains/wrist_1_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/forward_joint_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/move_group/jiggle_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/move_group/moveit_sim_hw_interface/joint_model_group_pose] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/vel_joint_traj_controller/constraints/wrist_3_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/twist_controller/frame_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/joint_based_cartesian_traj_controller/tip] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/twist_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/move_group/planner_configs/RRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/scaled_vel_joint_traj_controller/action_monitor_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/move_group/planner_configs/PRMstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,238: +PARAM [/move_group/planner_configs/RRTConnect/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/planner_configs/KPIECE/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/planner_configs/TRRT/k_constant] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/ur5_wrist_handeyecalibration_eye_on_hand/robot_effector_frame] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/scaled_vel_joint_traj_controller/constraints/elbow_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/robot_description_kinematics/manipulator/kinematics_solver_timeout] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/scaled_pos_joint_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/planner_configs/FMT/num_samples] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/scaled_vel_joint_traj_controller/gains/elbow_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/scaled_vel_joint_traj_controller/constraints/shoulder_lift_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/planner_configs/LazyPRMstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/max_range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/scaled_vel_joint_traj_controller/gains/elbow_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/planner_configs/LBTRRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,239: +PARAM [/move_group/request_adapters] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/usb_cam/image_height] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/octomap_resolution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planner_configs/RRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/joint_state_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/pos_joint_traj_controller/constraints/wrist_3_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/scaled_pos_joint_traj_controller/constraints/shoulder_lift_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/vel_joint_traj_controller/velocity_ff/wrist_2_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/scaled_pos_joint_traj_controller/stop_trajectory_duration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/joint_group_vel_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/ur_hardware_interface/kinematics/wrist_1/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/ur_hardware_interface/reverse_port] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/use_controller_manager] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/ur5_wrist_handeyecalibration_eye_on_hand/tracking_base_frame] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planner_configs/STRIDE/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/ur_hardware_interface/kinematics/wrist_2/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planner_configs/TRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/vel_joint_traj_controller/gains/shoulder_lift_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planner_configs/STRIDE/estimated_dimension] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,240: +PARAM [/move_group/planner_configs/RRTstar/delay_collision_checking] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/wrist_3/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/scaled_pos_joint_traj_controller/constraints/shoulder_lift_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/joint_group_vel_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/wrist_3/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/move_group/planner_configs/EST/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/robot_description_semantic] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/forearm/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/vel_joint_traj_controller/constraints/shoulder_lift_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/pos_joint_traj_controller/constraints/stopped_velocity_tolerance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/shoulder/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/shoulder/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/shoulder/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/move_group/planner_configs/TRRT/init_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur5_wrist_handeyecalibration_eye_on_hand/calibration_file] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/wrist_2_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/upper_arm/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/vel_joint_traj_controller/gains/wrist_2_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/ur_hardware_interface/kinematics/upper_arm/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/vel_joint_traj_controller/gains/wrist_2_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,241: +PARAM [/scaled_vel_joint_traj_controller/constraints/shoulder_pan_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/vel_joint_traj_controller/constraints/elbow_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/vel_joint_traj_controller/gains/shoulder_pan_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/vel_joint_traj_controller/gains/elbow_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/vel_joint_traj_controller/gains/wrist_2_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/robot_description_planning/joint_limits/shoulder_lift_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/move_group/planner_configs/LBKPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/image_view/autosize] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/usb_cam/camera_frame_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/joint_based_cartesian_traj_controller/base] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/ur_hardware_interface/kinematics/wrist_2/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/move_group/planner_configs/SBL/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/move_group/planner_configs/BFMT/radius_multiplier] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/move_group/planner_configs/BiTRRT/frountier_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/move_group/planner_configs/BiTRRT/temp_change_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/ur_hardware_interface/kinematics/wrist_1/x] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/ur_hardware_interface/kinematics/wrist_1/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/ur_hardware_interface/kinematics/wrist_1/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/ur_hardware_interface/tool_baud_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,242: +PARAM [/force_torque_sensor_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/move_group/planner_configs/BKPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/vel_joint_traj_controller/velocity_ff/wrist_3_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/robot_description_planning/joint_limits/wrist_2_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/move_group/planner_configs/SPARStwo/sparse_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/ur5_wrist_handeyecalibration_eye_on_hand/eye_on_hand] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/pos_joint_traj_controller/constraints/elbow_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/vel_joint_traj_controller/gains/shoulder_lift_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_vel_joint_traj_controller/constraints/shoulder_lift_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_1_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/move_group/planner_configs/LBTRRT/epsilon] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_1_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_1_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_1_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/vel_joint_traj_controller/gains/shoulder_lift_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/scaled_vel_joint_traj_controller/constraints/stopped_velocity_tolerance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/move_group/planner_configs/BFMT/optimality] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/vel_joint_traj_controller/gains/shoulder_lift_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,243: +PARAM [/move_group/planner_configs/BKPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/robot_description_kinematics/manipulator/kinematics_solver_attempts] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/force_torque_sensor_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/joint_based_cartesian_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/aruco_tracker/marker_size] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/move_group/planner_configs/ProjEST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/vel_joint_traj_controller/constraints/shoulder_pan_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/move_group/planner_configs/RRTConnect/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/robot_description_planning/joint_limits/wrist_2_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/forward_cartesian_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_lift_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/move_group/trajectory_execution/execution_duration_monitoring] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/move_group/planner_configs/TRRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/vel_joint_traj_controller/gains/elbow_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_3_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/robot_description_planning/joint_limits/shoulder_lift_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/ur_hardware_interface/servoj_lookahead_time] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/vel_joint_traj_controller/gains/elbow_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,244: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_3_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/planner_configs/PRM/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/vel_joint_traj_controller/constraints/wrist_1_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/vel_joint_traj_controller/gains/elbow_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_3_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/usb_cam/pixel_format] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/ur_hardware_interface/script_file] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/capabilities] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/vel_joint_traj_controller/gains/wrist_1_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/vel_joint_traj_controller/gains/wrist_1_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/ur_hardware_interface/kinematics/wrist_2/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/ur_hardware_interface/kinematics/shoulder/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/planner_configs/BiTRRT/init_temperature] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/vel_joint_traj_controller/gains/wrist_1_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/planner_configs/BFMT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/usb_cam/io_method] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/robot_description_planning/joint_limits/wrist_1_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/planner_configs/SPARS/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/ur_hardware_interface/kinematics/wrist_3/z] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/ur_hardware_interface/tool_parity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,245: +PARAM [/move_group/planner_configs/BFMT/extended_fmt] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/ur_hardware_interface/kinematics/wrist_3/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/ur_hardware_interface/robot_ip] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/move_group/planner_configs/KPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/robot_description_planning/joint_limits/wrist_2_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/vel_joint_traj_controller/constraints/stopped_velocity_tolerance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/robot_status_controller/handle_name] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/vel_joint_traj_controller/velocity_ff/elbow_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/pos_joint_traj_controller/state_publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/move_group/planner_configs/RRTstar/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/vel_joint_traj_controller/velocity_ff/wrist_1_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/robot_description_planning/joint_limits/shoulder_lift_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/joint_based_cartesian_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/robot_status_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_3_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/ur_hardware_interface/kinematics/wrist_3/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/wrist_1_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/hardware_control_loop/loop_hz] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/pose_based_cartesian_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,246: +PARAM [/aruco_tracker/reference_frame] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/planner_configs/TRRT/frountierNodeRatio] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/joint_state_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_3_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/hardware_interface/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/ur_hardware_interface/script_sender_port] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/ur_hardware_interface/kinematics/upper_arm/yaw] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/ur_hardware_interface/tool_stop_bits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/pose_based_cartesian_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/elbow_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/ur_hardware_interface/servoj_gain] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/pos_joint_traj_controller/constraints/elbow_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/scaled_pos_joint_traj_controller/state_publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/planner_configs/BiEST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/vel_joint_traj_controller/action_monitor_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/planner_configs/BiTRRT/cost_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/move_group/planner_configs/EST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/vel_joint_traj_controller/constraints/goal_time] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/vel_joint_traj_controller/gains/wrist_3_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,247: +PARAM [/vel_joint_traj_controller/constraints/shoulder_lift_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/robot_description_planning/joint_limits/shoulder_pan_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/vel_joint_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/pos_joint_traj_controller/constraints/goal_time] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/shoulder_pan_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/planner_configs/SPARS/max_failures] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/twist_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/planner_configs/BKPIECE/border_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/moveit_controller_manager] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/ur_hardware_interface/input_recipe_file] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/shoulder_lift_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_1_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/scaled_vel_joint_traj_controller/gains/elbow_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/ur_hardware_interface/kinematics/wrist_1/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/planner_configs/KPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/ur_hardware_interface/kinematics/forearm/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/planner_configs/BFMT/num_samples] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/robot_description_planning/joint_limits/wrist_3_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/planner_configs/BiTRRT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/move_group/start_state_max_bounds_error] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,248: +PARAM [/ur_hardware_interface/use_tool_communication] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/vel_joint_traj_controller/stop_trajectory_duration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/SPARStwo/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/usb_cam/video_device] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/TRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/RRTstar/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/moveit_manage_controllers] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_2_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/robot_description_kinematics/manipulator/kinematics_solver_search_resolution] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/scaled_pos_joint_traj_controller/constraints/elbow_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/ur_hardware_interface/output_recipe_file] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_2_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/FMT/radius_multiplier] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/ur_hardware_interface/kinematics/shoulder/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/scaled_vel_joint_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/robot_description_planning/joint_limits/shoulder_pan_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/SPARS/sparse_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/robot_description] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/pos_joint_traj_controller/constraints/shoulder_pan_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,249: +PARAM [/move_group/planner_configs/BKPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/scaled_pos_joint_traj_controller/constraints/stopped_velocity_tolerance] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/aruco_tracker/image_is_rectified] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/planner_configs/LBKPIECE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/robot_description_planning/joint_limits/wrist_1_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/pos_joint_traj_controller/constraints/wrist_1_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/vel_joint_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/planner_configs/FMT/extended_fmt] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_3_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/planner_configs/FMT/cache_cc] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_2_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/scaled_vel_joint_traj_controller/state_publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/planner_configs/ProjEST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/generic_hw_control_loop/cycle_time_error_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/ur_hardware_interface/kinematics/upper_arm/y] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/ur_hardware_interface/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/move_group/planner_configs/LBTRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,250: +PARAM [/robot_description_planning/joint_limits/elbow_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/robot_description_kinematics/manipulator/kinematics_solver] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/planner_configs/SBL/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/aruco_tracker/marker_id] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/ur_hardware_interface/trajectory_port] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/planner_configs/PRM/max_nearest_neighbors] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_1_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/planner_configs/STRIDE/degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/planner_configs/SPARS/dense_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/planner_configs/STRIDE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/ur_hardware_interface/kinematics/upper_arm/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/move_group/controller_list] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,251: +PARAM [/pos_joint_traj_controller/action_monitor_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/TRRT/frountier_threshold] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/BFMT/cache_cc] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_2_joint/p] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/robot_description_planning/joint_limits/shoulder_pan_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/STRIDE/max_degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_2_joint/i] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/FMT/heuristics] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/scaled_pos_joint_traj_controller/constraints/shoulder_pan_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_2_joint/d] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/scaled_vel_joint_traj_controller/stop_trajectory_duration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/FMT/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/pos_joint_traj_controller/constraints/shoulder_pan_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/move_group/planner_configs/LazyPRM/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/speed_scaling_state_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/pos_joint_traj_controller/constraints/shoulder_lift_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/ur_hardware_interface/tool_voltage] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,252: +PARAM [/forward_cartesian_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/STRIDE/max_pts_per_leaf] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/BFMT/nearest_k] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/vel_joint_traj_controller/state_publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/BFMT/heuristics] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/STRIDE/min_degree] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/ur_hardware_interface/kinematics/wrist_3/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/STRIDE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planning_plugin] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/forward_joint_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/robot_description_planning/joint_limits/wrist_1_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/scaled_vel_joint_traj_controller/velocity_ff/wrist_3_joint] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/ur_hardware_interface/kinematics/upper_arm/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/TRRT/max_states_failed] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/robot_description_planning/joint_limits/wrist_3_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/PDST/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/twist_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/usb_cam/autofocus] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/ur_hardware_interface/reverse_ip] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,253: +PARAM [/move_group/planner_configs/SPARStwo/dense_delta_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/robot_description_planning/joint_limits/wrist_1_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/move_group/planner_configs/FMT/nearest_k] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/move_group/disable_capabilities] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/robot_description_planning/joint_limits/shoulder_lift_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/robot_description_planning/joint_limits/wrist_3_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_2_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/vel_joint_traj_controller/constraints/wrist_2_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/ur_hardware_interface/tool_rx_idle_chars] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/vel_joint_traj_controller/gains/wrist_2_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/ur_hardware_interface/tf_prefix] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/move_group/planner_configs/LBKPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/scaled_vel_joint_traj_controller/constraints/wrist_2_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/robot_description_planning/joint_limits/elbow_joint/max_velocity] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,254: +PARAM [/ur_hardware_interface/tool_tx_idle_chars] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_pos_joint_traj_controller/constraints/elbow_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_vel_joint_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/ur_hardware_interface/kinematics/wrist_2/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/move_group/endeffector/planner_configs] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/robot_description_planning/joint_limits/elbow_joint/max_acceleration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/robot_description_planning/joint_limits/wrist_3_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_pos_joint_traj_controller/constraints/goal_time] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_vel_joint_traj_controller/constraints/goal_time] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/pos_joint_traj_controller/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/move_group/planner_configs/LBKPIECE/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_vel_joint_traj_controller/gains/wrist_1_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/scaled_vel_joint_traj_controller/gains/shoulder_pan_joint/i_clamp] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/ur_hardware_interface/kinematics/shoulder/pitch] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,255: +PARAM [/pos_joint_traj_controller/stop_trajectory_duration] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/aruco_tracker/camera_frame] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/scaled_vel_joint_traj_controller/constraints/elbow_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/generic_hw_control_loop/loop_hz] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/pos_joint_traj_controller/constraints/wrist_1_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/ProjEST/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/pos_joint_traj_controller/constraints/wrist_2_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/ur_hardware_interface/kinematics/wrist_2/roll] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/STRIDE/type] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/BiEST/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/BiTRRT/frountier_node_ratio] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/SPARS/stretch_factor] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/BiTRRT/range] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/manipulator/planner_configs] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/ur_hardware_interface/kinematics/hash] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/hardware_interface/sim_control_mode] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/vel_joint_traj_controller/constraints/elbow_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/scaled_pos_joint_traj_controller/joints] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/KPIECE/min_valid_path_fraction] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/move_group/planner_configs/RRT/goal_bias] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,256: +PARAM [/robot_description_planning/joint_limits/wrist_2_joint/has_acceleration_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,257: +PARAM [/joint_state_controller/publish_rate] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,257: +PARAM [/scaled_pos_joint_traj_controller/constraints/wrist_3_joint/trajectory] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,257: +PARAM [/scaled_pos_joint_traj_controller/constraints/shoulder_pan_joint/goal] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,257: +PARAM [/robot_description_planning/joint_limits/elbow_joint/has_velocity_limits] by /roslaunch
+[rosmaster.master][INFO] 2023-09-08 16:29:17,320: +PUB [/rosout] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,320: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,322: +SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,322: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,323: +SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,335: +PUB [/rosout] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,336: +SERVICE [/ur_hardware_interface/get_loggers] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,337: +SERVICE [/ur_hardware_interface/set_logger_level] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,344: +PUB [/tf] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,346: +PUB [/rosout] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,347: +PUB [/tf_static] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,348: +SERVICE [/controller_stopper/get_loggers] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,351: +SERVICE [/controller_stopper/set_logger_level] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,360: +SUB [/ur_hardware_interface/robot_program_running] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,363: +SUB [/joint_states] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,363: +CACHEDPARAM [/rosout_disable_topics_generation] by /controller_stopper
+[rosmaster.master][INFO] 2023-09-08 16:29:17,364: +PUB [/rosout] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,366: +SERVICE [/ur_hardware_interface/ur_robot_state_helper/get_loggers] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,368: +SERVICE [/ur_hardware_interface/ur_robot_state_helper/set_logger_level] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,373: +PUB [/ur_hardware_interface/robot_program_running] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,373: +SUB [/ur_hardware_interface/robot_mode] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,377: +CACHEDPARAM [/rosout_disable_topics_generation] by /ur_hardware_interface
+[rosmaster.master][INFO] 2023-09-08 16:29:17,378: +SUB [/ur_hardware_interface/safety_mode] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,379: +CACHEDPARAM [/rosout_disable_topics_generation] by /ur_hardware_interface/ur_robot_state_helper
+[rosmaster.master][INFO] 2023-09-08 16:29:17,383: +SERVICE [/ur_hardware_interface/dashboard/brake_release] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,384: +SERVICE [/ur_hardware_interface/dashboard/clear_operational_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,384: +SERVICE [/ur_hardware_interface/dashboard/close_popup] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,385: +SERVICE [/ur_hardware_interface/dashboard/close_safety_popup] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,386: +SERVICE [/ur_hardware_interface/dashboard/pause] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,386: +SERVICE [/ur_hardware_interface/dashboard/play] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,387: +SERVICE [/ur_hardware_interface/dashboard/power_off] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,388: +SERVICE [/ur_hardware_interface/dashboard/power_on] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,389: +SERVICE [/ur_hardware_interface/dashboard/restart_safety] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,390: +SERVICE [/ur_hardware_interface/dashboard/shutdown] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,391: +SERVICE [/ur_hardware_interface/dashboard/stop] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,392: +SERVICE [/ur_hardware_interface/dashboard/unlock_protective_stop] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,406: +SERVICE [/ur_hardware_interface/dashboard/program_running] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,408: +SERVICE [/ur_hardware_interface/dashboard/get_loaded_program] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,420: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,423: publisherUpdate[/ur_hardware_interface/robot_program_running] -> http://segbot:34187/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,423: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,423: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,424: publisherUpdate[/ur_hardware_interface/robot_program_running] -> http://segbot:34187/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,428: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,428: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,430: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,430: +SERVICE [/ur_hardware_interface/dashboard/load_installation] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,435: +SERVICE [/ur_hardware_interface/dashboard/load_program] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,438: +SERVICE [/ur_hardware_interface/dashboard/program_saved] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,438: +SERVICE [/ur_hardware_interface/dashboard/popup] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,439: +SERVICE [/ur_hardware_interface/dashboard/program_state] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,443: +SERVICE [/ur_hardware_interface/dashboard/get_safety_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,445: +SERVICE [/ur_hardware_interface/dashboard/get_robot_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,449: +SERVICE [/ur_hardware_interface/dashboard/add_to_log] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,451: +SERVICE [/ur_hardware_interface/dashboard/raw_request] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,453: +SERVICE [/ur_hardware_interface/dashboard/connect] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,455: +SERVICE [/ur_hardware_interface/dashboard/quit] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,469: +PUB [/rosout] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,472: +SERVICE [/usb_cam/get_loggers] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,475: +SERVICE [/usb_cam/set_logger_level] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,523: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,528: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,535: +PUB [/rosout] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,536: +SERVICE [/move_group/get_loggers] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,538: +SERVICE [/move_group/set_logger_level] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,545: +SUB [/tf] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,547: +SUB [/tf_static] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,553: +CACHEDPARAM [/rosout_disable_topics_generation] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,569: +PUB [/rosout] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,570: +SERVICE [/image_view/get_loggers] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,570: +SERVICE [/image_view/set_logger_level] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,573: +CACHEDPARAM [/rosout_disable_topics_generation] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,574: +SERVICE [/image_view/load_nodelet] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,574: +SERVICE [/image_view/unload_nodelet] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,576: +SERVICE [/image_view/list] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,624: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,625: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,625: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,626: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,728: +PUB [/rosout] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,728: +CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.master][INFO] 2023-09-08 16:29:17,729: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,730: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,731: +SERVICE [/aruco_tracker/get_loggers] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,732: +SERVICE [/aruco_tracker/set_logger_level] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,789: +PUB [/usb_cam/image_raw/compressedDepth] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,790: +SERVICE [/usb_cam/image_raw/compressedDepth/set_parameters] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,790: +PUB [/usb_cam/image_raw/compressedDepth/parameter_descriptions] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,791: +PUB [/usb_cam/image_raw/compressedDepth/parameter_updates] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,797: +PARAM [/usb_cam/image_raw/compressedDepth/depth_max] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,798: +PARAM [/usb_cam/image_raw/compressedDepth/depth_quantization] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,798: +PARAM [/usb_cam/image_raw/compressedDepth/png_level] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,798: +PARAM [/usb_cam/image_raw/compressedDepth/depth_max] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,799: +PARAM [/usb_cam/image_raw/compressedDepth/depth_quantization] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,799: +PARAM [/usb_cam/image_raw/compressedDepth/png_level] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,804: +PUB [/usb_cam/image_raw/compressed] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,806: +SERVICE [/usb_cam/image_raw/compressed/set_parameters] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,807: +PUB [/usb_cam/image_raw/compressed/parameter_descriptions] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,808: +PUB [/usb_cam/image_raw/compressed/parameter_updates] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,810: +PARAM [/usb_cam/image_raw/compressed/format] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,810: +PARAM [/usb_cam/image_raw/compressed/jpeg_quality] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,811: +PARAM [/usb_cam/image_raw/compressed/png_level] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,812: +PARAM [/usb_cam/image_raw/compressed/format] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,812: +PARAM [/usb_cam/image_raw/compressed/jpeg_quality] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,813: +PARAM [/usb_cam/image_raw/compressed/png_level] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,816: +PUB [/usb_cam/image_raw] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,821: +PUB [/usb_cam/image_raw/theora] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,822: +SERVICE [/usb_cam/image_raw/theora/set_parameters] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,822: +PUB [/usb_cam/image_raw/theora/parameter_descriptions] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,823: +PUB [/usb_cam/image_raw/theora/parameter_updates] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,824: +PARAM [/usb_cam/image_raw/theora/optimize_for] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,825: +PARAM [/usb_cam/image_raw/theora/target_bitrate] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,825: +PARAM [/usb_cam/image_raw/theora/quality] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,825: +PARAM [/usb_cam/image_raw/theora/keyframe_frequency] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,826: +PARAM [/usb_cam/image_raw/theora/optimize_for] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,826: +PARAM [/usb_cam/image_raw/theora/target_bitrate] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,827: +PARAM [/usb_cam/image_raw/theora/quality] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,827: +PARAM [/usb_cam/image_raw/theora/keyframe_frequency] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,828: +PUB [/usb_cam/camera_info] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,849: +SERVICE [/usb_cam/set_camera_info] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,850: +SERVICE [/usb_cam/start_capture] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,850: +SERVICE [/usb_cam/stop_capture] /usb_cam http://segbot:37441/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,853: +CACHEDPARAM [/rosout_disable_topics_generation] by /usb_cam
+[rosmaster.master][INFO] 2023-09-08 16:29:17,855: +PUB [/rosout] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,856: +SERVICE [/move_group/planning_scene_monitor/set_parameters] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,858: +SERVICE [/rviz_segbot_2907_2334087272911079059/get_loggers] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,859: +PUB [/move_group/planning_scene_monitor/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,863: +PUB [/move_group/planning_scene_monitor/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,865: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,867: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene_hz] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,867: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,868: +SERVICE [/rviz_segbot_2907_2334087272911079059/set_logger_level] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,868: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,869: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,869: +CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:17,869: +PUB [/move_group/monitored_planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,870: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,871: +PARAM [/move_group/planning_scene_monitor/publish_planning_scene_hz] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,872: +PARAM [/move_group/planning_scene_monitor/publish_geometry_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,872: +PARAM [/move_group/planning_scene_monitor/publish_state_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,872: +PARAM [/move_group/planning_scene_monitor/publish_transforms_updates] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:17,875: +SUB [/planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,880: +SUB [/collision_object] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,881: +SUB [/tf] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,883: +SERVICE [/image_view/set_parameters] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,884: +PUB [/image_view/parameter_descriptions] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,885: +PUB [/image_view/parameter_updates] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,886: +SUB [/planning_scene_world] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,888: +SUB [/tf_static] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,889: +PARAM [/image_view/do_dynamic_scaling] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,889: +SERVICE [/aruco_tracker/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,890: +PARAM [/image_view/colormap] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,890: +SERVICE [/move_group/save_map] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,891: +PUB [/aruco_tracker/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,891: +PARAM [/image_view/min_image_value] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,892: +PARAM [/image_view/max_image_value] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,892: +SERVICE [/move_group/load_map] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,892: +PUB [/aruco_tracker/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,894: +PARAM [/aruco_tracker/min_image_size] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,894: +PARAM [/aruco_tracker/normalizeImage] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,894: +PARAM [/aruco_tracker/dctComponentsToRemove] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,895: +PARAM [/aruco_tracker/degree] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,895: +PARAM [/aruco_tracker/detection_mode] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,896: +CACHEDPARAM [/rosout_disable_topics_generation] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,908: +SUB [/joint_states] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,909: +PUB [/rosout] /ros_control_controller_spawner http://segbot:34523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,911: +PUB [/rosout] /ros_control_stopped_spawner http://segbot:43149/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,913: +SERVICE [/ros_control_controller_spawner/get_loggers] /ros_control_controller_spawner http://segbot:34523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,914: +SERVICE [/ros_control_controller_spawner/set_logger_level] /ros_control_controller_spawner http://segbot:34523/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,915: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:17,919: +SUB [/attached_collision_object] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,921: +SUB [/aruco_tracker/result] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,926: +PUB [/image_view/output] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,926: +SERVICE [/ros_control_stopped_spawner/get_loggers] /ros_control_stopped_spawner http://segbot:43149/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,927: +PARAM [/image_view/do_dynamic_scaling] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,929: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,930: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,930: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,932: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,932: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:17,933: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:17,934: +PARAM [/image_view/colormap] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,935: +PARAM [/image_view/min_image_value] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,937: +PARAM [/image_view/max_image_value] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:17,938: +SUB [/usb_cam/image_raw] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,939: +SERVICE [/ros_control_stopped_spawner/set_logger_level] /ros_control_stopped_spawner http://segbot:43149/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,940: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:17,948: +SUB [/usb_cam/camera_info] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,952: +PUB [/aruco_tracker/result/compressedDepth] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,953: +SERVICE [/aruco_tracker/result/compressedDepth/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,955: +PUB [/aruco_tracker/result/compressedDepth/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,956: +PUB [/aruco_tracker/result/compressedDepth/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,957: +PARAM [/aruco_tracker/result/compressedDepth/depth_max] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,960: +PARAM [/aruco_tracker/result/compressedDepth/depth_quantization] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,963: +PARAM [/aruco_tracker/result/compressedDepth/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,963: +PARAM [/aruco_tracker/result/compressedDepth/depth_max] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,964: +PARAM [/aruco_tracker/result/compressedDepth/depth_quantization] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,965: +PARAM [/aruco_tracker/result/compressedDepth/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,971: +PUB [/aruco_tracker/result/compressed] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,971: +SERVICE [/aruco_tracker/result/compressed/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,972: +PUB [/aruco_tracker/result/compressed/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,972: +PUB [/aruco_tracker/result/compressed/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,976: +PARAM [/aruco_tracker/result/compressed/format] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,978: +PARAM [/aruco_tracker/result/compressed/jpeg_quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,979: +PARAM [/aruco_tracker/result/compressed/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,979: +PARAM [/aruco_tracker/result/compressed/format] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,979: +PARAM [/aruco_tracker/result/compressed/jpeg_quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,983: +PARAM [/aruco_tracker/result/compressed/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,984: +PUB [/aruco_tracker/result] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,988: +PUB [/aruco_tracker/result/theora] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,989: +SERVICE [/aruco_tracker/result/theora/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,990: +PUB [/aruco_tracker/result/theora/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,991: +PUB [/aruco_tracker/result/theora/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,994: +PARAM [/aruco_tracker/result/theora/optimize_for] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,994: +PARAM [/aruco_tracker/result/theora/target_bitrate] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,995: +PARAM [/aruco_tracker/result/theora/quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,995: +PARAM [/aruco_tracker/result/theora/keyframe_frequency] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,995: +PARAM [/aruco_tracker/result/theora/optimize_for] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,996: +PARAM [/aruco_tracker/result/theora/target_bitrate] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,996: +PARAM [/aruco_tracker/result/theora/quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,997: +PARAM [/aruco_tracker/result/theora/keyframe_frequency] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:17,997: +PUB [/aruco_tracker/debug/compressedDepth] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,998: +SERVICE [/aruco_tracker/debug/compressedDepth/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:17,998: +PUB [/aruco_tracker/debug/compressedDepth/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,000: +PUB [/aruco_tracker/debug/compressedDepth/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,001: +PARAM [/aruco_tracker/debug/compressedDepth/depth_max] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,002: +PARAM [/aruco_tracker/debug/compressedDepth/depth_quantization] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,002: +PARAM [/aruco_tracker/debug/compressedDepth/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,002: +PARAM [/aruco_tracker/debug/compressedDepth/depth_max] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,007: +PARAM [/aruco_tracker/debug/compressedDepth/depth_quantization] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,008: +PARAM [/aruco_tracker/debug/compressedDepth/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,009: +PUB [/aruco_tracker/debug/compressed] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,011: +SERVICE [/aruco_tracker/debug/compressed/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,012: +PUB [/aruco_tracker/debug/compressed/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,014: +PUB [/aruco_tracker/debug/compressed/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,015: +PARAM [/aruco_tracker/debug/compressed/format] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,016: +PARAM [/aruco_tracker/debug/compressed/jpeg_quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,018: +PARAM [/aruco_tracker/debug/compressed/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,018: +PARAM [/aruco_tracker/debug/compressed/format] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,022: +PARAM [/aruco_tracker/debug/compressed/jpeg_quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,024: +PARAM [/aruco_tracker/debug/compressed/png_level] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,025: +PUB [/aruco_tracker/debug] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,025: +PUB [/aruco_tracker/debug/theora] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,027: +SERVICE [/aruco_tracker/debug/theora/set_parameters] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,027: +PUB [/aruco_tracker/debug/theora/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,029: +PUB [/aruco_tracker/debug/theora/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,030: +PARAM [/aruco_tracker/debug/theora/optimize_for] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,031: +PARAM [/aruco_tracker/debug/theora/target_bitrate] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,031: +PARAM [/aruco_tracker/debug/theora/quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,032: +PARAM [/aruco_tracker/debug/theora/keyframe_frequency] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,034: publisherUpdate[/aruco_tracker/result] -> http://segbot:45019/ ['http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,036: publisherUpdate[/aruco_tracker/result] -> http://segbot:45019/ ['http://segbot:46239/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,039: +PARAM [/aruco_tracker/debug/theora/optimize_for] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,040: +PARAM [/aruco_tracker/debug/theora/target_bitrate] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,042: +PARAM [/aruco_tracker/debug/theora/quality] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,043: +PARAM [/aruco_tracker/debug/theora/keyframe_frequency] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,044: +PUB [/aruco_tracker/pose] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,045: +PUB [/aruco_tracker/transform] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,046: +PUB [/aruco_tracker/position] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,047: +PUB [/aruco_tracker/marker] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,048: +PUB [/aruco_tracker/pixel] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,055: +PARAM [/aruco_tracker/min_image_size] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,055: +PARAM [/aruco_tracker/normalizeImage] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,056: +PARAM [/aruco_tracker/dctComponentsToRemove] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,056: +PARAM [/aruco_tracker/degree] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,056: +PARAM [/aruco_tracker/detection_mode] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:18,059: +SERVICE [/move_group/ompl/set_parameters] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,059: +PUB [/move_group/ompl/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,060: +PUB [/move_group/ompl/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,061: +PARAM [/move_group/ompl/simplify_solutions] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,062: +PARAM [/move_group/ompl/minimum_waypoint_count] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,062: +PARAM [/move_group/ompl/maximum_waypoint_distance] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,063: +PARAM [/move_group/ompl/link_for_exploration_tree] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,063: +PARAM [/move_group/ompl/display_random_valid_states] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,064: +PARAM [/move_group/ompl/simplify_solutions] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,065: +PARAM [/move_group/ompl/minimum_waypoint_count] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,069: +PARAM [/move_group/ompl/maximum_waypoint_distance] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,069: +PARAM [/move_group/ompl/link_for_exploration_tree] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,070: +PARAM [/move_group/ompl/display_random_valid_states] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:18,080: +PUB [/move_group/display_planned_path] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,080: +PUB [/move_group/display_contacts] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,092: +SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,094: +SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,096: +SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,097: +PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,097: +PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,299: +SUB [/tf] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,302: +SUB [/tf_static] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,362: +PUB [/initialpose] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,364: +PUB [/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,468: +PUB [/planning_scene] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,468: +PUB [/planning_scene_world] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,470: +SUB [/recognize_objects/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,471: +SUB [/recognize_objects/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,472: +SUB [/recognize_objects/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,473: +PUB [/recognize_objects/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,473: +PUB [/recognize_objects/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,474: +SUB [/recognized_object_array] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,535: publisherUpdate[/planning_scene] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,536: publisherUpdate[/planning_scene] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,536: publisherUpdate[/planning_scene_world] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,538: publisherUpdate[/planning_scene_world] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,550: +PUB [/rosout] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 http://segbot:37365/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,553: +SERVICE [/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939/get_loggers] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 http://segbot:37365/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,555: +SERVICE [/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939/set_logger_level] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 http://segbot:37365/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,558: +CACHEDPARAM [/rosout_disable_topics_generation] by /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939
+[rosmaster.master][INFO] 2023-09-08 16:29:18,561: -PUB [/rosout] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 http://segbot:37365/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,562: -SERVICE [/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939/get_loggers] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 rosrpc://segbot:45337
+[rosmaster.master][INFO] 2023-09-08 16:29:18,563: -SERVICE [/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939/set_logger_level] /ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_2907_4627559642695019939 rosrpc://segbot:45337
+[rosmaster.master][INFO] 2023-09-08 16:29:18,635: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/', 'http://segbot:37365/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,636: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/', 'http://segbot:37365/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,637: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,638: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:43405/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,910: +SUB [/ur_hardware_interface/script_command] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,912: +PUB [/tf] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,913: +PUB [/ur_hardware_interface/io_states] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,914: +PUB [/ur_hardware_interface/tool_data] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,915: +PUB [/ur_hardware_interface/robot_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,916: +PUB [/ur_hardware_interface/safety_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,917: +SERVICE [/ur_hardware_interface/set_speed_slider] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,919: +SERVICE [/ur_hardware_interface/set_io] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,920: +SERVICE [/ur_hardware_interface/hand_back_control] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,921: +SERVICE [/ur_hardware_interface/zero_ftsensor] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,923: +SERVICE [/ur_hardware_interface/set_payload] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:18,938: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,939: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,939: publisherUpdate[/tf] -> http://segbot:43405/ ['http://segbot:38271/', 'http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,941: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,942: publisherUpdate[/ur_hardware_interface/robot_mode] -> http://segbot:43523/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,943: publisherUpdate[/tf] -> http://segbot:43405/ ['http://segbot:38271/', 'http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,943: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,945: publisherUpdate[/ur_hardware_interface/robot_mode] -> http://segbot:43523/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:18,946: publisherUpdate[/ur_hardware_interface/safety_mode] -> http://segbot:43523/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:18,947: publisherUpdate[/ur_hardware_interface/safety_mode] -> http://segbot:43523/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,022: -SUB [/usb_cam/camera_info] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,023: +PUB [/tf] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,025: +SERVICE [/controller_manager/list_controllers] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,025: +SERVICE [/controller_manager/list_controller_types] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,026: +SERVICE [/controller_manager/load_controller] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,026: +SERVICE [/controller_manager/unload_controller] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,026: +SERVICE [/controller_manager/switch_controller] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,027: +SERVICE [/controller_manager/reload_controller_libraries] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,044: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,045: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,045: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,046: publisherUpdate[/tf] -> http://segbot:43405/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,046: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,047: publisherUpdate[/tf] -> http://segbot:43405/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:46239/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,141: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,143: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,145: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,149: +PUB [/ur_hardware_interface/set_mode/result] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,149: +PUB [/ur_hardware_interface/set_mode/feedback] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,150: +PUB [/joint_states] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,151: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,152: +PUB [/ur_hardware_interface/set_mode/status] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,155: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,155: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,159: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,159: +SUB [/ur_hardware_interface/set_mode/goal] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,162: +SUB [/ur_hardware_interface/set_mode/cancel] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,176: +SUB [/scaled_pos_joint_traj_controller/command] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,176: +PUB [/scaled_pos_joint_traj_controller/state] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,178: +PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/result] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,179: +PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/feedback] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,179: +PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/status] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,182: +SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/goal] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,184: +SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/cancel] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,184: +SERVICE [/scaled_pos_joint_traj_controller/query_state] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,186: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,212: +SUB [/pos_joint_traj_controller/command] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,213: +PUB [/pos_joint_traj_controller/state] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,214: +PUB [/pos_joint_traj_controller/follow_joint_trajectory/result] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,215: +PUB [/pos_joint_traj_controller/follow_joint_trajectory/feedback] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,216: +PUB [/pos_joint_traj_controller/follow_joint_trajectory/status] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,219: +SUB [/pos_joint_traj_controller/follow_joint_trajectory/goal] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,222: +SUB [/pos_joint_traj_controller/follow_joint_trajectory/cancel] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,222: +SERVICE [/pos_joint_traj_controller/query_state] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,230: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,233: +PUB [/speed_scaling_factor] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,235: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,246: publisherUpdate[/joint_states] -> http://segbot:38271/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,247: publisherUpdate[/joint_states] -> http://segbot:44917/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,248: +SUB [/joint_group_vel_controller/command] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,249: publisherUpdate[/joint_states] -> http://segbot:44917/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,249: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/result] -> http://segbot:44917/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,249: publisherUpdate[/joint_states] -> http://segbot:38271/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,249: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/result] -> http://segbot:44917/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,250: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/feedback] -> http://segbot:44917/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,250: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_stopped_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,251: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/feedback] -> http://segbot:44917/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,251: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/status] -> http://segbot:44917/ ['http://segbot:42607/']
+[rosmaster.master][INFO] 2023-09-08 16:29:19,251: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/status] -> http://segbot:44917/ ['http://segbot:42607/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:19,254: +PUB [/wrench] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,258: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,264: +CACHEDPARAM [/rosout_disable_topics_generation] by /ros_control_controller_spawner
+[rosmaster.master][INFO] 2023-09-08 16:29:19,455: +SUB [/trajectory_execution_event] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,455: +SERVICE [/move_group/trajectory_execution/set_parameters] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,456: +PUB [/move_group/trajectory_execution/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,457: +PUB [/move_group/trajectory_execution/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,459: +PARAM [/move_group/trajectory_execution/execution_duration_monitoring] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,460: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,460: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,461: +PARAM [/move_group/trajectory_execution/execution_velocity_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,462: +PARAM [/move_group/trajectory_execution/allowed_start_tolerance] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,462: +PARAM [/move_group/trajectory_execution/wait_for_trajectory_completion] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,463: +PARAM [/move_group/trajectory_execution/execution_duration_monitoring] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,464: +PARAM [/move_group/trajectory_execution/allowed_execution_duration_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,464: +PARAM [/move_group/trajectory_execution/allowed_goal_duration_margin] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,465: +PARAM [/move_group/trajectory_execution/execution_velocity_scaling] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,466: +PARAM [/move_group/trajectory_execution/allowed_start_tolerance] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,467: +PARAM [/move_group/trajectory_execution/wait_for_trajectory_completion] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,468: +SERVICE [/move_group/plan_execution/set_parameters] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,468: +PUB [/move_group/plan_execution/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,469: +PUB [/move_group/plan_execution/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,470: +PARAM [/move_group/plan_execution/max_replan_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,471: +PARAM [/move_group/plan_execution/record_trajectory_state_frequency] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,471: +PARAM [/move_group/plan_execution/max_replan_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,472: +PARAM [/move_group/plan_execution/record_trajectory_state_frequency] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,473: +SERVICE [/move_group/sense_for_plan/set_parameters] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,473: +PUB [/move_group/sense_for_plan/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,474: +PUB [/move_group/sense_for_plan/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,476: +PARAM [/move_group/sense_for_plan/max_safe_path_cost] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,476: +PARAM [/move_group/sense_for_plan/max_look_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,477: +PARAM [/move_group/sense_for_plan/max_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,478: +PARAM [/move_group/sense_for_plan/discard_overlapping_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,478: +PARAM [/move_group/sense_for_plan/max_safe_path_cost] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,479: +PARAM [/move_group/sense_for_plan/max_look_attempts] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,480: +PARAM [/move_group/sense_for_plan/max_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,480: +PARAM [/move_group/sense_for_plan/discard_overlapping_cost_sources] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:19,493: +SERVICE [/apply_planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,494: +SERVICE [/clear_octomap] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,495: +SERVICE [/compute_cartesian_path] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,496: +PUB [/execute_trajectory/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,497: +PUB [/execute_trajectory/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,497: +PUB [/execute_trajectory/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,501: +SUB [/execute_trajectory/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,504: +SUB [/execute_trajectory/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,504: +SERVICE [/get_planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,505: +SERVICE [/compute_fk] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,505: +SERVICE [/compute_ik] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,507: +PUB [/move_group/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,508: +PUB [/move_group/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,509: +PUB [/move_group/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,513: +SUB [/move_group/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,516: +SUB [/move_group/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,526: +PUB [/pickup/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,527: +PUB [/pickup/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,527: +PUB [/pickup/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,531: +SUB [/pickup/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,533: +SUB [/pickup/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,535: +PUB [/place/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,535: +PUB [/place/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,536: +PUB [/place/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,539: +SUB [/place/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,543: +SUB [/place/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,544: +SERVICE [/plan_kinematic_path] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,544: +SERVICE [/query_planner_interface] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,545: +SERVICE [/get_planner_params] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,545: +SERVICE [/set_planner_params] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:19,546: +SERVICE [/check_state_validity] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,488: -SUB [/recognize_objects/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,489: -PUB [/recognize_objects/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,491: -PUB [/recognize_objects/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,492: -SUB [/recognize_objects/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,493: -SUB [/recognize_objects/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,589: +PUB [/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,589: -PUB [/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,590: +PUB [/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,592: -PUB [/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,592: -PUB [/initialpose] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,626: +SERVICE [/rviz_segbot_2907_2334087272911079059/reload_shaders] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,627: +SERVICE [/rviz_segbot_2907_2334087272911079059/load_config] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,627: +SERVICE [/rviz_segbot_2907_2334087272911079059/save_config] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,760: +SERVICE [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/set_parameters] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,760: +PUB [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/parameter_descriptions] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,761: +PUB [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/parameter_updates] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:21,762: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_planning_scene] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,763: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_planning_scene_hz] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,763: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_geometry_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,763: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_state_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,764: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_transforms_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,764: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_planning_scene] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,765: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_planning_scene_hz] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,766: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_geometry_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,766: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_state_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,767: +PARAM [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/publish_transforms_updates] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:21,798: +SUB [/move_group/monitored_planning_scene] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,102: +SUB [/move_group/display_planned_path] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,103: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,103: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,105: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,105: -PUB [/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,106: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,108: +SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,108: +PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,117: +PUB [/trajectory_execution_event] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,117: +PUB [/attached_collision_object] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,122: +SUB [/move_group/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,124: +SUB [/move_group/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,126: +SUB [/move_group/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,126: +PUB [/move_group/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,127: +PUB [/move_group/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,152: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://segbot:43405/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,153: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://segbot:43405/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,153: publisherUpdate[/trajectory_execution_event] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,153: publisherUpdate[/trajectory_execution_event] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,153: publisherUpdate[/attached_collision_object] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,154: publisherUpdate[/attached_collision_object] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,154: publisherUpdate[/move_group/goal] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,154: publisherUpdate[/move_group/goal] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,154: publisherUpdate[/move_group/cancel] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,155: publisherUpdate[/move_group/cancel] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,362: +SUB [/pickup/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,364: +SUB [/pickup/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,366: +SUB [/pickup/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,367: +PUB [/pickup/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,367: +PUB [/pickup/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,453: publisherUpdate[/pickup/goal] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,454: publisherUpdate[/pickup/goal] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,454: publisherUpdate[/pickup/cancel] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,454: publisherUpdate[/pickup/cancel] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,637: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,658: +SUB [/place/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,661: +SUB [/place/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,663: +SUB [/place/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,663: +PUB [/place/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,664: +PUB [/place/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,755: publisherUpdate[/place/goal] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,756: publisherUpdate[/place/goal] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,756: publisherUpdate[/place/cancel] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:22,757: publisherUpdate[/place/cancel] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:22,983: +SUB [/execute_trajectory/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,985: +SUB [/execute_trajectory/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,987: +SUB [/execute_trajectory/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,988: +PUB [/execute_trajectory/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:22,988: +PUB [/execute_trajectory/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:23,056: publisherUpdate[/execute_trajectory/goal] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:23,057: publisherUpdate[/execute_trajectory/goal] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:23,057: publisherUpdate[/execute_trajectory/cancel] -> http://segbot:44917/ ['http://segbot:43405/']
+[rosmaster.master][INFO] 2023-09-08 16:29:23,058: publisherUpdate[/execute_trajectory/cancel] -> http://segbot:44917/ ['http://segbot:43405/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,434: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,435: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,438: -PUB [/planning_scene_world] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,439: -PUB [/planning_scene] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,441: -SUB [/recognized_object_array] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,444: -PUB [/attached_collision_object] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,445: -PUB [/trajectory_execution_event] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,446: -SUB [/place/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,447: -PUB [/place/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,448: -PUB [/place/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,449: -SUB [/place/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,450: -SUB [/place/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,451: -SUB [/pickup/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,452: -PUB [/pickup/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,452: -PUB [/pickup/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,453: -SUB [/pickup/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,454: -SUB [/pickup/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,455: -SUB [/execute_trajectory/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,456: -PUB [/execute_trajectory/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,457: -PUB [/execute_trajectory/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,457: -SUB [/execute_trajectory/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,458: -SUB [/execute_trajectory/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,459: -SUB [/move_group/status] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,460: -PUB [/move_group/cancel] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,461: -PUB [/move_group/goal] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,462: -SUB [/move_group/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,463: -SUB [/move_group/result] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,466: -SUB [/move_group/display_planned_path] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,468: -SUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,468: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,469: -PUB [/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/update_full] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,471: -SUB [/move_group/monitored_planning_scene] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,482: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://segbot:43405/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,483: publisherUpdate[/rviz_moveit_motion_planning_display/robot_interaction_interactive_marker_topic/feedback] -> http://segbot:43405/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,483: publisherUpdate[/planning_scene_world] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,483: publisherUpdate[/planning_scene_world] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,483: publisherUpdate[/planning_scene] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,484: publisherUpdate[/planning_scene] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,484: publisherUpdate[/attached_collision_object] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,484: publisherUpdate[/attached_collision_object] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,484: publisherUpdate[/trajectory_execution_event] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,485: publisherUpdate[/trajectory_execution_event] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,485: publisherUpdate[/place/cancel] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,485: publisherUpdate[/place/cancel] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,485: publisherUpdate[/place/goal] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,486: publisherUpdate[/place/goal] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,486: publisherUpdate[/pickup/cancel] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,486: publisherUpdate[/pickup/cancel] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,486: publisherUpdate[/pickup/goal] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,487: publisherUpdate[/pickup/goal] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,487: publisherUpdate[/execute_trajectory/cancel] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,487: publisherUpdate[/execute_trajectory/cancel] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,487: publisherUpdate[/execute_trajectory/goal] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,488: publisherUpdate[/execute_trajectory/goal] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,488: publisherUpdate[/move_group/cancel] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,489: publisherUpdate[/move_group/cancel] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,489: publisherUpdate[/move_group/goal] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:40,489: publisherUpdate[/move_group/goal] -> http://segbot:44917/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,516: -PUB [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/parameter_descriptions] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,516: -PUB [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/parameter_updates] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,517: -SERVICE [/rviz_segbot_2907_2334087272911079059/motionplanning_planning_scene_monitor/set_parameters] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,521: -SUB [/tf_static] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,522: -SUB [/tf] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,525: -SERVICE [/rviz_segbot_2907_2334087272911079059/save_config] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,525: -SERVICE [/rviz_segbot_2907_2334087272911079059/load_config] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,525: -SERVICE [/rviz_segbot_2907_2334087272911079059/reload_shaders] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,683: -PUB [/rosout] /rviz_segbot_2907_2334087272911079059 http://segbot:43405/
+[rosmaster.master][INFO] 2023-09-08 16:29:40,683: -SERVICE [/rviz_segbot_2907_2334087272911079059/get_loggers] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,684: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:40,684: -SERVICE [/rviz_segbot_2907_2334087272911079059/set_logger_level] /rviz_segbot_2907_2334087272911079059 rosrpc://segbot:33573
+[rosmaster.master][INFO] 2023-09-08 16:29:40,684: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:46239/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:40,685: -CACHEDPARAM [/rosout_disable_topics_generation] by /rviz_segbot_2907_2334087272911079059
+[rosmaster.master][INFO] 2023-09-08 16:29:45,906: -PUB [/ur_hardware_interface/robot_program_running] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,907: -SUB [/ur_hardware_interface/script_command] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,908: -SERVICE [/ur_hardware_interface/set_io] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,909: -SERVICE [/ur_hardware_interface/set_speed_slider] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,911: -PUB [/ur_hardware_interface/safety_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,919: -PUB [/ur_hardware_interface/robot_mode] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,922: -PUB [/ur_hardware_interface/tool_data] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,927: -PUB [/ur_hardware_interface/io_states] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,929: -PUB [/tf] /ur_hardware_interface http://segbot:42607/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,930: -SERVICE [/ur_hardware_interface/set_payload] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,930: -SERVICE [/ur_hardware_interface/zero_ftsensor] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,930: -SERVICE [/ur_hardware_interface/hand_back_control] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,931: -SERVICE [/ur_hardware_interface/dashboard/connect] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,931: -SERVICE [/ur_hardware_interface/dashboard/raw_request] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,932: -SERVICE [/ur_hardware_interface/dashboard/get_robot_mode] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,932: -SERVICE [/ur_hardware_interface/dashboard/get_safety_mode] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,932: -SERVICE [/ur_hardware_interface/dashboard/program_state] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,933: -SERVICE [/ur_hardware_interface/dashboard/program_saved] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,933: -SERVICE [/ur_hardware_interface/dashboard/get_loaded_program] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,934: -SERVICE [/ur_hardware_interface/dashboard/program_running] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,934: -SERVICE [/ur_hardware_interface/dashboard/unlock_protective_stop] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,935: -SERVICE [/ur_hardware_interface/dashboard/stop] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,936: -SERVICE [/ur_hardware_interface/dashboard/shutdown] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,937: -SERVICE [/ur_hardware_interface/dashboard/restart_safety] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,937: -SERVICE [/ur_hardware_interface/dashboard/quit] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,937: -SERVICE [/ur_hardware_interface/dashboard/power_on] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,938: -SERVICE [/ur_hardware_interface/dashboard/power_off] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,938: -SERVICE [/ur_hardware_interface/dashboard/popup] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,938: -SERVICE [/ur_hardware_interface/dashboard/play] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,939: -SERVICE [/ur_hardware_interface/dashboard/pause] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,939: -SERVICE [/ur_hardware_interface/dashboard/load_program] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,939: -SERVICE [/ur_hardware_interface/dashboard/load_installation] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,940: -SERVICE [/ur_hardware_interface/dashboard/close_safety_popup] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,940: -SERVICE [/ur_hardware_interface/dashboard/close_popup] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,940: -SERVICE [/ur_hardware_interface/dashboard/clear_operational_mode] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,941: -SERVICE [/ur_hardware_interface/dashboard/brake_release] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,941: -SERVICE [/ur_hardware_interface/dashboard/add_to_log] /ur_hardware_interface rosrpc://segbot:34095
+[rosmaster.master][INFO] 2023-09-08 16:29:45,984: -PUB [/rosout] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,984: -PUB [/aruco_tracker/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,985: -PUB [/aruco_tracker/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,985: -PUB [/aruco_tracker/result/compressedDepth] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,985: -PUB [/aruco_tracker/result/compressedDepth/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,986: -PUB [/aruco_tracker/result/compressedDepth/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,987: -PUB [/rosout] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,987: -PUB [/tf] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,988: -PUB [/tf_static] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,988: -SUB [/joint_states] /robot_state_publisher http://segbot:38271/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,988: -SERVICE [/robot_state_publisher/get_loggers] /robot_state_publisher rosrpc://segbot:59499
+[rosmaster.master][INFO] 2023-09-08 16:29:45,989: -SERVICE [/robot_state_publisher/set_logger_level] /robot_state_publisher rosrpc://segbot:59499
+[rosmaster.master][INFO] 2023-09-08 16:29:45,989: -PUB [/aruco_tracker/result/compressed] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,990: -PUB [/aruco_tracker/result/compressed/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,990: -PUB [/aruco_tracker/result/compressed/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,990: -PUB [/aruco_tracker/result] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,991: -PUB [/aruco_tracker/result/theora] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,991: -PUB [/aruco_tracker/result/theora/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,991: -PUB [/aruco_tracker/result/theora/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,992: -PUB [/aruco_tracker/debug/compressedDepth] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,992: -PUB [/aruco_tracker/debug/compressedDepth/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,992: -PUB [/aruco_tracker/debug/compressedDepth/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,992: publisherUpdate[/ur_hardware_interface/robot_program_running] -> http://segbot:34187/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:45,993: publisherUpdate[/ur_hardware_interface/robot_program_running] -> http://segbot:34187/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:45,993: publisherUpdate[/ur_hardware_interface/safety_mode] -> http://segbot:43523/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:45,993: -PUB [/aruco_tracker/debug/compressed] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,994: publisherUpdate[/ur_hardware_interface/safety_mode] -> http://segbot:43523/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:45,994: publisherUpdate[/ur_hardware_interface/robot_mode] -> http://segbot:43523/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:45,994: -PUB [/aruco_tracker/debug/compressed/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,995: publisherUpdate[/ur_hardware_interface/robot_mode] -> http://segbot:43523/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:45,995: -PUB [/aruco_tracker/debug/compressed/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:45,995: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:45,995: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:45,996: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:45,997: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:38271/', 'http://segbot:46239/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-08 16:29:45,998: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:38271/', 'http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:45,998: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:45,998: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:45,999: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:45,999: publisherUpdate[/tf] -> http://segbot:46239/ ['http://segbot:46239/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,000: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,000: publisherUpdate[/tf_static] -> http://segbot:46239/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,000: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:44917/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,000: publisherUpdate[/aruco_tracker/result] -> http://segbot:45019/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,001: publisherUpdate[/tf_static] -> http://segbot:46239/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,001: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,001: publisherUpdate[/aruco_tracker/result] -> http://segbot:45019/ []: sec=0.00, result=[0, 'Unknown Error', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:45,996: -PUB [/aruco_tracker/debug] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,003: -PUB [/rosout] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,006: -PUB [/move_group/planning_scene_monitor/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,006: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:38271/', 'http://segbot:46239/']: sec=0.01, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2023-09-08 16:29:46,007: -PUB [/aruco_tracker/debug/theora] /aruco_tracker http://segbot:46239/
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,009: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,009: -PUB [/move_group/planning_scene_monitor/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,009: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:46239/']
+[rosmaster.master][INFO] 2023-09-08 16:29:46,009: -PUB [/move_group/monitored_planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,010: publisherUpdate[/tf] -> http://segbot:44917/ ['http://segbot:46239/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,011: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,011: publisherUpdate[/tf_static] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,010: -PUB [/aruco_tracker/debug/theora/parameter_descriptions] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,011: -PUB [/move_group/ompl/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,011: -PUB [/move_group/ompl/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,012: -PUB [/move_group/display_planned_path] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,012: -PUB [/move_group/display_contacts] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,012: publisherUpdate[/tf_static] -> http://segbot:44917/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,012: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,013: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:46,013: -PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,013: -PUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,018: -PUB [/move_group/trajectory_execution/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,018: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:34187/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,018: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/goal] -> http://segbot:42607/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,027: -PUB [/move_group/trajectory_execution/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,027: -PUB [/move_group/plan_execution/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,027: -PUB [/aruco_tracker/debug/theora/parameter_updates] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,028: -PUB [/move_group/plan_execution/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,028: -PUB [/move_group/sense_for_plan/parameter_descriptions] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,028: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/goal] -> http://segbot:42607/ []: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,028: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/cancel] -> http://segbot:42607/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,032: -PUB [/move_group/sense_for_plan/parameter_updates] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,032: -PUB [/execute_trajectory/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,033: -PUB [/execute_trajectory/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,033: publisherUpdate[/scaled_pos_joint_traj_controller/follow_joint_trajectory/cancel] -> http://segbot:42607/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,035: -PUB [/execute_trajectory/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,043: -PUB [/move_group/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,043: -PUB [/aruco_tracker/pose] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,043: -PUB [/aruco_tracker/transform] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,044: -PUB [/aruco_tracker/position] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,044: -PUB [/move_group/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,044: -PUB [/move_group/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,045: -PUB [/aruco_tracker/marker] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,045: -PUB [/aruco_tracker/pixel] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,045: -PUB [/pickup/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,045: -PUB [/tf] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,046: -SUB [/tf] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,046: -PUB [/pickup/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,052: -PUB [/pickup/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,053: -SUB [/tf_static] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,054: -PUB [/place/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,054: -PUB [/place/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,055: -SUB [/usb_cam/image_raw] /aruco_tracker http://segbot:46239/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,059: -PUB [/place/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,059: -SERVICE [/aruco_tracker/get_loggers] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,059: -SERVICE [/aruco_tracker/set_logger_level] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,060: -SERVICE [/aruco_tracker/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,060: -SUB [/tf] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,060: -SERVICE [/aruco_tracker/result/compressedDepth/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,061: -SUB [/tf_static] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,061: -SERVICE [/aruco_tracker/result/compressed/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,061: -SUB [/planning_scene] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,061: -SUB [/collision_object] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,062: -SERVICE [/aruco_tracker/result/theora/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,062: -SUB [/planning_scene_world] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,067: -SUB [/joint_states] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,067: -SERVICE [/aruco_tracker/debug/compressedDepth/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,067: -SUB [/attached_collision_object] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,071: -SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/status] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,071: -SERVICE [/aruco_tracker/debug/compressed/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,072: -SERVICE [/aruco_tracker/debug/theora/set_parameters] /aruco_tracker rosrpc://segbot:39987
+[rosmaster.master][INFO] 2023-09-08 16:29:46,072: -SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/feedback] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,072: -CACHEDPARAM [/rosout_disable_topics_generation] by /aruco_tracker
+[rosmaster.master][INFO] 2023-09-08 16:29:46,073: -SUB [/scaled_pos_joint_traj_controller/follow_joint_trajectory/result] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,082: -SUB [/trajectory_execution_event] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,083: -SUB [/execute_trajectory/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,083: -SUB [/execute_trajectory/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,084: -SUB [/move_group/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,084: -SUB [/move_group/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,085: -SUB [/pickup/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,086: -SUB [/pickup/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,087: -SUB [/place/goal] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,087: -SUB [/place/cancel] /move_group http://segbot:44917/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,092: -SERVICE [/move_group/get_loggers] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,093: -PUB [/rosout] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,094: -SUB [/ur_hardware_interface/robot_program_running] /controller_stopper http://segbot:34187/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,094: -SERVICE [/move_group/set_logger_level] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,094: -SERVICE [/controller_stopper/get_loggers] /controller_stopper rosrpc://segbot:52011
+[rosmaster.master][INFO] 2023-09-08 16:29:46,095: -SERVICE [/controller_stopper/set_logger_level] /controller_stopper rosrpc://segbot:52011
+[rosmaster.master][INFO] 2023-09-08 16:29:46,095: -PUB [/rosout] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,096: -CACHEDPARAM [/rosout_disable_topics_generation] by /controller_stopper
+[rosmaster.master][INFO] 2023-09-08 16:29:46,096: -SERVICE [/move_group/planning_scene_monitor/set_parameters] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,096: -PUB [/ur_hardware_interface/set_mode/result] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,097: -SERVICE [/move_group/save_map] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,098: -PUB [/ur_hardware_interface/set_mode/feedback] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,098: -SERVICE [/move_group/load_map] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,099: -PUB [/ur_hardware_interface/set_mode/status] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,099: -SERVICE [/move_group/ompl/set_parameters] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,100: -SERVICE [/move_group/trajectory_execution/set_parameters] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,100: -SUB [/ur_hardware_interface/robot_mode] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,100: -SERVICE [/move_group/plan_execution/set_parameters] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,100: -SUB [/ur_hardware_interface/safety_mode] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,101: -SERVICE [/move_group/sense_for_plan/set_parameters] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,101: publisherUpdate[/tf] -> http://segbot:44917/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,102: -SUB [/ur_hardware_interface/set_mode/goal] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,102: publisherUpdate[/tf] -> http://segbot:46239/ []
+[rosmaster.master][INFO] 2023-09-08 16:29:46,102: -PUB [/rosout] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,102: publisherUpdate[/tf] -> http://segbot:44917/ []: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,103: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,103: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:46,104: -PUB [/image_view/parameter_descriptions] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,104: -PUB [/image_view/parameter_updates] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,104: -PUB [/image_view/output] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,105: -SUB [/aruco_tracker/result] /image_view http://segbot:45019/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,105: -SERVICE [/image_view/get_loggers] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,106: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:43523/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,106: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:46,106: -SERVICE [/image_view/set_logger_level] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,106: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:37441/', 'http://segbot:45019/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,107: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:37441/', 'http://segbot:34523/', 'http://segbot:43149/']
+[rosmaster.master][INFO] 2023-09-08 16:29:46,107: -SERVICE [/image_view/load_nodelet] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,107: -SERVICE [/image_view/unload_nodelet] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,108: publisherUpdate[/rosout] -> http://segbot:41361/ ['http://segbot:42607/', 'http://segbot:37441/', 'http://segbot:34523/', 'http://segbot:43149/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2023-09-08 16:29:46,108: -SUB [/ur_hardware_interface/set_mode/cancel] /ur_hardware_interface/ur_robot_state_helper http://segbot:43523/
+[rosmaster.master][INFO] 2023-09-08 16:29:46,108: -SERVICE [/image_view/list] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,110: -SERVICE [/ur_hardware_interface/ur_robot_state_helper/get_loggers] /ur_hardware_interface/ur_robot_state_helper rosrpc://segbot:48465
+[rosmaster.master][INFO] 2023-09-08 16:29:46,111: -SERVICE [/image_view/set_parameters] /image_view rosrpc://segbot:51985
+[rosmaster.master][INFO] 2023-09-08 16:29:46,112: -SERVICE [/ur_hardware_interface/ur_robot_state_helper/set_logger_level] /ur_hardware_interface/ur_robot_state_helper rosrpc://segbot:48465
+[rosmaster.master][INFO] 2023-09-08 16:29:46,113: -CACHEDPARAM [/rosout_disable_topics_generation] by /image_view
+[rosmaster.master][INFO] 2023-09-08 16:29:46,114: -CACHEDPARAM [/rosout_disable_topics_generation] by /ur_hardware_interface/ur_robot_state_helper
+[rosmaster.master][INFO] 2023-09-08 16:29:46,114: publisherUpdate[/tf] -> http://segbot:46239/ []: sec=0.01, exception=[Errno 111] Connection refused
+[rosmaster.master][INFO] 2023-09-08 16:29:46,115: -SERVICE [/apply_planning_scene] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,117: -SERVICE [/clear_octomap] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,118: -SERVICE [/compute_cartesian_path] /move_group rosrpc://segbot:58589
+[rosmaster.threadpool][ERROR] 2023-09-08 16:29:46,119: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1311, in single_request
+    self.send_content(h, request_body)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1459, in send_content
+    connection.endheaders(request_body)
+  File "/usr/lib/python2.7/httplib.py", line 1095, in endheaders
+    self._send_output(message_body)
+  File "/usr/lib/python2.7/httplib.py", line 898, in _send_output
+    self.send(msg)
+  File "/usr/lib/python2.7/httplib.py", line 860, in send
+    self.connect()
+  File "/usr/lib/python2.7/httplib.py", line 837, in connect
+    self.timeout, self.source_address)
+  File "/usr/lib/python2.7/socket.py", line 575, in create_connection
+    raise err
+error: [Errno 111] Connection refused
+
+[rosmaster.master][INFO] 2023-09-08 16:29:46,119: -SERVICE [/get_planning_scene] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,120: -SERVICE [/compute_fk] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,121: -SERVICE [/compute_ik] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,122: -SERVICE [/plan_kinematic_path] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,123: -SERVICE [/query_planner_interface] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,125: -SERVICE [/get_planner_params] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,125: -SERVICE [/set_planner_params] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,126: -SERVICE [/check_state_validity] /move_group rosrpc://segbot:58589
+[rosmaster.master][INFO] 2023-09-08 16:29:46,127: -CACHEDPARAM [/rosout_disable_topics_generation] by /move_group
+[rosmaster.master][INFO] 2023-09-08 16:29:48,010: -PUB [/rosout_agg] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:48,011: -SUB [/rosout] /rosout http://segbot:41361/
+[rosmaster.master][INFO] 2023-09-08 16:29:48,012: -SERVICE [/rosout/get_loggers] /rosout rosrpc://segbot:35279
+[rosmaster.master][INFO] 2023-09-08 16:29:48,013: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://segbot:35279
+[rosmaster.master][INFO] 2023-09-08 16:29:48,014: -CACHEDPARAM [/rosout/omit_topics] by /rosout
+[rosmaster.main][INFO] 2023-09-08 16:29:48,113: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2023-09-08 16:29:48,113: stopping master...
+[rospy.core][INFO] 2023-09-08 16:29:48,113: signal_shutdown [atexit]

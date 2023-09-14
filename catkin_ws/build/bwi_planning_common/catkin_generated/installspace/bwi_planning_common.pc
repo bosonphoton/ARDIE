@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_planning_common
+Description: Description of bwi_planning_common
+Version: 0.3.12
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib -lbwi_planning_common /usr/lib/x86_64-linux-gnu/libboost_filesystem.so /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: bwi_mapper bwi_tools message_runtime std_msgs

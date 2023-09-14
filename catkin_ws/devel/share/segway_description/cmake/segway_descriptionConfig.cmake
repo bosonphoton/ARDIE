@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_description/share/segway_description/cmake/segway_descriptionConfig.cmake

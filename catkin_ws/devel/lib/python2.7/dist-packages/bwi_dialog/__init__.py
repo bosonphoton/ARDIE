@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_dialog/lib/python2.7/dist-packages/bwi_dialog/__init__.py

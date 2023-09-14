@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="move_robot_gaze" name="move_robot_with_gaze" type="gaze_to_location.py" cwd="node"/>
+</launch>

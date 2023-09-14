@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/camera1394/share/gennodejs/ros/camera1394/srv/SetCameraRegisters.js

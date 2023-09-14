@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialogflow_ros/lib/pkgconfig/dialogflow_ros.pc

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/showroom_demo/share/showroom_demo/cmake/showroom_demoConfig.cmake

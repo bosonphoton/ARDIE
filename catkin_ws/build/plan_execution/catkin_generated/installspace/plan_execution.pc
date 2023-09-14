@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: plan_execution
+Description: Description of plan_execution
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lactasp -lplan_execution
+Requires: actionlib_msgs bwi_msgs message_runtime roscpp std_msgs std_srvs bwi_msgs

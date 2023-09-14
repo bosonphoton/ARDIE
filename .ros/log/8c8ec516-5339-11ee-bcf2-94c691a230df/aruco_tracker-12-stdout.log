@@ -1,0 +1,5 @@
+[0m[ INFO] [1694721715.978708625]: Threshold method: THRESH_ADAPTIVE[0m
+[0m[ INFO] [1694721715.980256010]: Marker size min: 0.02% of image area[0m
+[0m[ INFO] [1694721715.980317215]: Detection mode: DM_FAST[0m
+[0m[ INFO] [1694721716.197607120]: ArUco node started with marker size of 0.030000 m and marker id to track: 25[0m
+[0m[ INFO] [1694721716.197659314]: ArUco node will publish pose to TF with rgb_camera_link as parent and camera_marker as child.[0m

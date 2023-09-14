@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Shell.PortalHelper.desktop" open-window-count="0" score="2" last-seen="1694545727"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="0" last-seen="1694124702"/>
+    <application id="nautilus.desktop" open-window-count="1" score="0" last-seen="1694456034"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="1" last-seen="1694206233"/>
+    <application id="sublime_text.desktop" open-window-count="0" score="83" last-seen="1694722465"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1694124764"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="14" last-seen="1694720587"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="4" last-seen="1694208002"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="234" last-seen="1694208882"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="6" last-seen="1694545729"/>
+    <application id="firefox.desktop" open-window-count="1" score="335" last-seen="1694722263"/>
+    <application id="emacs25.desktop" open-window-count="0" score="0" last-seen="1694204919"/>
+    <application id="terminator.desktop" open-window-count="0" score="161" last-seen="1694722543"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="0" last-seen="1694207269"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="493" last-seen="1694722547"/>
+    <application id="evince.desktop" open-window-count="0" score="0" last-seen="1694206834"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="0" last-seen="1694207285"/>
+  </context>
+</application-state>

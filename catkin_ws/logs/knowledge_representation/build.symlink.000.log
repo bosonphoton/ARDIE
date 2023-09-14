@@ -1,0 +1,8 @@
+Symlinking /home/chels/catkin_ws/devel/etc/catkin/profile.d/knowledge_representation.bash
+Symlinking /home/chels/catkin_ws/devel/etc/catkin/profile.d/knowledge_representation.zsh
+Symlinking /home/chels/catkin_ws/devel/lib/libknowledge_rep.so
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/knowledge_representation/_libknowledge_rep_wrapper_cpp.so
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/knowledge_representation/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/knowledge_representation.pc
+Symlinking /home/chels/catkin_ws/devel/share/knowledge_representation/cmake/knowledge_representationConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/knowledge_representation/cmake/knowledge_representationConfig.cmake

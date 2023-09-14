@@ -1,0 +1,5 @@
+[ 18%] Built target fake_volt_pub
+[ 27%] Built target segbot_sensors_gencfg
+[ 45%] Built target battery_diagnostics
+[ 72%] Built target segbot_sensors_filters
+[100%] Built target range_to_cloud

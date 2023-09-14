@@ -1,0 +1,6 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libsegbot_simulation_apps.so
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_simulation_apps.pc
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_simulation_apps/door_handler
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_simulation_apps/robot_teleporter
+Symlinking /home/chels/catkin_ws/devel/share/segbot_simulation_apps/cmake/segbot_simulation_appsConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_simulation_apps/cmake/segbot_simulation_appsConfig.cmake

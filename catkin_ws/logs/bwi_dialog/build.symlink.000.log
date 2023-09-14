@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_dialog/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_dialog.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_dialog/cmake/bwi_dialogConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_dialog/cmake/bwi_dialogConfig-version.cmake

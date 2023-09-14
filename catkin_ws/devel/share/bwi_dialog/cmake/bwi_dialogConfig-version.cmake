@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_dialog/share/bwi_dialog/cmake/bwi_dialogConfig-version.cmake

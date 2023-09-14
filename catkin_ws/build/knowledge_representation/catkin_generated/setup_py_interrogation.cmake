@@ -1,0 +1,7 @@
+set(knowledge_representation_SETUP_PY_SETUP_MODULE "setuptools")
+set(knowledge_representation_SETUP_PY_VERSION "0.9.2")
+set(knowledge_representation_SETUP_PY_SCRIPTS "")
+set(knowledge_representation_SETUP_PY_PACKAGES "knowledge_representation")
+set(knowledge_representation_SETUP_PY_PACKAGE_DIRS "src/knowledge_representation")
+set(knowledge_representation_SETUP_PY_MODULES "")
+set(knowledge_representation_SETUP_PY_MODULE_DIRS "")

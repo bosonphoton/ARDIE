@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_dialog
+
+Name: bwi_dialog
+Description: Description of bwi_dialog
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

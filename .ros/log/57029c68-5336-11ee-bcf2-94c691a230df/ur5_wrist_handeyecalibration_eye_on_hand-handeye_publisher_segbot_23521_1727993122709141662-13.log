@@ -1,0 +1,46 @@
+[rospy.client][INFO] 2023-09-14 15:38:58,277: init_node, name[/ur5_wrist_handeyecalibration_eye_on_hand/handeye_publisher_segbot_23521_1727993122709141662], pid[23634]
+[xmlrpc][INFO] 2023-09-14 15:38:58,277: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:38:58,277: Started XML-RPC server [http://segbot:39159/]
+[rospy.init][INFO] 2023-09-14 15:38:58,277: ROS Slave URI: [http://segbot:39159/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:38:58,277: _ready: http://segbot:39159/
+[rospy.registration][INFO] 2023-09-14 15:38:58,278: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 15:38:58,278: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-14 15:38:58,378: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:38:58,378: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:38:58,382: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:38:58,386: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-14 15:38:58,393: Loading the calibration from file: /home/chels/.ros/easy_handeye/ur5_wrist_handeyecalibration_eye_on_hand.yaml
+[rosout][INFO] 2023-09-14 15:38:58,405: loading calibration parameters into namespace /ur5_wrist_handeyecalibration_eye_on_hand/
+[rosout][INFO] 2023-09-14 15:38:58,408: Storing calibration /ur5_wrist_handeyecalibration_eye_on_hand/ into the parameters server
+[rosout][INFO] 2023-09-14 15:38:58,411: Storing parameters for calibration /ur5_wrist_handeyecalibration_eye_on_hand/ into the parameters server
+[rospy.internal][INFO] 2023-09-14 15:38:58,586: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 15:38:58,694: topic[/tf_static] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 15:38:58,699: topic[/tf_static] adding connection to [/rviz_segbot_23521_7618188295629015961], count 1
+[rospy.internal][INFO] 2023-09-14 15:38:58,699: topic[/tf_static] adding connection to [/aruco_tracker], count 2
+[rospy.internal][INFO] 2023-09-14 15:40:11,316: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694720410874739463], count 3
+[rospy.internal][INFO] 2023-09-14 15:40:12,430: topic[/tf_static] adding connection to [/ur_grasp_node_24077_1694720410883], count 4
+[rospy.internal][INFO] 2023-09-14 15:40:19,308: topic[/tf_static] removing connection to /ur_grasp_node_24077_1694720410883
+[rospy.internal][INFO] 2023-09-14 15:40:19,809: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694720410874739463
+[rospy.internal][INFO] 2023-09-14 15:40:31,949: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694720431452068144], count 3
+[rospy.internal][INFO] 2023-09-14 15:40:33,166: topic[/tf_static] adding connection to [/ur_grasp_node_24125_1694720431461], count 4
+[rospy.internal][INFO] 2023-09-14 15:40:40,315: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694720431452068144
+[rospy.internal][INFO] 2023-09-14 15:40:40,315: topic[/tf_static] removing connection to /ur_grasp_node_24125_1694720431461
+[rospy.internal][INFO] 2023-09-14 15:41:03,402: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694720462960539102], count 3
+[rospy.internal][INFO] 2023-09-14 15:41:04,420: topic[/tf_static] adding connection to [/ur_grasp_node_24169_1694720462970], count 4
+[rospy.internal][INFO] 2023-09-14 15:41:04,824: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694720462960539102
+[rospy.internal][INFO] 2023-09-14 15:41:04,824: topic[/tf_static] removing connection to /ur_grasp_node_24169_1694720462970
+[rospy.internal][INFO] 2023-09-14 15:41:21,035: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694720480603307089], count 3
+[rospy.internal][INFO] 2023-09-14 15:41:21,950: topic[/tf_static] adding connection to [/ur_grasp_node_24217_1694720480612], count 4
+[rospy.internal][INFO] 2023-09-14 15:41:22,329: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694720480603307089
+[rospy.internal][INFO] 2023-09-14 15:41:22,329: topic[/tf_static] removing connection to /ur_grasp_node_24217_1694720480612
+[rospy.internal][INFO] 2023-09-14 15:42:17,508: topic[/tf_static] adding connection to [/move_group_commander_wrappers_1694720537054120207], count 3
+[rospy.internal][INFO] 2023-09-14 15:42:18,423: topic[/tf_static] adding connection to [/ur_grasp_node_24342_1694720537064], count 4
+[rospy.core][INFO] 2023-09-14 15:42:45,407: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-14 15:42:45,410: topic[/tf_static] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 15:42:45,410: topic[/tf_static] removing connection to /rviz_segbot_23521_7618188295629015961
+[rospy.internal][INFO] 2023-09-14 15:42:45,411: topic[/tf_static] removing connection to /aruco_tracker
+[rospy.internal][INFO] 2023-09-14 15:42:45,411: topic[/tf_static] removing connection to /move_group_commander_wrappers_1694720537054120207
+[rospy.internal][INFO] 2023-09-14 15:42:45,411: topic[/tf_static] removing connection to /ur_grasp_node_24342_1694720537064
+[rospy.internal][INFO] 2023-09-14 15:42:45,411: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 15:42:45,412: signal-2
+[rospy.core][INFO] 2023-09-14 15:42:45,528: signal_shutdown [atexit]

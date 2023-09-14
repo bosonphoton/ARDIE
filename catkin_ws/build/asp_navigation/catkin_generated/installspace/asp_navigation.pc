@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: asp_navigation
+Description: Description of asp_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

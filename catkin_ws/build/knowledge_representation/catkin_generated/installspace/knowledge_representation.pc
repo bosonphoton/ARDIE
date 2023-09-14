@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: knowledge_representation
+Description: Description of knowledge_representation
+Version: 0.9.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lknowledge_rep /usr/lib/x86_64-linux-gnu/libpqxx.so
+Requires: 

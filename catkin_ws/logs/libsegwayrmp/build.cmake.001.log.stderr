@@ -1,0 +1,9 @@
+[36m--[0m Building SegwayRMP with serial support
+[31m[1mCMake Error[0m at /home/chels/catkin_ws/src/libsegwayrmp/cmake/segwayrmp_ftd2xx.cmake:24 (file):
+  file COPY cannot set permissions on
+  "/home/chels/catkin_ws/src/libsegwayrmp/lib//libftd2xx.a"
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:34 (include)
+
+
+[36m--[0m Building SegwayRMP Examples

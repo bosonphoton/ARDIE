@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_probabilistic_inference/share/bu_probabilistic_inference/cmake/bu_probabilistic_inferenceConfig.cmake

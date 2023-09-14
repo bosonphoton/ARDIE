@@ -1,0 +1,3 @@
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_gazebo.pc
+Symlinking /home/chels/catkin_ws/devel/share/segbot_gazebo/cmake/segbot_gazeboConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_gazebo/cmake/segbot_gazeboConfig-version.cmake

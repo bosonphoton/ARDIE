@@ -1,0 +1,7 @@
+set(bwi_tools_SETUP_PY_SETUP_MODULE "distutils.core")
+set(bwi_tools_SETUP_PY_VERSION "0.3.12")
+set(bwi_tools_SETUP_PY_SCRIPTS "")
+set(bwi_tools_SETUP_PY_PACKAGES "bwi_tools")
+set(bwi_tools_SETUP_PY_PACKAGE_DIRS "src/bwi_tools")
+set(bwi_tools_SETUP_PY_MODULES "")
+set(bwi_tools_SETUP_PY_MODULE_DIRS "")

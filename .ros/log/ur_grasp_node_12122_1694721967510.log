@@ -1,0 +1,20 @@
+[rospy.client][INFO] 2023-09-14 16:06:07,584: init_node, name[/ur_grasp_node_12122_1694721967510], pid[12122]
+[xmlrpc][INFO] 2023-09-14 16:06:07,585: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:06:07,585: Started XML-RPC server [http://segbot:38061/]
+[rospy.init][INFO] 2023-09-14 16:06:07,585: ROS Slave URI: [http://segbot:38061/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:06:07,585: _ready: http://segbot:38061/
+[xmlrpc][INFO] 2023-09-14 16:06:07,586: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 16:06:07,586: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-14 16:06:07,686: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:06:07,686: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:06:07,688: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:06:07,689: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:06:08,927: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:08,931: topic[/tf] adding connection to [http://segbot:36595/], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:08,932: topic[/tf] adding connection to [http://segbot:34693/], count 1
+[rospy.internal][INFO] 2023-09-14 16:06:08,935: topic[/tf] adding connection to [http://segbot:40201/], count 1
+[rospy.internal][INFO] 2023-09-14 16:06:08,936: topic[/tf_static] adding connection to [http://segbot:36595/], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:08,937: topic[/tf_static] adding connection to [http://segbot:33509/], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:09,031: topic[/collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:09,032: topic[/attached_collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 16:06:09,035: topic[/Robotiq2FGripperRobotOutput] adding connection to [/robotiq2FGripper], count 0

@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_moveit_utils
+Description: Description of bwi_moveit_utils
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

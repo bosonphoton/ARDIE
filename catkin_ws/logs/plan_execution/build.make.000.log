@@ -1,0 +1,335 @@
+[35m[1mScanning dependencies of target actasp[0m
+[  0%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/executors/ReplanningPlanExecutor.cpp.o[0m
+[  1%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/executors/PartialPolicyExecutor.cpp.o[0m
+[  1%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/executors/BlindPlanExecutor.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/Clingo3.cpp.o[0m
+[  3%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/Clingo4_2.cpp.o[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  3%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineGoal[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineGoal
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanActionFeedback[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanActionFeedback
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_GetHriMessage[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_GetHriMessage
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_IsPlanValid[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_IsPlanValid
+[  3%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/Clingo4_5.cpp.o[0m
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanAction[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanAction
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_UpdateFluents[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_UpdateFluents
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineAction[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineAction
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanFeedback[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanFeedback
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanResult[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanResult
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionFeedback[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionFeedback
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionGoal[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionGoal
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ComputeAllPlans[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ComputeAllPlans
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_AnswerSet[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_AnswerSet
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanGoal[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanGoal
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineFeedback[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineFeedback
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_AspRule[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_AspRule
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  3%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_AspFluent[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_AspFluent
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_CurrentStateQuery[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_CurrentStateQuery
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineResult[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineResult
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionResult[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecuteSmachStateMachineActionResult
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanActionGoal[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanActionGoal
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ExecutePlanActionResult[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ExecutePlanActionResult
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_ComputePlan[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_ComputePlan
+[35m[1mScanning dependencies of target _plan_execution_generate_messages_check_deps_HriMessage[0m
+[  3%] Built target _plan_execution_generate_messages_check_deps_HriMessage
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  3%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  3%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  3%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_eus[0m
+[  3%] Built target bwi_planning_common_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_lisp[0m
+[  3%] Built target bwi_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_nodejs[0m
+[  3%] Built target bwi_planning_common_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  3%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  3%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  3%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  3%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[  3%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  3%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  3%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_eus[0m
+[  3%] Built target bwi_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_lisp[0m
+[  3%] Built target bwi_planning_common_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  3%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  3%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[  3%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  3%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_cpp[0m
+[  3%] Built target bwi_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  3%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target plan_execution_generate_messages_py[0m
+[  4%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/Clingo5_2.cpp.o[0m
+[  5%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineActionFeedback[0m
+[  5%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineResult[0m
+[  6%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineGoal[0m
+[  7%] [34m[1mGenerating Python from MSG plan_execution/AspFluent[0m
+[  7%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanAction[0m
+[  8%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineActionResult[0m
+[  8%] [34m[1mGenerating Python from MSG plan_execution/AnswerSet[0m
+[  9%] [34m[1mGenerating Python from MSG plan_execution/HriMessage[0m
+[ 10%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanResult[0m
+[ 10%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanActionFeedback[0m
+[ 12%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanActionResult[0m
+[ 13%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanGoal[0m
+[ 13%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineFeedback[0m
+[ 14%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineAction[0m
+[ 14%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanActionGoal[0m
+[ 15%] [34m[1mGenerating Python from MSG plan_execution/ExecutePlanFeedback[0m
+[ 16%] [34m[1mGenerating Python from MSG plan_execution/AspRule[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/Reasoner.cpp.o[0m
+[ 17%] [34m[1mGenerating Python from MSG plan_execution/ExecuteSmachStateMachineActionGoal[0m
+[ 18%] [34m[1mGenerating Python code from SRV plan_execution/UpdateFluents[0m
+[ 19%] [34m[1mGenerating Python code from SRV plan_execution/ComputePlan[0m
+[ 19%] [34m[1mGenerating Python code from SRV plan_execution/IsPlanValid[0m
+[ 20%] [34m[1mGenerating Python code from SRV plan_execution/GetHriMessage[0m
+[ 20%] [34m[1mGenerating Python code from SRV plan_execution/ComputeAllPlans[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/FilteringReasoner.cpp.o[0m
+[ 21%] [34m[1mGenerating Python code from SRV plan_execution/CurrentStateQuery[0m
+[ 23%] [34m[1mGenerating Python msg __init__.py for plan_execution[0m
+[ 23%] [34m[1mGenerating Python srv __init__.py for plan_execution[0m
+[ 23%] Built target plan_execution_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 23%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 23%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 23%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_py[0m
+[ 23%] Built target bwi_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[ 23%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[ 23%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_cpp[0m
+[ 23%] Built target bwi_planning_common_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_py[0m
+[ 24%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/IsNotLocallyOptimal.cpp.o[0m
+[ 24%] Built target bwi_planning_common_generate_messages_py
+[ 24%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/reasoners/LexComparator.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/planners/AnyPlan.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/Action.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/AspAtom.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/AspFluent.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/AnswerSet.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/MultiPolicy.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/GraphPolicy.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/action_utils.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/actasp.dir/actasp/src/state_utils.cpp.o[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 30%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[ 30%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 30%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[ 30%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[ 30%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 30%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 30%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 30%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 30%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[ 30%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 30%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 30%] Built target actionlib_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 30%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_nodejs[0m
+[ 30%] Built target bwi_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 30%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 30%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 30%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[ 30%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target plan_execution_generate_messages_eus[0m
+[ 31%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineActionFeedback.msg[0m
+[35m[1mScanning dependencies of target plan_execution_generate_messages_cpp[0m
+[ 34%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/plan_execution/lib/libactasp.so[0m
+[ 34%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineActionFeedback.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineResult.msg[0m
+[ 35%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineGoal.msg[0m
+[ 36%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineResult.msg[0m
+[ 37%] [34m[1mGenerating EusLisp code from plan_execution/AspFluent.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanAction.msg[0m
+[ 38%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineActionResult.msg[0m
+[ 38%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineGoal.msg[0m
+[ 38%] Built target actasp
+[35m[1mScanning dependencies of target plan_execution_generate_messages_nodejs[0m
+[ 39%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineActionFeedback.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from plan_execution/AnswerSet.msg[0m
+[ 40%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineResult.msg[0m
+[ 40%] [34m[1mGenerating EusLisp code from plan_execution/HriMessage.msg[0m
+[ 41%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineGoal.msg[0m
+[ 42%] [34m[1mGenerating C++ code from plan_execution/AspFluent.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from plan_execution/AspFluent.msg[0m
+[ 45%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanResult.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanAction.msg[0m
+[ 46%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanActionFeedback.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineActionResult.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from plan_execution/AnswerSet.msg[0m
+[ 47%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanActionResult.msg[0m
+[ 48%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanAction.msg[0m
+[ 49%] [34m[1mGenerating Javascript code from plan_execution/HriMessage.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanResult.msg[0m
+[ 51%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanGoal.msg[0m
+[ 51%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanActionFeedback.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineFeedback.msg[0m
+[ 53%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanActionResult.msg[0m
+[ 53%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineActionResult.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanGoal.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineAction.msg[0m
+[ 54%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineFeedback.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanActionGoal.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineAction.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanActionGoal.msg[0m
+[ 57%] [34m[1mGenerating EusLisp code from plan_execution/ExecutePlanFeedback.msg[0m
+[ 58%] [34m[1mGenerating C++ code from plan_execution/AnswerSet.msg[0m
+[ 59%] [34m[1mGenerating Javascript code from plan_execution/ExecutePlanFeedback.msg[0m
+[ 60%] [34m[1mGenerating EusLisp code from plan_execution/AspRule.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from plan_execution/AspRule.msg[0m
+[ 61%] [34m[1mGenerating Javascript code from plan_execution/ExecuteSmachStateMachineActionGoal.msg[0m
+[ 62%] [34m[1mGenerating EusLisp code from plan_execution/ExecuteSmachStateMachineActionGoal.msg[0m
+[ 62%] [34m[1mGenerating C++ code from plan_execution/HriMessage.msg[0m
+[ 63%] [34m[1mGenerating Javascript code from plan_execution/UpdateFluents.srv[0m
+[ 63%] [34m[1mGenerating EusLisp code from plan_execution/UpdateFluents.srv[0m
+[ 64%] [34m[1mGenerating Javascript code from plan_execution/ComputePlan.srv[0m
+[ 64%] [34m[1mGenerating Javascript code from plan_execution/IsPlanValid.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from plan_execution/ComputePlan.srv[0m
+[ 67%] [34m[1mGenerating Javascript code from plan_execution/GetHriMessage.srv[0m
+[ 68%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanResult.msg[0m
+[ 69%] [34m[1mGenerating EusLisp code from plan_execution/IsPlanValid.srv[0m
+[ 69%] [34m[1mGenerating Javascript code from plan_execution/ComputeAllPlans.srv[0m
+[ 70%] [34m[1mGenerating Javascript code from plan_execution/CurrentStateQuery.srv[0m
+[ 70%] [34m[1mGenerating EusLisp code from plan_execution/GetHriMessage.srv[0m
+[ 70%] Built target plan_execution_generate_messages_nodejs
+[35m[1mScanning dependencies of target plan_execution_generate_messages_lisp[0m
+[ 71%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineActionFeedback.msg[0m
+[ 72%] [34m[1mGenerating EusLisp code from plan_execution/ComputeAllPlans.srv[0m
+[ 73%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanActionFeedback.msg[0m
+[ 73%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineResult.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from plan_execution/CurrentStateQuery.srv[0m
+[ 74%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineGoal.msg[0m
+[ 75%] [34m[1mGenerating Lisp code from plan_execution/AspFluent.msg[0m
+[ 76%] [34m[1mGenerating EusLisp manifest code for plan_execution[0m
+[ 76%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanActionResult.msg[0m
+[ 76%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanAction.msg[0m
+[ 78%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineActionResult.msg[0m
+[ 78%] [34m[1mGenerating Lisp code from plan_execution/AnswerSet.msg[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 79%] [34m[1mGenerating Lisp code from plan_execution/HriMessage.msg[0m
+[ 80%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanGoal.msg[0m
+[ 81%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanResult.msg[0m
+[ 81%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanActionFeedback.msg[0m
+[ 82%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanActionResult.msg[0m
+[ 83%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineFeedback.msg[0m
+[ 84%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanGoal.msg[0m
+[ 84%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineFeedback.msg[0m
+[ 85%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineAction.msg[0m
+[ 85%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineAction.msg[0m
+[ 85%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanActionGoal.msg[0m
+[ 86%] [34m[1mGenerating Lisp code from plan_execution/ExecutePlanFeedback.msg[0m
+[ 87%] [34m[1mGenerating Lisp code from plan_execution/AspRule.msg[0m
+[ 89%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanActionGoal.msg[0m
+[ 89%] [34m[1mGenerating Lisp code from plan_execution/ExecuteSmachStateMachineActionGoal.msg[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 90%] [34m[1mGenerating Lisp code from plan_execution/UpdateFluents.srv[0m
+[ 91%] [34m[1mGenerating Lisp code from plan_execution/ComputePlan.srv[0m
+[ 91%] [34m[1mGenerating C++ code from plan_execution/ExecutePlanFeedback.msg[0m
+[ 91%] [34m[1mGenerating Lisp code from plan_execution/IsPlanValid.srv[0m
+[ 92%] [34m[1mGenerating Lisp code from plan_execution/GetHriMessage.srv[0m
+[ 92%] [34m[1mGenerating Lisp code from plan_execution/ComputeAllPlans.srv[0m
+[ 93%] [34m[1mGenerating Lisp code from plan_execution/CurrentStateQuery.srv[0m
+[ 94%] [34m[1mGenerating C++ code from plan_execution/AspRule.msg[0m
+[ 94%] Built target plan_execution_generate_messages_lisp
+[ 95%] [34m[1mGenerating C++ code from plan_execution/ExecuteSmachStateMachineActionGoal.msg[0m
+[ 95%] [34m[1mGenerating C++ code from plan_execution/UpdateFluents.srv[0m
+[ 96%] [34m[1mGenerating C++ code from plan_execution/ComputePlan.srv[0m
+[ 97%] [34m[1mGenerating C++ code from plan_execution/IsPlanValid.srv[0m
+[ 97%] [34m[1mGenerating C++ code from plan_execution/GetHriMessage.srv[0m
+[ 97%] Built target plan_execution_generate_messages_eus
+[ 98%] [34m[1mGenerating C++ code from plan_execution/ComputeAllPlans.srv[0m
+[ 98%] [34m[1mGenerating C++ code from plan_execution/CurrentStateQuery.srv[0m
+[ 98%] Built target plan_execution_generate_messages_cpp
+[35m[1mScanning dependencies of target plan_execution[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/plan_execution.dir/src/libplan_execution/msgs_utils.cpp.o[0m
+[100%] [32mBuilding CXX object CMakeFiles/plan_execution.dir/src/libplan_execution/PlanExecutorNode.cpp.o[0m
+[35m[1mScanning dependencies of target plan_execution_generate_messages[0m
+[100%] Built target plan_execution_generate_messages
+[100%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/plan_execution/lib/libplan_execution.so[0m
+[100%] Built target plan_execution

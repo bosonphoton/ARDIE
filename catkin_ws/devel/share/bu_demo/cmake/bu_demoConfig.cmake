@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_demo/share/bu_demo/cmake/bu_demoConfig.cmake

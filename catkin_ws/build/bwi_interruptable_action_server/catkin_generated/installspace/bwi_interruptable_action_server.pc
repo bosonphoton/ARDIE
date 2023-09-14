@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_interruptable_action_server
+Description: Description of bwi_interruptable_action_server
+Version: 0.3.12
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: actionlib actionlib_tutorials roscpp std_srvs

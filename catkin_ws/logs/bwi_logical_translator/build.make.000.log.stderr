@@ -1,0 +1,7 @@
+[01m[K/home/chels/catkin_ws/src/bwi_common/bwi_logical_translator/src/libbwi_logical_translator/bwi_logical_translator.cpp:[m[K In member function ‘[01m[Kbool bwi_logical_translator::BwiLogicalTranslator::initialize()[m[K’:
+[01m[K/home/chels/catkin_ws/src/bwi_common/bwi_logical_translator/src/libbwi_logical_translator/bwi_logical_translator.cpp:117:43:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kpose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::x[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_x_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+       pcl::PointXY point = {[01;35m[Kpose.position.x[m[K, pose.position.y};
+                             [01;35m[K~~~~~~~~~~~~~~^[m[K
+[01m[K/home/chels/catkin_ws/src/bwi_common/bwi_logical_translator/src/libbwi_logical_translator/bwi_logical_translator.cpp:117:60:[m[K [01;35m[Kwarning: [m[Knarrowing conversion of ‘[01m[Kpose.geometry_msgs::Pose_<std::allocator<void> >::position.geometry_msgs::Point_<std::allocator<void> >::y[m[K’ from ‘[01m[Kgeometry_msgs::Point_<std::allocator<void> >::_y_type {aka double}[m[K’ to ‘[01m[Kfloat[m[K’ inside { } [[01;35m[K-Wnarrowing[m[K]
+       pcl::PointXY point = {pose.position.x, [01;35m[Kpose.position.y[m[K};
+                                              [01;35m[K~~~~~~~~~~~~~~^[m[K

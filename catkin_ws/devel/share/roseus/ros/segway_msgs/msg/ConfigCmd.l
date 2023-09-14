@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_msgs/share/roseus/ros/segway_msgs/msg/ConfigCmd.l

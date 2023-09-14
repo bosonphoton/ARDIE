@@ -1,0 +1,6 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libbwi_tools_json.so
+Symlinking /home/chels/catkin_ws/devel/lib/libbwi_tools.so
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_tools/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_tools.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_tools/cmake/bwi_toolsConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_tools/cmake/bwi_toolsConfig.cmake

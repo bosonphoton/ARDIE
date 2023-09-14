@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chels/catkin_ws/devel/.private/controller_stopper/setup.sh

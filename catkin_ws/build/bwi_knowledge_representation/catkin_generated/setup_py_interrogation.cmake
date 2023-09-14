@@ -1,0 +1,7 @@
+set(bwi_knowledge_representation_SETUP_PY_SETUP_MODULE "distutils.core")
+set(bwi_knowledge_representation_SETUP_PY_VERSION "0.0.0")
+set(bwi_knowledge_representation_SETUP_PY_SCRIPTS "")
+set(bwi_knowledge_representation_SETUP_PY_PACKAGES "bwi_knowledge_representation")
+set(bwi_knowledge_representation_SETUP_PY_PACKAGE_DIRS "src/bwi_knowledge_representation")
+set(bwi_knowledge_representation_SETUP_PY_MODULES "")
+set(bwi_knowledge_representation_SETUP_PY_MODULE_DIRS "")

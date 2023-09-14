@@ -1,0 +1,7 @@
+set(bwi_kr_execution_SETUP_PY_SETUP_MODULE "distutils.core")
+set(bwi_kr_execution_SETUP_PY_VERSION "0.3.12")
+set(bwi_kr_execution_SETUP_PY_SCRIPTS "")
+set(bwi_kr_execution_SETUP_PY_PACKAGES "bwi_kr_execution")
+set(bwi_kr_execution_SETUP_PY_PACKAGE_DIRS "src/bwi_kr_execution")
+set(bwi_kr_execution_SETUP_PY_MODULES "")
+set(bwi_kr_execution_SETUP_PY_MODULE_DIRS "")

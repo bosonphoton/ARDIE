@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_services/share/roseus/ros/bwi_services/srv/GoToLocation.l

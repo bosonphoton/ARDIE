@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segbot_bringup/share/segbot_bringup/cmake/segbot_bringupConfig.cmake

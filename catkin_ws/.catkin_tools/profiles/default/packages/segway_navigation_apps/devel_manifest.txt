@@ -1,0 +1,5 @@
+segway_v3/segway_navigation/segway_navigation_apps
+/home/chels/catkin_ws/devel/.private/segway_navigation_apps/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segway_navigation_apps/lib/pkgconfig/segway_navigation_apps.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segway_navigation_apps.pc
+/home/chels/catkin_ws/devel/.private/segway_navigation_apps/share/segway_navigation_apps/cmake/segway_navigation_appsConfig-version.cmake /home/chels/catkin_ws/devel/share/segway_navigation_apps/cmake/segway_navigation_appsConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/segway_navigation_apps/share/segway_navigation_apps/cmake/segway_navigation_appsConfig.cmake /home/chels/catkin_ws/devel/share/segway_navigation_apps/cmake/segway_navigation_appsConfig.cmake

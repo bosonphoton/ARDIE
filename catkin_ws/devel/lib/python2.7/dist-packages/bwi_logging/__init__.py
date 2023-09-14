@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_logging/lib/python2.7/dist-packages/bwi_logging/__init__.py

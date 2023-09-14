@@ -1,0 +1,6 @@
+devel_space: /home/chelsea/catkin_ws/devel
+install: false
+install_space: /home/chelsea/catkin_ws/install
+profile: default
+source_space: /home/chelsea/catkin_ws/src
+workspace: /home/chelsea/catkin_ws

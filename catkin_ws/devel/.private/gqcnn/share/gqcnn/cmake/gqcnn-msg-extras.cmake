@@ -1,0 +1,2 @@
+set(gqcnn_MESSAGE_FILES "/home/chels/catkin_ws/src/gqcnn/msg/GQCNNGrasp.msg;/home/chels/catkin_ws/src/gqcnn/msg/BoundingBox.msg;/home/chels/catkin_ws/src/gqcnn/msg/Action.msg;/home/chels/catkin_ws/src/gqcnn/msg/Observation.msg")
+set(gqcnn_SERVICE_FILES "/home/chels/catkin_ws/src/gqcnn/srv/GQCNNGraspPlanner.srv;/home/chels/catkin_ws/src/gqcnn/srv/GQCNNGraspPlannerBoundingBox.srv;/home/chels/catkin_ws/src/gqcnn/srv/GQCNNGraspPlannerSegmask.srv")

@@ -1,0 +1,13 @@
+segway_v3/segway_ros
+/home/chels/catkin_ws/devel/.private/segway_ros/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segway_ros/include/segway_ros/segwayConfig.h /home/chels/catkin_ws/devel/include/segway_ros/segwayConfig.h
+/home/chels/catkin_ws/devel/.private/segway_ros/lib/python2.7/dist-packages/segway/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway/__init__.py
+/home/chels/catkin_ws/devel/.private/segway_ros/lib/python2.7/dist-packages/segway_ros/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/__init__.py
+/home/chels/catkin_ws/devel/.private/segway_ros/lib/python2.7/dist-packages/segway_ros/cfg/segwayConfig.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/cfg/segwayConfig.py
+/home/chels/catkin_ws/devel/.private/segway_ros/lib/python2.7/dist-packages/segway_ros/cfg/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/cfg/__init__.py
+/home/chels/catkin_ws/devel/.private/segway_ros/lib/pkgconfig/segway_ros.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segway_ros.pc
+/home/chels/catkin_ws/devel/.private/segway_ros/share/segway_ros/cmake/segway_rosConfig.cmake /home/chels/catkin_ws/devel/share/segway_ros/cmake/segway_rosConfig.cmake
+/home/chels/catkin_ws/devel/.private/segway_ros/share/segway_ros/cmake/segway_rosConfig-version.cmake /home/chels/catkin_ws/devel/share/segway_ros/cmake/segway_rosConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/segway_ros/share/segway_ros/docs/segwayConfig.dox /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig.dox
+/home/chels/catkin_ws/devel/.private/segway_ros/share/segway_ros/docs/segwayConfig-usage.dox /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig-usage.dox
+/home/chels/catkin_ws/devel/.private/segway_ros/share/segway_ros/docs/segwayConfig.wikidoc /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig.wikidoc

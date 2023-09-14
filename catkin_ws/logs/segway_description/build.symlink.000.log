@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/etc/catkin/profile.d/50.segway_description.sh
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segway_description.pc
+Symlinking /home/chels/catkin_ws/devel/share/segway_description/cmake/segway_descriptionConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segway_description/cmake/segway_descriptionConfig.cmake

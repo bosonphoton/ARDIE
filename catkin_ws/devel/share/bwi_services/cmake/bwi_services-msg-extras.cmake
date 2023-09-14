@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_services/share/bwi_services/cmake/bwi_services-msg-extras.cmake

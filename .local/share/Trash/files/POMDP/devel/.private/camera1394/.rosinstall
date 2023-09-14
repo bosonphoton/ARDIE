@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chelsea/catkin_ws/devel/.private/camera1394/setup.sh

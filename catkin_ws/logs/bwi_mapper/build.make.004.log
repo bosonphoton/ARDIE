@@ -1,0 +1,9 @@
+[ 46%] Built target bwi_mapper
+[ 53%] Built target bwi_mapper_test_graph
+[ 60%] Built target bwi_mapper_test_dfs
+[ 66%] Built target bwi_mapper_test_circle
+[ 73%] Built target bwi_mapper_test_map_loader
+[ 80%] Built target bwi_mapper_view_graph
+[ 86%] Built target bwi_mapper_generate_graph
+[ 93%] Built target bwi_mapper_test_voronoi
+[100%] Built target bwi_mapper_prepare_graph

@@ -1,0 +1,5 @@
+segbot/segbot_gazebo
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/lib/pkgconfig/segbot_gazebo.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_gazebo.pc
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/share/segbot_gazebo/cmake/segbot_gazeboConfig.cmake /home/chels/catkin_ws/devel/share/segbot_gazebo/cmake/segbot_gazeboConfig.cmake
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/share/segbot_gazebo/cmake/segbot_gazeboConfig-version.cmake /home/chels/catkin_ws/devel/share/segbot_gazebo/cmake/segbot_gazeboConfig-version.cmake

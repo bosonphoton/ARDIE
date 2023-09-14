@@ -1,0 +1,81 @@
+[35m[1mScanning dependencies of target camera1394_gencfg[0m
+[  3%] [34m[1mGenerating dynamic reconfigure files from cfg/Camera1394.cfg: /home/chelsea/catkin_ws/devel/.private/camera1394/include/camera1394/Camera1394Config.h /home/chelsea/catkin_ws/devel/.private/camera1394/lib/python2.7/dist-packages/camera1394/cfg/Camera1394Config.py[0m
+Generating reconfiguration files for Camera1394 in camera1394
+Wrote header file in /home/chelsea/catkin_ws/devel/.private/camera1394/include/camera1394/Camera1394Config.h
+[  3%] Built target camera1394_gencfg
+[35m[1mScanning dependencies of target _camera1394_generate_messages_check_deps_GetCameraRegisters[0m
+[  3%] Built target _camera1394_generate_messages_check_deps_GetCameraRegisters
+[35m[1mScanning dependencies of target _camera1394_generate_messages_check_deps_SetCameraRegisters[0m
+[  3%] Built target _camera1394_generate_messages_check_deps_SetCameraRegisters
+[35m[1mScanning dependencies of target camera1394_generate_messages_lisp[0m
+[  6%] [34m[1mGenerating Lisp code from camera1394/SetCameraRegisters.srv[0m
+[  9%] [34m[1mGenerating Lisp code from camera1394/GetCameraRegisters.srv[0m
+[  9%] Built target camera1394_generate_messages_lisp
+[35m[1mScanning dependencies of target camera1394_generate_messages_cpp[0m
+[ 12%] [34m[1mGenerating C++ code from camera1394/SetCameraRegisters.srv[0m
+[ 16%] [34m[1mGenerating C++ code from camera1394/GetCameraRegisters.srv[0m
+[ 16%] Built target camera1394_generate_messages_cpp
+[35m[1mScanning dependencies of target camera1394_generate_messages_eus[0m
+[ 19%] [34m[1mGenerating EusLisp code from camera1394/SetCameraRegisters.srv[0m
+[ 22%] [34m[1mGenerating EusLisp code from camera1394/GetCameraRegisters.srv[0m
+[ 25%] [34m[1mGenerating EusLisp manifest code for camera1394[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target camera1394_generate_messages_py[0m
+[ 29%] [34m[1mGenerating Python code from SRV camera1394/SetCameraRegisters[0m
+[ 32%] [34m[1mGenerating Python code from SRV camera1394/GetCameraRegisters[0m
+[ 32%] Built target camera1394_generate_messages_eus
+[ 35%] [34m[1mGenerating Python srv __init__.py for camera1394[0m
+[35m[1mScanning dependencies of target camera1394_generate_messages_nodejs[0m
+[ 38%] [34m[1mGenerating Javascript code from camera1394/SetCameraRegisters.srv[0m
+[ 41%] [34m[1mGenerating Javascript code from camera1394/GetCameraRegisters.srv[0m
+[ 41%] Built target camera1394_generate_messages_py
+[ 41%] Built target camera1394_generate_messages_nodejs
+[35m[1mScanning dependencies of target camera1394_generate_messages[0m
+[ 41%] Built target camera1394_generate_messages
+[35m[1mScanning dependencies of target camera1394_nodelet[0m
+[ 45%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/nodelet.cpp.o[0m
+[ 48%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/driver1394.cpp.o[0m
+[35m[1mScanning dependencies of target camera1394_node[0m
+[ 51%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/camera1394_node.cpp.o[0m
+[ 54%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/driver1394.cpp.o[0m
+[ 58%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/dev_camera1394.cpp.o[0m
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:[m[K In member function ‘[01m[Kint camera1394::Camera1394::open(camera1394::Camera1394Config&)[m[K’:
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:161:5:[m[K [01;35m[Kwarning: [m[K‘[01m[K]: Could not initialize dc1394_context.
+Make sure /dev/raw1394 exists, you have access permission,
+and libraw1394 development package is installed.[m[K’ directive output truncated writing 147 bytes into a region of size 87 [[01;35m[K-Wformat-truncation=[m[K]
+ int [01;35m[KCamera1394[m[K::open(camera1394::Camera1394Config &newconfig)
+     [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:63:13:[m[K [01;36m[Knote: [m[K‘[01m[Ksnprintf[m[K’ output 161 or more bytes into a destination of size 100
+     [01;36m[Ksnprintf(buf, 100, "[Camera1394::%s]: " msg, __FUNCTION__)[m[K; \
+     [01;36m[K~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:197:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCAM_EXCEPT[m[K’
+       [01;36m[KC[m[KAM_EXCEPT(camera1394::Exception,
+       [01;36m[K^[m[K
+[ 61%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/features.cpp.o[0m
+[ 64%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/format7.cpp.o[0m
+[ 67%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/modes.cpp.o[0m
+[ 70%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/dev_camera1394.cpp.o[0m
+[ 74%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/registers.cpp.o[0m
+[ 77%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_nodelet.dir/trigger.cpp.o[0m
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:[m[K In member function ‘[01m[Kint camera1394::Camera1394::open(camera1394::Camera1394Config&)[m[K’:
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:161:5:[m[K [01;35m[Kwarning: [m[K‘[01m[K]: Could not initialize dc1394_context.
+Make sure /dev/raw1394 exists, you have access permission,
+and libraw1394 development package is installed.[m[K’ directive output truncated writing 147 bytes into a region of size 87 [[01;35m[K-Wformat-truncation=[m[K]
+ int [01;35m[KCamera1394[m[K::open(camera1394::Camera1394Config &newconfig)
+     [01;35m[K^~~~~~~~~~[m[K
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:63:13:[m[K [01;36m[Knote: [m[K‘[01m[Ksnprintf[m[K’ output 161 or more bytes into a destination of size 100
+     [01;36m[Ksnprintf(buf, 100, "[Camera1394::%s]: " msg, __FUNCTION__)[m[K; \
+     [01;36m[K~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/chelsea/catkin_ws/src/camera1394/src/nodes/dev_camera1394.cpp:197:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCAM_EXCEPT[m[K’
+       [01;36m[KC[m[KAM_EXCEPT(camera1394::Exception,
+       [01;36m[K^[m[K
+[ 80%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/features.cpp.o[0m
+[ 83%] [32m[1mLinking CXX shared library /home/chelsea/catkin_ws/devel/.private/camera1394/lib/libcamera1394_nodelet.so[0m
+[ 83%] Built target camera1394_nodelet
+[ 87%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/format7.cpp.o[0m
+[ 90%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/modes.cpp.o[0m
+[ 93%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/registers.cpp.o[0m
+[ 96%] [32mBuilding CXX object src/nodes/CMakeFiles/camera1394_node.dir/trigger.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chelsea/catkin_ws/devel/.private/camera1394/lib/camera1394/camera1394_node[0m
+[100%] Built target camera1394_node

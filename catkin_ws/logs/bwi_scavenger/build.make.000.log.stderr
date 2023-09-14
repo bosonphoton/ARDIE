@@ -1,0 +1,18 @@
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/ScavTaskColorShirt.h:12:0[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/scavenger.cpp:16[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/ScavTaskColorShirt.h:12:0[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/ScavTaskColorShirt.cpp:9[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/ScavTaskHumanFollowing.cpp:8:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_scavenger/src/ScavTaskWhiteBoard.cpp:5:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K

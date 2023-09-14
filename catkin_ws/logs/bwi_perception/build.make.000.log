@@ -1,0 +1,233 @@
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_ProcessVision[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_ProcessVision
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_DetectHorizontalPlanes[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_DetectHorizontalPlanes
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_GetCloud[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_GetCloud
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_SetObstacles[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_SetObstacles
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_PerceiveTabletopScene[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_PerceiveTabletopScene
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_PerceiveLargestHorizontalPlane[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_PerceiveLargestHorizontalPlane
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[  0%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_FeatureExtraction[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_FeatureExtraction
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_GetPCD[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_GetPCD
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_ButtonDetection[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_ButtonDetection
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target _bwi_perception_generate_messages_check_deps_ExtractTabletopScene[0m
+[  0%] Built target _bwi_perception_generate_messages_check_deps_ExtractTabletopScene
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[  0%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[  0%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  0%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_perception_generate_messages_eus[0m
+[  1%] [34m[1mGenerating EusLisp code from bwi_perception/ButtonDetection.srv[0m
+[  2%] [34m[1mGenerating EusLisp code from bwi_perception/GetCloud.srv[0m
+[  4%] [34m[1mGenerating EusLisp code from bwi_perception/PerceiveTabletopScene.srv[0m
+[  5%] [34m[1mGenerating EusLisp code from bwi_perception/ExtractTabletopScene.srv[0m
+[  7%] [34m[1mGenerating EusLisp code from bwi_perception/PerceiveLargestHorizontalPlane.srv[0m
+[  8%] [34m[1mGenerating EusLisp code from bwi_perception/SetObstacles.srv[0m
+[ 10%] [34m[1mGenerating EusLisp code from bwi_perception/GetPCD.srv[0m
+[ 11%] [34m[1mGenerating EusLisp code from bwi_perception/DetectHorizontalPlanes.srv[0m
+[ 12%] [34m[1mGenerating EusLisp code from bwi_perception/FeatureExtraction.srv[0m
+[ 14%] [34m[1mGenerating EusLisp code from bwi_perception/ProcessVision.srv[0m
+[ 15%] [34m[1mGenerating EusLisp manifest code for bwi_perception[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 15%] Built target bwi_perception_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_perception_generate_messages_py[0m
+[ 17%] [34m[1mGenerating Python code from SRV bwi_perception/ButtonDetection[0m
+[ 18%] [34m[1mGenerating Python code from SRV bwi_perception/GetCloud[0m
+[ 20%] [34m[1mGenerating Python code from SRV bwi_perception/PerceiveTabletopScene[0m
+[ 21%] [34m[1mGenerating Python code from SRV bwi_perception/ExtractTabletopScene[0m
+[ 22%] [34m[1mGenerating Python code from SRV bwi_perception/PerceiveLargestHorizontalPlane[0m
+[ 24%] [34m[1mGenerating Python code from SRV bwi_perception/SetObstacles[0m
+[ 25%] [34m[1mGenerating Python code from SRV bwi_perception/GetPCD[0m
+[ 27%] [34m[1mGenerating Python code from SRV bwi_perception/DetectHorizontalPlanes[0m
+[ 28%] [34m[1mGenerating Python code from SRV bwi_perception/FeatureExtraction[0m
+[35m[1mScanning dependencies of target bwi_perception_generate_messages_lisp[0m
+[ 30%] [34m[1mGenerating Python code from SRV bwi_perception/ProcessVision[0m
+[ 31%] [34m[1mGenerating Lisp code from bwi_perception/ButtonDetection.srv[0m
+[ 32%] [34m[1mGenerating Lisp code from bwi_perception/GetCloud.srv[0m
+[ 34%] [34m[1mGenerating Lisp code from bwi_perception/PerceiveTabletopScene.srv[0m
+[ 35%] [34m[1mGenerating Python srv __init__.py for bwi_perception[0m
+[ 37%] [34m[1mGenerating Lisp code from bwi_perception/ExtractTabletopScene.srv[0m
+[ 38%] [34m[1mGenerating Lisp code from bwi_perception/PerceiveLargestHorizontalPlane.srv[0m
+[ 40%] [34m[1mGenerating Lisp code from bwi_perception/SetObstacles.srv[0m
+[ 40%] Built target bwi_perception_generate_messages_py
+[35m[1mScanning dependencies of target bwi_perception_generate_messages_cpp[0m
+[ 41%] [34m[1mGenerating Lisp code from bwi_perception/GetPCD.srv[0m
+[ 42%] [34m[1mGenerating C++ code from bwi_perception/ButtonDetection.srv[0m
+[ 44%] [34m[1mGenerating Lisp code from bwi_perception/DetectHorizontalPlanes.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from bwi_perception/FeatureExtraction.srv[0m
+[ 47%] [34m[1mGenerating Lisp code from bwi_perception/ProcessVision.srv[0m
+[ 47%] Built target bwi_perception_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_perception_generate_messages_nodejs[0m
+[ 48%] [34m[1mGenerating Javascript code from bwi_perception/ButtonDetection.srv[0m
+[ 50%] [34m[1mGenerating Javascript code from bwi_perception/GetCloud.srv[0m
+[ 51%] [34m[1mGenerating Javascript code from bwi_perception/PerceiveTabletopScene.srv[0m
+[ 52%] [34m[1mGenerating C++ code from bwi_perception/GetCloud.srv[0m
+[ 54%] [34m[1mGenerating Javascript code from bwi_perception/ExtractTabletopScene.srv[0m
+[ 55%] [34m[1mGenerating Javascript code from bwi_perception/PerceiveLargestHorizontalPlane.srv[0m
+[ 57%] [34m[1mGenerating Javascript code from bwi_perception/SetObstacles.srv[0m
+[ 58%] [34m[1mGenerating Javascript code from bwi_perception/GetPCD.srv[0m
+[ 60%] [34m[1mGenerating Javascript code from bwi_perception/DetectHorizontalPlanes.srv[0m
+[ 61%] [34m[1mGenerating Javascript code from bwi_perception/FeatureExtraction.srv[0m
+[ 62%] [34m[1mGenerating C++ code from bwi_perception/PerceiveTabletopScene.srv[0m
+[ 64%] [34m[1mGenerating Javascript code from bwi_perception/ProcessVision.srv[0m
+[ 64%] Built target bwi_perception_generate_messages_nodejs
+[ 65%] [34m[1mGenerating C++ code from bwi_perception/ExtractTabletopScene.srv[0m
+[ 67%] [34m[1mGenerating C++ code from bwi_perception/PerceiveLargestHorizontalPlane.srv[0m
+[ 68%] [34m[1mGenerating C++ code from bwi_perception/SetObstacles.srv[0m
+[ 70%] [34m[1mGenerating C++ code from bwi_perception/GetPCD.srv[0m
+[ 71%] [34m[1mGenerating C++ code from bwi_perception/DetectHorizontalPlanes.srv[0m
+[ 72%] [34m[1mGenerating C++ code from bwi_perception/FeatureExtraction.srv[0m
+[ 74%] [34m[1mGenerating C++ code from bwi_perception/ProcessVision.srv[0m
+[ 74%] Built target bwi_perception_generate_messages_cpp
+[35m[1mScanning dependencies of target button_detection_srv_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/button_detection_srv_node.dir/src/button_detection_srv_node.cpp.o[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/button_detection_srv_node.cpp:25[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 77%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/button_detection_srv_node[0m
+[ 77%] Built target button_detection_srv_node
+[35m[1mScanning dependencies of target libbwi_perception[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/libbwi_perception.dir/src/libbwi_perception/BoundingBox.cpp.o[0m
+[35m[1mScanning dependencies of target pointcloud_feature_server[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/libbwi_perception.dir/src/libbwi_perception/tabletop.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/pointcloud_feature_server.dir/src/pointcloud_feature_server.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/libbwi_perception.dir/src/libbwi_perception/convenience.cpp.o[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/include/bwi_perception/bwi_perception.h:21[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/libbwi_perception/tabletop.cpp:2[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[35m[1mScanning dependencies of target obstacle_cloud_manager[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/obstacle_cloud_manager.dir/src/obstacle_cloud_manager.cpp.o[0m
+[ 85%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/bwi_perception/lib/liblibbwi_perception.so[0m
+[ 87%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/pointcloud_feature_server[0m
+[ 87%] Built target libbwi_perception
+[35m[1mScanning dependencies of target image_logging_server[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/image_logging_server.dir/src/image_logging_server.cpp.o[0m
+[ 88%] Built target pointcloud_feature_server
+[35m[1mScanning dependencies of target bwi_perception_generate_messages[0m
+[ 88%] Built target bwi_perception_generate_messages
+[35m[1mScanning dependencies of target horizontal_surface_detector[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/horizontal_surface_detector.dir/src/horizontal_surface_detector.cpp.o[0m
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/image_logging_server.cpp:18:0[m[K:
+[01m[K/opt/ros/melodic/include/pcl_ros/point_cloud.h:303:27:[m[K [01;35m[Kwarning: [m[Kvariable templates only available with -std=c++14 or -std=gnu++14
+     constexpr static bool [01;35m[Kpcl_uses_boost[m[K = true;
+                           [01;35m[K^~~~~~~~~~~~~~[m[K
+[ 91%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/image_logging_server[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/obstacle_cloud_manager.cpp:30[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 92%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/obstacle_cloud_manager[0m
+[ 92%] Built target image_logging_server
+[35m[1mScanning dependencies of target table_change_detection_node[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/table_change_detection_node.dir/src/table_change_detection_node.cpp.o[0m
+[ 94%] Built target obstacle_cloud_manager
+[35m[1mScanning dependencies of target tabletop_scene_perception_node[0m
+[ 95%] [32mBuilding CXX object CMakeFiles/tabletop_scene_perception_node.dir/src/tabletop_scene_perception_node.cpp.o[0m
+In file included from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/horizontal_surface_detector.cpp:18:0[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 97%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/horizontal_surface_detector[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/table_change_detection_node.cpp:25[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 97%] Built target horizontal_surface_detector
+[ 98%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/table_change_detection_node[0m
+In file included from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model.h:52:0[m[K,
+                 from [01m[K/usr/include/pcl-1.8/pcl/sample_consensus/sac_model_plane.h:44[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/include/bwi_perception/bwi_perception.h:21[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/include/bwi_perception/filter.h:13[m[K,
+                 from [01m[K/home/chels/catkin_ws/src/bwi_common/bwi_perception/src/tabletop_scene_perception_node.cpp:29[m[K:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:[m[K In function ‘[01m[Kvoid __static_initialization_and_destruction_0(int, int)[m[K’:
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;35m[Kwarning: [m[K‘[01m[Kpcl::SAC_SAMPLE_SIZE[m[K’ is deprecated: This map is deprecated and is kept only to prevent breaking existing user code. Starting from PCL 1.8.0 model sample size is a protected member of the SampleConsensusModel class [[01;35m[K-Wdeprecated-declarations[m[K]
+   [01;35m[KSAC_SAMPLE_SIZE[m[K (sample_size_pairs, sample_size_pairs + sizeof (sample_size_pairs) / sizeof (SampleSizeModel));
+   [01;35m[K^~~~~~~~~~~~~~~[m[K
+[01m[K/usr/include/pcl-1.8/pcl/sample_consensus/model_types.h:99:3:[m[K [01;36m[Knote: [m[Kdeclared here
+[ 98%] Built target table_change_detection_node
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_perception/lib/bwi_perception/tabletop_scene_perception_node[0m
+[100%] Built target tabletop_scene_perception_node

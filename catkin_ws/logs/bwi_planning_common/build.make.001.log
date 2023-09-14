@@ -1,0 +1,14 @@
+[ 13%] Built target bwi_planning_common
+[ 13%] Built target std_msgs_generate_messages_cpp
+[ 13%] Built target _bwi_planning_common_generate_messages_check_deps_PlannerAtom
+[ 13%] Built target _bwi_planning_common_generate_messages_check_deps_PlannerInterface
+[ 13%] Built target std_msgs_generate_messages_py
+[ 13%] Built target std_msgs_generate_messages_nodejs
+[ 13%] Built target std_msgs_generate_messages_lisp
+[ 13%] Built target std_msgs_generate_messages_eus
+[ 26%] Built target bwi_planning_common_generate_messages_cpp
+[ 53%] Built target bwi_planning_common_generate_messages_py
+[ 80%] Built target bwi_planning_common_generate_messages_nodejs
+[ 80%] Built target bwi_planning_common_generate_messages_lisp
+[100%] Built target bwi_planning_common_generate_messages_eus
+[100%] Built target bwi_planning_common_generate_messages

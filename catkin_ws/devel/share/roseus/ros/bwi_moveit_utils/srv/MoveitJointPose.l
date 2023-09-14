@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_moveit_utils/share/roseus/ros/bwi_moveit_utils/srv/MoveitJointPose.l

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_ispc/share/bu_ispc/cmake/bu_ispcConfig-version.cmake

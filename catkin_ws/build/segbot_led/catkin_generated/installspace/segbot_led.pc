@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: segbot_led
+Description: Description of segbot_led
+Version: 0.3.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs bwi_msgs roscpp serial std_msgs

@@ -1,0 +1,368 @@
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlActionGoal[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlActionGoal
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_ScavHunt[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_ScavHunt
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDTestStrip[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDTestStrip
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavActionFeedback[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavActionFeedback
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlGoal[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlGoal
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_SaveImageResponse[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_SaveImageResponse
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlResult[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlResult
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDClear[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDClear
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavFeedback[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavFeedback
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LocationAction[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LocationAction
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_ImageQuestion[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_ImageQuestion
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_SemanticParser[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_SemanticParser
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_nodejs[0m
+[  0%] Built target bwi_planning_common_generate_messages_nodejs
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_QuestionDialog[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_QuestionDialog
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_StopBaseStatus[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_StopBaseStatus
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_NextLocation[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_NextLocation
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDStatus[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDStatus
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_UploadImage[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_UploadImage
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDActionResult[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDActionResult
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlActionFeedback[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlActionFeedback
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_AvailableRobot[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_AvailableRobot
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavAction[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavAction
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_StopBase[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_StopBase
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_WeekTime[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_WeekTime
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_CheckBool[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_CheckBool
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlFeedback[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlFeedback
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDAnimations[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDAnimations
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavResult[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavResult
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavigationState[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavigationState
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlAction[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlAction
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_DoorHandlerInterface[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_DoorHandlerInterface
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_ScavStatus[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_ScavStatus
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavGoal[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavGoal
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDSetStatus[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDSetStatus
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_AvailableRobotArray[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_AvailableRobotArray
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_ResolveChangeFloor[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_ResolveChangeFloor
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDControlActionResult[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDControlActionResult
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavActionResult[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavActionResult
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LogicalNavActionGoal[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LogicalNavActionGoal
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_UpdateObject[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_UpdateObject
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_RobotTeleporterInterface[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_RobotTeleporterInterface
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_ActionUpdate[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_ActionUpdate
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_GetNextImage[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_GetNextImage
+[35m[1mScanning dependencies of target _bwi_msgs_generate_messages_check_deps_LEDTestType[0m
+[  0%] Built target _bwi_msgs_generate_messages_check_deps_LEDTestType
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_py[0m
+[  0%] Built target bwi_planning_common_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_lisp[0m
+[  0%] Built target bwi_planning_common_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_eus[0m
+[  0%] Built target bwi_planning_common_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_planning_common_generate_messages_cpp[0m
+[  0%] Built target bwi_planning_common_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_nodejs[0m
+[  1%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavGoal.msg[0m
+[  1%] [34m[1mGenerating Javascript code from bwi_msgs/AvailableRobotArray.msg[0m
+[  2%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlAction.msg[0m
+[  2%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlActionResult.msg[0m
+[  2%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavActionResult.msg[0m
+[  3%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavigationState.msg[0m
+[  3%] [34m[1mGenerating Javascript code from bwi_msgs/LEDStatus.msg[0m
+[  4%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavActionGoal.msg[0m
+[  4%] [34m[1mGenerating Javascript code from bwi_msgs/ScavStatus.msg[0m
+[  5%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavFeedback.msg[0m
+[  5%] [34m[1mGenerating Javascript code from bwi_msgs/LEDTestType.msg[0m
+[  6%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlActionGoal.msg[0m
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_py[0m
+[  6%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavGoal[0m
+[  6%] [34m[1mGenerating Javascript code from bwi_msgs/LEDAnimations.msg[0m
+[  6%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavResult.msg[0m
+[  7%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlResult.msg[0m
+[  8%] [34m[1mGenerating Python from MSG bwi_msgs/AvailableRobotArray[0m
+[  8%] [34m[1mGenerating Javascript code from bwi_msgs/LEDActionResult.msg[0m
+[  9%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlGoal.msg[0m
+[  9%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavActionFeedback.msg[0m
+[  9%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlAction[0m
+[ 10%] [34m[1mGenerating Javascript code from bwi_msgs/StopBaseStatus.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlFeedback.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from bwi_msgs/LogicalNavAction.msg[0m
+[ 11%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlActionResult[0m
+[ 12%] [34m[1mGenerating Javascript code from bwi_msgs/AvailableRobot.msg[0m
+[ 12%] [34m[1mGenerating Javascript code from bwi_msgs/WeekTime.msg[0m
+[ 12%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavActionResult[0m
+[ 13%] [34m[1mGenerating Javascript code from bwi_msgs/LEDControlActionFeedback.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from bwi_msgs/SemanticParser.srv[0m
+[ 14%] [34m[1mGenerating Javascript code from bwi_msgs/CheckBool.srv[0m
+[ 15%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavigationState[0m
+[ 15%] [34m[1mGenerating Javascript code from bwi_msgs/UpdateObject.srv[0m
+[ 15%] [34m[1mGenerating Javascript code from bwi_msgs/SaveImageResponse.srv[0m
+[ 16%] [34m[1mGenerating Javascript code from bwi_msgs/LEDSetStatus.srv[0m
+[ 16%] [34m[1mGenerating Python from MSG bwi_msgs/LEDStatus[0m
+[ 16%] [34m[1mGenerating Javascript code from bwi_msgs/LEDTestStrip.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from bwi_msgs/ActionUpdate.srv[0m
+[ 17%] [34m[1mGenerating Javascript code from bwi_msgs/GetNextImage.srv[0m
+[ 18%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavActionGoal[0m
+[ 20%] [34m[1mGenerating Javascript code from bwi_msgs/QuestionDialog.srv[0m
+[ 20%] [34m[1mGenerating Javascript code from bwi_msgs/RobotTeleporterInterface.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from bwi_msgs/ResolveChangeFloor.srv[0m
+[ 21%] [34m[1mGenerating Python from MSG bwi_msgs/ScavStatus[0m
+[ 21%] [34m[1mGenerating Javascript code from bwi_msgs/ImageQuestion.srv[0m
+[ 21%] [34m[1mGenerating Javascript code from bwi_msgs/LocationAction.srv[0m
+[ 22%] [34m[1mGenerating Javascript code from bwi_msgs/NextLocation.srv[0m
+[ 22%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavFeedback[0m
+[ 22%] [34m[1mGenerating Javascript code from bwi_msgs/UploadImage.srv[0m
+[ 23%] [34m[1mGenerating Javascript code from bwi_msgs/DoorHandlerInterface.srv[0m
+[ 24%] [34m[1mGenerating Python from MSG bwi_msgs/LEDTestType[0m
+[ 24%] [34m[1mGenerating Javascript code from bwi_msgs/LEDClear.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from bwi_msgs/ScavHunt.srv[0m
+[ 25%] [34m[1mGenerating Javascript code from bwi_msgs/StopBase.srv[0m
+[ 25%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlActionGoal[0m
+[ 25%] Built target bwi_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_lisp[0m
+[ 26%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavGoal.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from bwi_msgs/AvailableRobotArray.msg[0m
+[ 27%] [34m[1mGenerating Python from MSG bwi_msgs/LEDAnimations[0m
+[ 28%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlAction.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlActionResult.msg[0m
+[ 29%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavActionResult.msg[0m
+[ 29%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavResult[0m
+[ 29%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavigationState.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from bwi_msgs/LEDStatus.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavActionGoal.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlResult[0m
+[ 31%] [34m[1mGenerating Lisp code from bwi_msgs/ScavStatus.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavFeedback.msg[0m
+[ 32%] [34m[1mGenerating Lisp code from bwi_msgs/LEDTestType.msg[0m
+[ 32%] [34m[1mGenerating Python from MSG bwi_msgs/LEDActionResult[0m
+[ 33%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlActionGoal.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from bwi_msgs/LEDAnimations.msg[0m
+[ 33%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlGoal[0m
+[ 34%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavResult.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlResult.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from bwi_msgs/LEDActionResult.msg[0m
+[ 35%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavActionFeedback[0m
+[ 36%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlGoal.msg[0m
+[ 36%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavActionFeedback.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from bwi_msgs/StopBaseStatus.msg[0m
+[ 37%] [34m[1mGenerating Python from MSG bwi_msgs/StopBaseStatus[0m
+[ 37%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlFeedback.msg[0m
+[ 38%] [34m[1mGenerating Lisp code from bwi_msgs/LogicalNavAction.msg[0m
+[ 38%] [34m[1mGenerating Lisp code from bwi_msgs/AvailableRobot.msg[0m
+[ 40%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlFeedback[0m
+[ 41%] [34m[1mGenerating Lisp code from bwi_msgs/WeekTime.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from bwi_msgs/LEDControlActionFeedback.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from bwi_msgs/SemanticParser.srv[0m
+[ 41%] [34m[1mGenerating Python from MSG bwi_msgs/LogicalNavAction[0m
+[ 42%] [34m[1mGenerating Lisp code from bwi_msgs/CheckBool.srv[0m
+[ 42%] [34m[1mGenerating Lisp code from bwi_msgs/UpdateObject.srv[0m
+[ 43%] [34m[1mGenerating Lisp code from bwi_msgs/SaveImageResponse.srv[0m
+[ 44%] [34m[1mGenerating Python from MSG bwi_msgs/AvailableRobot[0m
+[ 44%] [34m[1mGenerating Lisp code from bwi_msgs/LEDSetStatus.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from bwi_msgs/LEDTestStrip.srv[0m
+[ 45%] [34m[1mGenerating Lisp code from bwi_msgs/ActionUpdate.srv[0m
+[ 45%] [34m[1mGenerating Python from MSG bwi_msgs/WeekTime[0m
+[ 45%] [34m[1mGenerating Lisp code from bwi_msgs/GetNextImage.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from bwi_msgs/QuestionDialog.srv[0m
+[ 46%] [34m[1mGenerating Lisp code from bwi_msgs/RobotTeleporterInterface.srv[0m
+[ 47%] [34m[1mGenerating Python from MSG bwi_msgs/LEDControlActionFeedback[0m
+[ 48%] [34m[1mGenerating Lisp code from bwi_msgs/ResolveChangeFloor.srv[0m
+[ 48%] [34m[1mGenerating Lisp code from bwi_msgs/ImageQuestion.srv[0m
+[ 49%] [34m[1mGenerating Lisp code from bwi_msgs/LocationAction.srv[0m
+[ 49%] [34m[1mGenerating Python code from SRV bwi_msgs/SemanticParser[0m
+[ 49%] [34m[1mGenerating Lisp code from bwi_msgs/NextLocation.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from bwi_msgs/UploadImage.srv[0m
+[ 50%] [34m[1mGenerating Lisp code from bwi_msgs/DoorHandlerInterface.srv[0m
+[ 50%] [34m[1mGenerating Python code from SRV bwi_msgs/CheckBool[0m
+[ 50%] [34m[1mGenerating Lisp code from bwi_msgs/LEDClear.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from bwi_msgs/ScavHunt.srv[0m
+[ 51%] [34m[1mGenerating Lisp code from bwi_msgs/StopBase.srv[0m
+[ 52%] [34m[1mGenerating Python code from SRV bwi_msgs/UpdateObject[0m
+[ 52%] Built target bwi_msgs_generate_messages_lisp
+[ 52%] [34m[1mGenerating Python code from SRV bwi_msgs/SaveImageResponse[0m
+[ 53%] [34m[1mGenerating Python code from SRV bwi_msgs/LEDSetStatus[0m
+[ 53%] [34m[1mGenerating Python code from SRV bwi_msgs/LEDTestStrip[0m
+[ 54%] [34m[1mGenerating Python code from SRV bwi_msgs/ActionUpdate[0m
+[ 54%] [34m[1mGenerating Python code from SRV bwi_msgs/GetNextImage[0m
+[ 54%] [34m[1mGenerating Python code from SRV bwi_msgs/QuestionDialog[0m
+[ 55%] [34m[1mGenerating Python code from SRV bwi_msgs/RobotTeleporterInterface[0m
+[ 55%] [34m[1mGenerating Python code from SRV bwi_msgs/ResolveChangeFloor[0m
+[ 56%] [34m[1mGenerating Python code from SRV bwi_msgs/ImageQuestion[0m
+[ 56%] [34m[1mGenerating Python code from SRV bwi_msgs/LocationAction[0m
+[ 57%] [34m[1mGenerating Python code from SRV bwi_msgs/NextLocation[0m
+[ 57%] [34m[1mGenerating Python code from SRV bwi_msgs/UploadImage[0m
+[ 58%] [34m[1mGenerating Python code from SRV bwi_msgs/DoorHandlerInterface[0m
+[ 58%] [34m[1mGenerating Python code from SRV bwi_msgs/LEDClear[0m
+[ 58%] [34m[1mGenerating Python code from SRV bwi_msgs/ScavHunt[0m
+[ 60%] [34m[1mGenerating Python code from SRV bwi_msgs/StopBase[0m
+[ 60%] [34m[1mGenerating Python msg __init__.py for bwi_msgs[0m
+[ 61%] [34m[1mGenerating Python srv __init__.py for bwi_msgs[0m
+[ 61%] Built target bwi_msgs_generate_messages_py
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_eus[0m
+[ 62%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavGoal.msg[0m
+[ 62%] [34m[1mGenerating EusLisp code from bwi_msgs/AvailableRobotArray.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlAction.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlActionResult.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavActionResult.msg[0m
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages_cpp[0m
+[ 63%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavGoal.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavigationState.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDStatus.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavActionGoal.msg[0m
+[ 65%] [34m[1mGenerating C++ code from bwi_msgs/AvailableRobotArray.msg[0m
+[ 65%] [34m[1mGenerating EusLisp code from bwi_msgs/ScavStatus.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavFeedback.msg[0m
+[ 67%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlAction.msg[0m
+[ 67%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDTestType.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlActionGoal.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDAnimations.msg[0m
+[ 68%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlActionResult.msg[0m
+[ 68%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavResult.msg[0m
+[ 69%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlResult.msg[0m
+[ 70%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavActionResult.msg[0m
+[ 70%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDActionResult.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlGoal.msg[0m
+[ 71%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavigationState.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavActionFeedback.msg[0m
+[ 72%] [34m[1mGenerating EusLisp code from bwi_msgs/StopBaseStatus.msg[0m
+[ 72%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlFeedback.msg[0m
+[ 73%] [34m[1mGenerating C++ code from bwi_msgs/LEDStatus.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from bwi_msgs/LogicalNavAction.msg[0m
+[ 74%] [34m[1mGenerating EusLisp code from bwi_msgs/AvailableRobot.msg[0m
+[ 74%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavActionGoal.msg[0m
+[ 74%] [34m[1mGenerating EusLisp code from bwi_msgs/WeekTime.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDControlActionFeedback.msg[0m
+[ 75%] [34m[1mGenerating C++ code from bwi_msgs/ScavStatus.msg[0m
+[ 75%] [34m[1mGenerating EusLisp code from bwi_msgs/SemanticParser.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from bwi_msgs/CheckBool.srv[0m
+[ 76%] [34m[1mGenerating EusLisp code from bwi_msgs/UpdateObject.srv[0m
+[ 77%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavFeedback.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from bwi_msgs/SaveImageResponse.srv[0m
+[ 78%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDSetStatus.srv[0m
+[ 78%] [34m[1mGenerating C++ code from bwi_msgs/LEDTestType.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDTestStrip.srv[0m
+[ 80%] [34m[1mGenerating EusLisp code from bwi_msgs/ActionUpdate.srv[0m
+[ 81%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlActionGoal.msg[0m
+[ 81%] [34m[1mGenerating EusLisp code from bwi_msgs/GetNextImage.srv[0m
+[ 82%] [34m[1mGenerating EusLisp code from bwi_msgs/QuestionDialog.srv[0m
+[ 82%] [34m[1mGenerating C++ code from bwi_msgs/LEDAnimations.msg[0m
+[ 82%] [34m[1mGenerating EusLisp code from bwi_msgs/RobotTeleporterInterface.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from bwi_msgs/ResolveChangeFloor.srv[0m
+[ 83%] [34m[1mGenerating EusLisp code from bwi_msgs/ImageQuestion.srv[0m
+[ 84%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavResult.msg[0m
+[ 84%] [34m[1mGenerating EusLisp code from bwi_msgs/LocationAction.srv[0m
+[ 85%] [34m[1mGenerating EusLisp code from bwi_msgs/NextLocation.srv[0m
+[ 85%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlResult.msg[0m
+[ 85%] [34m[1mGenerating EusLisp code from bwi_msgs/UploadImage.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from bwi_msgs/DoorHandlerInterface.srv[0m
+[ 86%] [34m[1mGenerating EusLisp code from bwi_msgs/LEDClear.srv[0m
+[ 86%] [34m[1mGenerating C++ code from bwi_msgs/LEDActionResult.msg[0m
+[ 87%] [34m[1mGenerating EusLisp code from bwi_msgs/ScavHunt.srv[0m
+[ 87%] [34m[1mGenerating EusLisp code from bwi_msgs/StopBase.srv[0m
+[ 88%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlGoal.msg[0m
+[ 88%] [34m[1mGenerating EusLisp manifest code for bwi_msgs[0m
+[ 88%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavActionFeedback.msg[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 89%] [34m[1mGenerating C++ code from bwi_msgs/StopBaseStatus.msg[0m
+[ 89%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlFeedback.msg[0m
+[ 90%] [34m[1mGenerating C++ code from bwi_msgs/LogicalNavAction.msg[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 90%] [34m[1mGenerating C++ code from bwi_msgs/AvailableRobot.msg[0m
+[ 91%] [34m[1mGenerating C++ code from bwi_msgs/WeekTime.msg[0m
+[ 91%] [34m[1mGenerating C++ code from bwi_msgs/LEDControlActionFeedback.msg[0m
+[ 91%] [34m[1mGenerating C++ code from bwi_msgs/SemanticParser.srv[0m
+[ 91%] Built target bwi_msgs_generate_messages_eus
+[ 92%] [34m[1mGenerating C++ code from bwi_msgs/CheckBool.srv[0m
+[ 92%] [34m[1mGenerating C++ code from bwi_msgs/UpdateObject.srv[0m
+[ 93%] [34m[1mGenerating C++ code from bwi_msgs/SaveImageResponse.srv[0m
+[ 93%] [34m[1mGenerating C++ code from bwi_msgs/LEDSetStatus.srv[0m
+[ 94%] [34m[1mGenerating C++ code from bwi_msgs/LEDTestStrip.srv[0m
+[ 94%] [34m[1mGenerating C++ code from bwi_msgs/ActionUpdate.srv[0m
+[ 94%] [34m[1mGenerating C++ code from bwi_msgs/GetNextImage.srv[0m
+[ 95%] [34m[1mGenerating C++ code from bwi_msgs/QuestionDialog.srv[0m
+[ 95%] [34m[1mGenerating C++ code from bwi_msgs/RobotTeleporterInterface.srv[0m
+[ 96%] [34m[1mGenerating C++ code from bwi_msgs/ResolveChangeFloor.srv[0m
+[ 96%] [34m[1mGenerating C++ code from bwi_msgs/ImageQuestion.srv[0m
+[ 97%] [34m[1mGenerating C++ code from bwi_msgs/LocationAction.srv[0m
+[ 97%] [34m[1mGenerating C++ code from bwi_msgs/NextLocation.srv[0m
+[ 98%] [34m[1mGenerating C++ code from bwi_msgs/UploadImage.srv[0m
+[ 98%] [34m[1mGenerating C++ code from bwi_msgs/DoorHandlerInterface.srv[0m
+[ 98%] [34m[1mGenerating C++ code from bwi_msgs/LEDClear.srv[0m
+[100%] [34m[1mGenerating C++ code from bwi_msgs/ScavHunt.srv[0m
+[100%] [34m[1mGenerating C++ code from bwi_msgs/StopBase.srv[0m
+[100%] Built target bwi_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_msgs_generate_messages[0m
+[100%] Built target bwi_msgs_generate_messages

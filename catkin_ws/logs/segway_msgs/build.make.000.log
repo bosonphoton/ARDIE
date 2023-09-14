@@ -1,0 +1,82 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_ConfigCmd[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_ConfigCmd
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_Status[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Status
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_Propulsion[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Propulsion
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_Dynamics[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Dynamics
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_AuxPower[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_AuxPower
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_Faultlog[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Faultlog
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_Configuration[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Configuration
+[35m[1mScanning dependencies of target _segway_msgs_generate_messages_check_deps_SuperAux[0m
+[  0%] Built target _segway_msgs_generate_messages_check_deps_SuperAux
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target segway_msgs_generate_messages_py[0m
+[  2%] [34m[1mGenerating Python from MSG segway_msgs/Propulsion[0m
+[  4%] [34m[1mGenerating Python from MSG segway_msgs/Status[0m
+[  7%] [34m[1mGenerating Python from MSG segway_msgs/Faultlog[0m
+[  9%] [34m[1mGenerating Python from MSG segway_msgs/Configuration[0m
+[ 11%] [34m[1mGenerating Python from MSG segway_msgs/Dynamics[0m
+[ 14%] [34m[1mGenerating Python from MSG segway_msgs/AuxPower[0m
+[ 16%] [34m[1mGenerating Python from MSG segway_msgs/ConfigCmd[0m
+[ 19%] [34m[1mGenerating Python from MSG segway_msgs/SuperAux[0m
+[ 21%] [34m[1mGenerating Python msg __init__.py for segway_msgs[0m
+[35m[1mScanning dependencies of target segway_msgs_generate_messages_cpp[0m
+[ 23%] [34m[1mGenerating C++ code from segway_msgs/Propulsion.msg[0m
+[ 23%] Built target segway_msgs_generate_messages_py
+[35m[1mScanning dependencies of target segway_msgs_generate_messages_nodejs[0m
+[ 26%] [34m[1mGenerating Javascript code from segway_msgs/Propulsion.msg[0m
+[ 28%] [34m[1mGenerating C++ code from segway_msgs/Status.msg[0m
+[ 30%] [34m[1mGenerating Javascript code from segway_msgs/Status.msg[0m
+[ 33%] [34m[1mGenerating Javascript code from segway_msgs/Faultlog.msg[0m
+[ 35%] [34m[1mGenerating Javascript code from segway_msgs/Configuration.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from segway_msgs/Dynamics.msg[0m
+[ 40%] [34m[1mGenerating C++ code from segway_msgs/Faultlog.msg[0m
+[ 42%] [34m[1mGenerating Javascript code from segway_msgs/AuxPower.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from segway_msgs/ConfigCmd.msg[0m
+[ 47%] [34m[1mGenerating Javascript code from segway_msgs/SuperAux.msg[0m
+[ 47%] Built target segway_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target segway_msgs_generate_messages_eus[0m
+[ 50%] [34m[1mGenerating C++ code from segway_msgs/Configuration.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from segway_msgs/Propulsion.msg[0m
+[ 54%] [34m[1mGenerating EusLisp code from segway_msgs/Status.msg[0m
+[ 57%] [34m[1mGenerating EusLisp code from segway_msgs/Faultlog.msg[0m
+[ 59%] [34m[1mGenerating C++ code from segway_msgs/Dynamics.msg[0m
+[ 61%] [34m[1mGenerating EusLisp code from segway_msgs/Configuration.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from segway_msgs/Dynamics.msg[0m
+[ 66%] [34m[1mGenerating EusLisp code from segway_msgs/AuxPower.msg[0m
+[ 69%] [34m[1mGenerating C++ code from segway_msgs/AuxPower.msg[0m
+[ 71%] [34m[1mGenerating EusLisp code from segway_msgs/ConfigCmd.msg[0m
+[ 73%] [34m[1mGenerating EusLisp code from segway_msgs/SuperAux.msg[0m
+[ 76%] [34m[1mGenerating C++ code from segway_msgs/ConfigCmd.msg[0m
+[ 78%] [34m[1mGenerating EusLisp manifest code for segway_msgs[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 80%] [34m[1mGenerating C++ code from segway_msgs/SuperAux.msg[0m
+[ 80%] Built target segway_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target segway_msgs_generate_messages_lisp[0m
+[ 83%] [34m[1mGenerating Lisp code from segway_msgs/Propulsion.msg[0m
+[ 85%] [34m[1mGenerating Lisp code from segway_msgs/Status.msg[0m
+[ 88%] [34m[1mGenerating Lisp code from segway_msgs/Faultlog.msg[0m
+[ 90%] [34m[1mGenerating Lisp code from segway_msgs/Configuration.msg[0m
+[ 92%] [34m[1mGenerating Lisp code from segway_msgs/Dynamics.msg[0m
+[ 95%] [34m[1mGenerating Lisp code from segway_msgs/AuxPower.msg[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 97%] [34m[1mGenerating Lisp code from segway_msgs/ConfigCmd.msg[0m
+[100%] [34m[1mGenerating Lisp code from segway_msgs/SuperAux.msg[0m
+[100%] Built target segway_msgs_generate_messages_lisp
+[100%] Built target segway_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target segway_msgs_generate_messages[0m
+[100%] Built target segway_msgs_generate_messages

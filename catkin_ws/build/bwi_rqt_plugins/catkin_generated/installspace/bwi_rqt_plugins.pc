@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_rqt_plugins
+Description: Description of bwi_rqt_plugins
+Version: 0.3.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: bwi_msgs rqt_gui

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_v3_config/etc/catkin/profile.d/50.segway_config.bash

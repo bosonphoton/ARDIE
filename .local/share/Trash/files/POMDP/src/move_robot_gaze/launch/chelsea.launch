@@ -1,0 +1,5 @@
+<launch>
+	<include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"> </include>
+	<node pkg="move_robot_gaze" name="get_color" type="speak_object.py" cwd="node"/>
+	<node name="soundplay_node" pkg="sound_play" type="soundplay_node.py"/>
+</launch>

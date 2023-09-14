@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/ur_move_test
+
+Name: ur_move_test
+Description: Description of ur_move_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target fake_volt_pub[0m
+[  9%] [32mBuilding CXX object CMakeFiles/fake_volt_pub.dir/src/segbot_sensors/fake_volt_pub.cpp.o[0m
+[35m[1mScanning dependencies of target segbot_sensors_gencfg[0m
+[ 18%] [34m[1mGenerating dynamic reconfigure files from cfg/SegbotVelodyneOutlierRemoval.cfg: /home/chels/catkin_ws/devel/.private/segbot_sensors/include/segbot_sensors/SegbotVelodyneOutlierRemovalConfig.h /home/chels/catkin_ws/devel/.private/segbot_sensors/lib/python2.7/dist-packages/segbot_sensors/cfg/SegbotVelodyneOutlierRemovalConfig.py[0m
+Generating reconfiguration files for SegbotVelodyneOutlierRemoval in segbot_sensors
+Wrote header file in /home/chels/catkin_ws/devel/.private/segbot_sensors/include/segbot_sensors/SegbotVelodyneOutlierRemovalConfig.h
+[ 18%] Built target segbot_sensors_gencfg
+[35m[1mScanning dependencies of target battery_diagnostics[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/battery_diagnostics.dir/src/segbot_sensors/battery_diagnostics.cpp.o[0m
+[ 36%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/segbot_sensors/lib/segbot_sensors/fake_volt_pub[0m
+[ 36%] Built target fake_volt_pub
+[35m[1mScanning dependencies of target segbot_sensors_filters[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/segbot_sensors_filters.dir/src/segbot_sensors_filters.cpp.o[0m
+[ 54%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/segbot_sensors/lib/segbot_sensors/battery_diagnostics[0m
+[ 54%] Built target battery_diagnostics
+[ 63%] [32mBuilding CXX object CMakeFiles/segbot_sensors_filters.dir/src/segbot_velodyne_outlier_removal.cpp.o[0m
+[ 72%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/segbot_sensors/lib/libsegbot_sensors_filters.so[0m
+[ 72%] Built target segbot_sensors_filters
+[35m[1mScanning dependencies of target range_to_cloud[0m
+[ 81%] [32mBuilding CXX object src/sonar/CMakeFiles/range_to_cloud.dir/range_nodelet.cpp.o[0m
+[ 90%] [32mBuilding CXX object src/sonar/CMakeFiles/range_to_cloud.dir/range_to_cloud.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/segbot_sensors/lib/librange_to_cloud.so[0m
+[100%] Built target range_to_cloud

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_v3_config/lib/pkgconfig/segway_v3_config.pc

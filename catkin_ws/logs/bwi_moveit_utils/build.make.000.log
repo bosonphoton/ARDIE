@@ -1,0 +1,81 @@
+[35m[1mScanning dependencies of target _bwi_moveit_utils_generate_messages_check_deps_MoveitJointPose[0m
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitJointPose
+[35m[1mScanning dependencies of target _bwi_moveit_utils_generate_messages_check_deps_MoveitWaypoint[0m
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitWaypoint
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _bwi_moveit_utils_generate_messages_check_deps_MoveitCartesianPose[0m
+[  0%] Built target _bwi_moveit_utils_generate_messages_check_deps_MoveitCartesianPose
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[  0%] Built target moveit_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[  0%] Built target moveit_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[  0%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[  0%] Built target moveit_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[  0%] Built target moveit_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[  0%] Built target moveit_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages_cpp[0m
+[  4%] [34m[1mGenerating C++ code from bwi_moveit_utils/MoveitJointPose.srv[0m
+[  8%] [34m[1mGenerating C++ code from bwi_moveit_utils/MoveitWaypoint.srv[0m
+[ 13%] [34m[1mGenerating C++ code from bwi_moveit_utils/MoveitCartesianPose.srv[0m
+[ 13%] Built target bwi_moveit_utils_generate_messages_cpp
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages_py[0m
+[ 17%] [34m[1mGenerating Python code from SRV bwi_moveit_utils/MoveitJointPose[0m
+[ 21%] [34m[1mGenerating Python code from SRV bwi_moveit_utils/MoveitWaypoint[0m
+[ 26%] [34m[1mGenerating Python code from SRV bwi_moveit_utils/MoveitCartesianPose[0m
+[ 30%] [34m[1mGenerating Python srv __init__.py for bwi_moveit_utils[0m
+[ 30%] Built target bwi_moveit_utils_generate_messages_py
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages_nodejs[0m
+[ 34%] [34m[1mGenerating Javascript code from bwi_moveit_utils/MoveitJointPose.srv[0m
+[ 39%] [34m[1mGenerating Javascript code from bwi_moveit_utils/MoveitWaypoint.srv[0m
+[ 43%] [34m[1mGenerating Javascript code from bwi_moveit_utils/MoveitCartesianPose.srv[0m
+[ 43%] Built target bwi_moveit_utils_generate_messages_nodejs
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages_lisp[0m
+[ 47%] [34m[1mGenerating Lisp code from bwi_moveit_utils/MoveitJointPose.srv[0m
+[ 52%] [34m[1mGenerating Lisp code from bwi_moveit_utils/MoveitWaypoint.srv[0m
+[ 56%] [34m[1mGenerating Lisp code from bwi_moveit_utils/MoveitCartesianPose.srv[0m
+[ 56%] Built target bwi_moveit_utils_generate_messages_lisp
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages_eus[0m
+[ 60%] [34m[1mGenerating EusLisp code from bwi_moveit_utils/MoveitJointPose.srv[0m
+[ 65%] [34m[1mGenerating EusLisp code from bwi_moveit_utils/MoveitWaypoint.srv[0m
+[ 69%] [34m[1mGenerating EusLisp code from bwi_moveit_utils/MoveitCartesianPose.srv[0m
+[ 73%] [34m[1mGenerating EusLisp manifest code for bwi_moveit_utils[0m
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "gazebo_ros_2Dmap_plugin" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[ 73%] Built target bwi_moveit_utils_generate_messages_eus
+[35m[1mScanning dependencies of target bwi_moveit_utils_gencpp[0m
+[35m[1mScanning dependencies of target bwi_moveit_utils_generate_messages[0m
+[ 73%] Built target bwi_moveit_utils_gencpp
+[ 73%] Built target bwi_moveit_utils_generate_messages
+[35m[1mScanning dependencies of target moveit_waypoint_service[0m
+[35m[1mScanning dependencies of target moveit_cartesian_pose_service[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/moveit_waypoint_service.dir/src/moveit_waypoint_service.cpp.o[0m
+[ 82%] [32mBuilding CXX object CMakeFiles/moveit_cartesian_pose_service.dir/src/moveit_cartesian_pose_service.cpp.o[0m
+[ 86%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_cartesian_pose_service[0m
+[ 86%] Built target moveit_cartesian_pose_service
+[35m[1mScanning dependencies of target moveit_joint_pose_service[0m
+[ 91%] [32mBuilding CXX object CMakeFiles/moveit_joint_pose_service.dir/src/moveit_joint_pose_service.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_waypoint_service[0m
+[ 95%] Built target moveit_waypoint_service
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_moveit_utils/lib/bwi_moveit_utils/moveit_joint_pose_service[0m
+[100%] Built target moveit_joint_pose_service

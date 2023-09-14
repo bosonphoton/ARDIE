@@ -1,0 +1,10 @@
+(cl:defpackage dialogflow_ros-srv
+  (:use )
+  (:export
+   "DIALOGFLOWSERVICE"
+   "<DIALOGFLOWSERVICE-REQUEST>"
+   "DIALOGFLOWSERVICE-REQUEST"
+   "<DIALOGFLOWSERVICE-RESPONSE>"
+   "DIALOGFLOWSERVICE-RESPONSE"
+  ))
+

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_msgs/share/bwi_msgs/msg/LogicalNavActionResult.msg

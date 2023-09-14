@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segbot_firmware/share/segbot_firmware/cmake/segbot_firmwareConfig.cmake

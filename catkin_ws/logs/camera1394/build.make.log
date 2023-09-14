@@ -1,0 +1,11 @@
+[  3%] Built target camera1394_gencfg
+[  3%] Built target _camera1394_generate_messages_check_deps_GetCameraRegisters
+[  3%] Built target _camera1394_generate_messages_check_deps_SetCameraRegisters
+[ 12%] Built target camera1394_generate_messages_eus
+[ 22%] Built target camera1394_generate_messages_py
+[ 29%] Built target camera1394_generate_messages_nodejs
+[ 35%] Built target camera1394_generate_messages_lisp
+[ 41%] Built target camera1394_generate_messages_cpp
+[ 41%] Built target camera1394_generate_messages
+[ 70%] Built target camera1394_nodelet
+[100%] Built target camera1394_node

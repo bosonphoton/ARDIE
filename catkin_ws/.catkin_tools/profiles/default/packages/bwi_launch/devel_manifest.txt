@@ -1,0 +1,5 @@
+bwi/bwi_launch
+/home/chels/catkin_ws/devel/.private/bwi_launch/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bwi_launch/lib/pkgconfig/bwi_launch.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_launch.pc
+/home/chels/catkin_ws/devel/.private/bwi_launch/share/bwi_launch/cmake/bwi_launchConfig.cmake /home/chels/catkin_ws/devel/share/bwi_launch/cmake/bwi_launchConfig.cmake
+/home/chels/catkin_ws/devel/.private/bwi_launch/share/bwi_launch/cmake/bwi_launchConfig-version.cmake /home/chels/catkin_ws/devel/share/bwi_launch/cmake/bwi_launchConfig-version.cmake

@@ -1,0 +1,13 @@
+(cl:defpackage multi_level_map_msgs-msg
+  (:use )
+  (:export
+   "<LEVELMETADATA>"
+   "LEVELMETADATA"
+   "<MULTILEVELMAPDATA>"
+   "MULTILEVELMAPDATA"
+   "<MULTILEVELMAPLINK>"
+   "MULTILEVELMAPLINK"
+   "<MULTILEVELMAPPOINT>"
+   "MULTILEVELMAPPOINT"
+  ))
+

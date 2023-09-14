@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/astra_camera/share/roseus/ros/astra_camera/srv/SetAutoExposure.l

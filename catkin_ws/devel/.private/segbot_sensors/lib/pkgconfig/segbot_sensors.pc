@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/segbot_sensors
+
+Name: segbot_sensors
+Description: Description of segbot_sensors
+Version: 0.3.5
+Cflags: -I/home/chels/catkin_ws/devel/.private/segbot_sensors/include -I/home/chels/catkin_ws/src/segbot/segbot_sensors/include
+Libs: -L${prefix}/lib -lsegbot_sensors_filters -lrange_to_cloud
+Requires: diagnostic_msgs dynamic_reconfigure geometry_msgs laser_filters message_runtime nodelet pcl_ros sensor_msgs std_msgs tf

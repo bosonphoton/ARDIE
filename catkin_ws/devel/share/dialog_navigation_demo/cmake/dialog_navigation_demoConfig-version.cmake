@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialog_navigation_demo/share/dialog_navigation_demo/cmake/dialog_navigation_demoConfig-version.cmake

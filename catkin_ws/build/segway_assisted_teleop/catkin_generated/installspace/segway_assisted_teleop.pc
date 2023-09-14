@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: segway_assisted_teleop
+Description: Description of segway_assisted_teleop
+Version: 0.0.1
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: actionlib angles base_local_planner costmap_2d filters geometry_msgs message_filters move_base_msgs pluginlib roscpp roslib sensor_msgs tf2 tf2_ros

@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_joystick_teleop/joystick_teleop_node
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_joystick_teleop.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_joystick_teleop/cmake/bwi_joystick_teleopConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_joystick_teleop/cmake/bwi_joystick_teleopConfig.cmake

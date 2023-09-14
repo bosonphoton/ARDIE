@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chelsea/catkin_ws/devel/.private/rqt_easy_handeye/setup.sh

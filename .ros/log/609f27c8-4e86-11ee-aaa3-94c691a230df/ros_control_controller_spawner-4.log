@@ -1,0 +1,23 @@
+[rospy.client][INFO] 2023-09-08 16:29:17,794: init_node, name[/ros_control_controller_spawner], pid[2948]
+[xmlrpc][INFO] 2023-09-08 16:29:17,798: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2023-09-08 16:29:17,798: ROS Slave URI: [http://segbot:34523/]
+[xmlrpc][INFO] 2023-09-08 16:29:17,798: Started XML-RPC server [http://segbot:34523/]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:29:17,798: _ready: http://segbot:34523/
+[xmlrpc][INFO] 2023-09-08 16:29:17,799: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 16:29:17,799: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-08 16:29:17,899: registered with master
+[rospy.rosout][INFO] 2023-09-08 16:29:17,899: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 16:29:17,910: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 16:29:17,911: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-08 16:29:17,914: Controller Spawner: Waiting for service controller_manager/load_controller
+[rospy.internal][INFO] 2023-09-08 16:29:18,035: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2023-09-08 16:29:19,141: Controller Spawner: Waiting for service controller_manager/switch_controller
+[rosout][INFO] 2023-09-08 16:29:19,143: Controller Spawner: Waiting for service controller_manager/unload_controller
+[rosout][INFO] 2023-09-08 16:29:19,144: Loading controller: joint_state_controller
+[rosout][INFO] 2023-09-08 16:29:19,155: Loading controller: scaled_pos_joint_traj_controller
+[rosout][INFO] 2023-09-08 16:29:19,186: Loading controller: speed_scaling_state_controller
+[rosout][INFO] 2023-09-08 16:29:19,234: Loading controller: force_torque_sensor_controller
+[rosout][INFO] 2023-09-08 16:29:19,258: Controller Spawner: Loaded controllers: joint_state_controller, scaled_pos_joint_traj_controller, speed_scaling_state_controller, force_torque_sensor_controller
+[rosout][INFO] 2023-09-08 16:29:19,264: Started controllers: joint_state_controller, scaled_pos_joint_traj_controller, speed_scaling_state_controller, force_torque_sensor_controller
+[rospy.core][INFO] 2023-09-08 16:29:45,905: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-08 16:29:45,917: signal_shutdown [atexit]

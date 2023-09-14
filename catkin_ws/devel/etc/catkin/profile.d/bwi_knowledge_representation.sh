@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/etc/catkin/profile.d/bwi_knowledge_representation.sh

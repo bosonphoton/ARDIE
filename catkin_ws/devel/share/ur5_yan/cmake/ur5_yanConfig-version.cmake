@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/ur5_yan/share/ur5_yan/cmake/ur5_yanConfig-version.cmake

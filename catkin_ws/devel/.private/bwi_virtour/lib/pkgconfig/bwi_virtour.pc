@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_virtour
+
+Name: bwi_virtour
+Description: Description of bwi_virtour
+Version: 0.3.12
+Cflags: -I/home/chels/catkin_ws/devel/.private/bwi_virtour/include
+Libs: -L${prefix}/lib 
+Requires: actionlib plan_execution message_runtime roscpp std_msgs

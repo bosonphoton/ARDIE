@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_virtour/share/gennodejs/ros/bwi_virtour/srv/GoBesideLocation.js

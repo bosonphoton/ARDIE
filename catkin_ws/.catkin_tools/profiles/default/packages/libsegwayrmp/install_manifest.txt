@@ -1,0 +1,6 @@
+/home/chels/catkin_ws/devel/lib/libsegwayrmp.a
+/home/chels/catkin_ws/devel/include/segwayrmp/segwayrmp.h
+/home/chels/catkin_ws/devel/share/libsegwayrmp/libsegwayrmpConfig.cmake
+/home/chels/catkin_ws/devel/share/libsegwayrmp/package.xml
+/home/chels/catkin_ws/devel/lib/libftd2xx.a
+/home/chels/catkin_ws/devel/lib/pkgconfig/libsegwayrmp.pc

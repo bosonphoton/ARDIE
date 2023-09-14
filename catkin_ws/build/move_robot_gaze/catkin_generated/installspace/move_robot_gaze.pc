@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: move_robot_gaze
+Description: Description of move_robot_gaze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

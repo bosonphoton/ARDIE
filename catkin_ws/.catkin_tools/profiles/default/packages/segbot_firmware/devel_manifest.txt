@@ -1,0 +1,5 @@
+segbot/segbot_firmware
+/home/chels/catkin_ws/devel/.private/segbot_firmware/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segbot_firmware/lib/pkgconfig/segbot_firmware.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_firmware.pc
+/home/chels/catkin_ws/devel/.private/segbot_firmware/share/segbot_firmware/cmake/segbot_firmwareConfig-version.cmake /home/chels/catkin_ws/devel/share/segbot_firmware/cmake/segbot_firmwareConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/segbot_firmware/share/segbot_firmware/cmake/segbot_firmwareConfig.cmake /home/chels/catkin_ws/devel/share/segbot_firmware/cmake/segbot_firmwareConfig.cmake

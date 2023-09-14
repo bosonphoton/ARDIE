@@ -1,0 +1,5 @@
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_led/led_control_server
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_led/test_led_control_server
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_led.pc
+Symlinking /home/chels/catkin_ws/devel/share/segbot_led/cmake/segbot_ledConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_led/cmake/segbot_ledConfig-version.cmake

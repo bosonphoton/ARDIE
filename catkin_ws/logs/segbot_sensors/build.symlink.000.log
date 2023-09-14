@@ -1,0 +1,14 @@
+Symlinking /home/chels/catkin_ws/devel/include/segbot_sensors/SegbotVelodyneOutlierRemovalConfig.h
+Symlinking /home/chels/catkin_ws/devel/lib/libsegbot_sensors_filters.so
+Symlinking /home/chels/catkin_ws/devel/lib/librange_to_cloud.so
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segbot_sensors/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segbot_sensors/cfg/SegbotVelodyneOutlierRemovalConfig.py
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segbot_sensors/cfg/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_sensors.pc
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_sensors/fake_volt_pub
+Symlinking /home/chels/catkin_ws/devel/lib/segbot_sensors/battery_diagnostics
+Symlinking /home/chels/catkin_ws/devel/share/segbot_sensors/cmake/segbot_sensorsConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_sensors/cmake/segbot_sensorsConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_sensors/docs/SegbotVelodyneOutlierRemovalConfig.dox
+Symlinking /home/chels/catkin_ws/devel/share/segbot_sensors/docs/SegbotVelodyneOutlierRemovalConfig.wikidoc
+Symlinking /home/chels/catkin_ws/devel/share/segbot_sensors/docs/SegbotVelodyneOutlierRemovalConfig-usage.dox

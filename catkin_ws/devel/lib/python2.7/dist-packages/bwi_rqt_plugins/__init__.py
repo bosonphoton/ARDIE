@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_rqt_plugins/lib/python2.7/dist-packages/bwi_rqt_plugins/__init__.py

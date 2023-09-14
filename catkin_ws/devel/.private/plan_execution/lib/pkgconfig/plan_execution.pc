@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/plan_execution
+
+Name: plan_execution
+Description: Description of plan_execution
+Version: 0.0.0
+Cflags: -I/home/chels/catkin_ws/devel/.private/plan_execution/include -I/home/chels/catkin_ws/src/bwi_common/plan_execution/include -I/home/chels/catkin_ws/src/bwi_common/plan_execution/actasp/include
+Libs: -L${prefix}/lib -lactasp -lplan_execution
+Requires: actionlib_msgs bwi_msgs message_runtime roscpp std_msgs std_srvs bwi_msgs

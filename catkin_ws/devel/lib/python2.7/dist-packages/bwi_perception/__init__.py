@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_perception/lib/python2.7/dist-packages/bwi_perception/__init__.py

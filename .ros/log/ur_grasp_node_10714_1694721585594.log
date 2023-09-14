@@ -1,0 +1,45 @@
+[rospy.client][INFO] 2023-09-14 15:59:45,669: init_node, name[/ur_grasp_node_10714_1694721585594], pid[10714]
+[xmlrpc][INFO] 2023-09-14 15:59:45,670: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:59:45,670: Started XML-RPC server [http://segbot:37161/]
+[rospy.init][INFO] 2023-09-14 15:59:45,670: ROS Slave URI: [http://segbot:37161/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:59:45,670: _ready: http://segbot:37161/
+[xmlrpc][INFO] 2023-09-14 15:59:45,671: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:59:45,671: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-14 15:59:45,771: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:59:45,771: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:59:45,772: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:59:45,773: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:59:47,130: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 15:59:47,132: topic[/tf] adding connection to [http://segbot:36339/], count 0
+[rospy.internal][INFO] 2023-09-14 15:59:47,132: topic[/tf] adding connection to [http://segbot:35679/], count 0
+[rospy.internal][INFO] 2023-09-14 15:59:47,135: topic[/collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 15:59:47,137: topic[/tf_static] adding connection to [http://segbot:36339/], count 0
+[rospy.internal][INFO] 2023-09-14 15:59:47,139: topic[/tf_static] adding connection to [http://segbot:33569/], count 1
+[rospy.internal][INFO] 2023-09-14 15:59:47,140: topic[/tf] adding connection to [http://segbot:36341/], count 2
+[rospy.internal][INFO] 2023-09-14 15:59:47,140: topic[/attached_collision_object] adding connection to [/move_group], count 0
+[rospy.core][INFO] 2023-09-14 15:59:53,902: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-14 15:59:53,906: topic[/collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 15:59:53,907: topic[/attached_collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 15:59:53,907: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-14 15:59:53,907: topic[/tf_static] removing connection to http://segbot:36339/
+[rospy.internal][INFO] 2023-09-14 15:59:53,908: topic[/tf_static] removing connection to http://segbot:33569/
+[rospy.internal][INFO] 2023-09-14 15:59:53,908: topic[/tf_static] removing connection to http://segbot:33569/
+[rospy.topics][ERROR] 2023-09-14 15:59:53,908: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 858, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][INFO] 2023-09-14 15:59:53,909: topic[/tf] removing connection to http://segbot:36339/
+[rospy.internal][INFO] 2023-09-14 15:59:53,909: topic[/tf] removing connection to http://segbot:36339/
+[rospy.topics][ERROR] 2023-09-14 15:59:53,909: Traceback (most recent call last):
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/topics.py", line 326, in close
+    c.close()
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rospy/impl/tcpros_base.py", line 858, in close
+    self.socket.close()
+AttributeError: 'NoneType' object has no attribute 'close'
+
+[rospy.internal][INFO] 2023-09-14 15:59:53,909: topic[/tf] removing connection to http://segbot:35679/
+[rospy.internal][INFO] 2023-09-14 15:59:53,909: topic[/tf] removing connection to http://segbot:36341/
+[rospy.impl.masterslave][INFO] 2023-09-14 15:59:53,910: atexit

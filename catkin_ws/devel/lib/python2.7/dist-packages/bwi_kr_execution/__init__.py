@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_kr_execution/lib/python2.7/dist-packages/bwi_kr_execution/__init__.py

@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_eb/lib/pkgconfig/bu_eb.pc

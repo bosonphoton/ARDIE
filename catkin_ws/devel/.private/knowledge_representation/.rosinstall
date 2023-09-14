@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/chels/catkin_ws/devel/.private/knowledge_representation/setup.sh

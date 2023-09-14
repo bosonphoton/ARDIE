@@ -1,0 +1,11 @@
+Symlinking /home/chels/catkin_ws/devel/include/segway_ros/segwayConfig.h
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/cfg/segwayConfig.py
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/segway_ros/cfg/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segway_ros.pc
+Symlinking /home/chels/catkin_ws/devel/share/segway_ros/cmake/segway_rosConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segway_ros/cmake/segway_rosConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig.dox
+Symlinking /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig-usage.dox
+Symlinking /home/chels/catkin_ws/devel/share/segway_ros/docs/segwayConfig.wikidoc

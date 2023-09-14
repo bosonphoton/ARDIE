@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segbot_gazebo/lib/pkgconfig/segbot_gazebo.pc

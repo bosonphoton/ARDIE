@@ -1,0 +1,26 @@
+image_width: 640
+image_height: 480
+camera_name: depth_Astra
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [ 578.31994,    0.     ,  327.58979,
+            0.     ,  576.42935,  283.93905,
+            0.     ,    0.     ,    1.     ]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.190644, 0.540990, 0.018052, 0.009112, 0.000000]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [ 1.,  0.,  0.,
+          0.,  1.,  0.,
+          0.,  0.,  1.]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [ 596.32526,    0.     ,  330.95565,    0.     ,
+            0.     ,  592.54169,  287.64062,    0.     ,
+            0.     ,    0.     ,    1.     ,    0.     ]

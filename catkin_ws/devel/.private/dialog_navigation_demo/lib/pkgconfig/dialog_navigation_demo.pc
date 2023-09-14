@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/dialog_navigation_demo
+
+Name: dialog_navigation_demo
+Description: Description of dialog_navigation_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

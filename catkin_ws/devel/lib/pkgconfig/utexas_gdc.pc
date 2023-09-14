@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/utexas_gdc/lib/pkgconfig/utexas_gdc.pc

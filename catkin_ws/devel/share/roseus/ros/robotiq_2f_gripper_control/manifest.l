@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/robotiq_2f_gripper_control/share/roseus/ros/robotiq_2f_gripper_control/manifest.l

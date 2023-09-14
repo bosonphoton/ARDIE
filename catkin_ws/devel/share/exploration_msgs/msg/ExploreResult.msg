@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/exploration_msgs/share/exploration_msgs/msg/ExploreResult.msg

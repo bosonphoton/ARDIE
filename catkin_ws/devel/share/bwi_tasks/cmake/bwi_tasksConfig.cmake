@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_tasks/share/bwi_tasks/cmake/bwi_tasksConfig.cmake

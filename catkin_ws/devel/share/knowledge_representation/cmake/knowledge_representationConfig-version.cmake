@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/knowledge_representation/share/knowledge_representation/cmake/knowledge_representationConfig-version.cmake

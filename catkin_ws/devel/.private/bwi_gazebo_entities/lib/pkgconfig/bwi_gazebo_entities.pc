@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_gazebo_entities
+
+Name: bwi_gazebo_entities
+Description: Description of bwi_gazebo_entities
+Version: 0.3.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

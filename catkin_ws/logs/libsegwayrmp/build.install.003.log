@@ -1,0 +1,10 @@
+[ 71%] Built target segwayrmp
+[100%] Built target segwayrmp_example
+[36mInstall the project...[0m
+-- Install configuration: "RELWITHDEBINFO"
+-- Up-to-date: /home/chels/catkin_ws/devel/lib/libsegwayrmp.a
+-- Up-to-date: /home/chels/catkin_ws/devel/include/segwayrmp/segwayrmp.h
+-- Up-to-date: /home/chels/catkin_ws/devel/share/libsegwayrmp/libsegwayrmpConfig.cmake
+-- Up-to-date: /home/chels/catkin_ws/devel/share/libsegwayrmp/package.xml
+-- Up-to-date: /home/chels/catkin_ws/devel/lib/libftd2xx.a
+-- Up-to-date: /home/chels/catkin_ws/devel/lib/pkgconfig/libsegwayrmp.pc

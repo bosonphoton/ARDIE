@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_rmp/share/roseus/ros/segway_rmp/msg/SegwayStatusStamped.l

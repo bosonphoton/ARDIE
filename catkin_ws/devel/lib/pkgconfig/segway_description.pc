@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_description/lib/pkgconfig/segway_description.pc

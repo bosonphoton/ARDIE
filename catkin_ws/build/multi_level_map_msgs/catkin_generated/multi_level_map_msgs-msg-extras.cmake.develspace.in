@@ -1,0 +1,2 @@
+set(multi_level_map_msgs_MESSAGE_FILES "/home/chels/catkin_ws/src/bwi_common/multi_level_map_msgs/msg/LevelMetaData.msg;/home/chels/catkin_ws/src/bwi_common/multi_level_map_msgs/msg/MultiLevelMapData.msg;/home/chels/catkin_ws/src/bwi_common/multi_level_map_msgs/msg/MultiLevelMapLink.msg;/home/chels/catkin_ws/src/bwi_common/multi_level_map_msgs/msg/MultiLevelMapPoint.msg")
+set(multi_level_map_msgs_SERVICE_FILES "/home/chels/catkin_ws/src/bwi_common/multi_level_map_msgs/srv/ChangeCurrentLevel.srv")

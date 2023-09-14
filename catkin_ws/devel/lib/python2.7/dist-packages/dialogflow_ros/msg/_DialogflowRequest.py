@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialogflow_ros/lib/python2.7/dist-packages/dialogflow_ros/msg/_DialogflowRequest.py

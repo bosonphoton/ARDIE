@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig-version.cmake

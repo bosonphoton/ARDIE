@@ -1,0 +1,29 @@
+[rospy.client][INFO] 2023-09-14 16:14:44,287: init_node, name[/ur_grasp_node_14046_1694722484221], pid[14046]
+[xmlrpc][INFO] 2023-09-14 16:14:44,287: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:14:44,288: Started XML-RPC server [http://segbot:38851/]
+[rospy.init][INFO] 2023-09-14 16:14:44,288: ROS Slave URI: [http://segbot:38851/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:14:44,288: _ready: http://segbot:38851/
+[rospy.registration][INFO] 2023-09-14 16:14:44,289: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 16:14:44,289: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-14 16:14:44,388: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:14:44,389: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:14:44,393: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:14:44,395: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:14:45,972: topic[/tf] adding connection to [http://segbot:35869/], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,973: topic[/tf] adding connection to [http://segbot:39073/], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,974: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,974: topic[/tf] adding connection to [http://segbot:32963/], count 2
+[rospy.internal][INFO] 2023-09-14 16:14:45,977: topic[/tf_static] adding connection to [http://segbot:35869/], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,978: topic[/collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,982: topic[/attached_collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-14 16:14:45,987: topic[/tf_static] adding connection to [http://segbot:42357/], count 1
+[rospy.core][INFO] 2023-09-14 16:14:47,015: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-14 16:14:47,019: topic[/collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 16:14:47,020: topic[/attached_collision_object] removing connection to /move_group
+[rospy.internal][INFO] 2023-09-14 16:14:47,020: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2023-09-14 16:14:47,021: topic[/tf_static] removing connection to http://segbot:35869/
+[rospy.internal][INFO] 2023-09-14 16:14:47,021: topic[/tf_static] removing connection to http://segbot:42357/
+[rospy.internal][INFO] 2023-09-14 16:14:47,022: topic[/tf] removing connection to http://segbot:35869/
+[rospy.internal][INFO] 2023-09-14 16:14:47,022: topic[/tf] removing connection to http://segbot:39073/
+[rospy.internal][INFO] 2023-09-14 16:14:47,023: topic[/tf] removing connection to http://segbot:32963/
+[rospy.impl.masterslave][INFO] 2023-09-14 16:14:47,023: atexit

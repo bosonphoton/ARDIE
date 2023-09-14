@@ -1,0 +1,8 @@
+#Goal definition
+float32[] gazeCoords
+
+#result definition
+float32[] end_position
+
+#feedback definition
+float32[] currnet_position

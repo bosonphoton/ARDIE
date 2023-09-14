@@ -1,0 +1,7 @@
+bwi_common/bwi_logical_translator
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/lib/libbwi_logical_translator.so /home/chels/catkin_ws/devel/lib/libbwi_logical_translator.so
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/lib/bwi_logical_translator/bwi_logical_navigator /home/chels/catkin_ws/devel/lib/bwi_logical_translator/bwi_logical_navigator
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/lib/pkgconfig/bwi_logical_translator.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_logical_translator.pc
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig.cmake /home/chels/catkin_ws/devel/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig.cmake
+/home/chels/catkin_ws/devel/.private/bwi_logical_translator/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig-version.cmake /home/chels/catkin_ws/devel/share/bwi_logical_translator/cmake/bwi_logical_translatorConfig-version.cmake

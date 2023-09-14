@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target move_base_interruptable_server[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/move_base_interruptable_server.dir/src/move_base_interruptable_server.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/segbot_navigation/lib/segbot_navigation/move_base_interruptable_server[0m
+[100%] Built target move_base_interruptable_server

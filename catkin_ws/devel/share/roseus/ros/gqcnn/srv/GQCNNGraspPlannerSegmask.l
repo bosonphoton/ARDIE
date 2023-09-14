@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/gqcnn/share/roseus/ros/gqcnn/srv/GQCNNGraspPlannerSegmask.l

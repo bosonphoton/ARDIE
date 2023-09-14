@@ -1,0 +1,1 @@
+python /home/chelsea/catkin_ws/src/ur5_yan/scripts/pomdp/gripper_grasped.py

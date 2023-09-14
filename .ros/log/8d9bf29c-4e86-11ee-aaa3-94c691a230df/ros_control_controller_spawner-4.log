@@ -1,0 +1,21 @@
+[rospy.client][INFO] 2023-09-08 16:30:33,249: init_node, name[/ros_control_controller_spawner], pid[3344]
+[xmlrpc][INFO] 2023-09-08 16:30:33,249: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2023-09-08 16:30:33,250: ROS Slave URI: [http://segbot:34159/]
+[xmlrpc][INFO] 2023-09-08 16:30:33,250: Started XML-RPC server [http://segbot:34159/]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:30:33,250: _ready: http://segbot:34159/
+[rospy.registration][INFO] 2023-09-08 16:30:33,251: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 16:30:33,261: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-08 16:30:33,350: registered with master
+[rospy.rosout][INFO] 2023-09-08 16:30:33,350: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 16:30:33,353: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 16:30:33,354: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-08 16:30:33,358: Controller Spawner: Waiting for service controller_manager/load_controller
+[rospy.internal][INFO] 2023-09-08 16:30:33,573: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2023-09-08 16:30:34,571: Controller Spawner: Waiting for service controller_manager/switch_controller
+[rosout][INFO] 2023-09-08 16:30:34,578: Controller Spawner: Waiting for service controller_manager/unload_controller
+[rosout][INFO] 2023-09-08 16:30:34,584: Loading controller: joint_state_controller
+[rosout][INFO] 2023-09-08 16:30:34,626: Loading controller: scaled_pos_joint_traj_controller
+[rosout][INFO] 2023-09-08 16:30:34,658: Loading controller: speed_scaling_state_controller
+[rosout][INFO] 2023-09-08 16:30:34,664: Loading controller: force_torque_sensor_controller
+[rosout][INFO] 2023-09-08 16:30:34,670: Controller Spawner: Loaded controllers: joint_state_controller, scaled_pos_joint_traj_controller, speed_scaling_state_controller, force_torque_sensor_controller
+[rosout][INFO] 2023-09-08 16:30:34,674: Started controllers: joint_state_controller, scaled_pos_joint_traj_controller, speed_scaling_state_controller, force_torque_sensor_controller

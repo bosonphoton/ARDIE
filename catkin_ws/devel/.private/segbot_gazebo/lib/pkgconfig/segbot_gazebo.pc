@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/segbot_gazebo
+
+Name: segbot_gazebo
+Description: Description of segbot_gazebo
+Version: 0.3.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

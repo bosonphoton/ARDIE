@@ -1,0 +1,6 @@
+segway_v3/segway_description
+/home/chels/catkin_ws/devel/.private/segway_description/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segway_description/etc/catkin/profile.d/50.segway_description.sh /home/chels/catkin_ws/devel/etc/catkin/profile.d/50.segway_description.sh
+/home/chels/catkin_ws/devel/.private/segway_description/lib/pkgconfig/segway_description.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segway_description.pc
+/home/chels/catkin_ws/devel/.private/segway_description/share/segway_description/cmake/segway_descriptionConfig-version.cmake /home/chels/catkin_ws/devel/share/segway_description/cmake/segway_descriptionConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/segway_description/share/segway_description/cmake/segway_descriptionConfig.cmake /home/chels/catkin_ws/devel/share/segway_description/cmake/segway_descriptionConfig.cmake

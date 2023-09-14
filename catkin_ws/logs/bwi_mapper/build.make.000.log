@@ -1,0 +1,48 @@
+[35m[1mScanning dependencies of target bwi_mapper[0m
+[  3%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/circle_provider.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/map_inflator.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/map_loader.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/map_utils.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/directed_dfs.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/path_finder.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/connected_components.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/voronoi_approximator.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/topological_mapper.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/graph.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/point_utils.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/structures/point.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/bwi_mapper.dir/src/libbwi_mapper/structures/voronoi_point.cpp.o[0m
+[ 46%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/libbwi_mapper.so[0m
+[ 46%] Built target bwi_mapper
+[35m[1mScanning dependencies of target bwi_mapper_test_graph[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/bwi_mapper_test_graph.dir/test/test_graph.cpp.o[0m
+[35m[1mScanning dependencies of target bwi_mapper_test_dfs[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/bwi_mapper_test_dfs.dir/test/test_dfs.cpp.o[0m
+[ 56%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/test_dfs[0m
+[ 56%] Built target bwi_mapper_test_dfs
+[35m[1mScanning dependencies of target bwi_mapper_test_circle[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/bwi_mapper_test_circle.dir/test/test_circle.cpp.o[0m
+[ 63%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/test_circle[0m
+[ 66%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/test_graph[0m
+[ 66%] Built target bwi_mapper_test_circle
+[35m[1mScanning dependencies of target bwi_mapper_test_map_loader[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/bwi_mapper_test_map_loader.dir/test/test_map_loader.cpp.o[0m
+[ 70%] Built target bwi_mapper_test_graph
+[35m[1mScanning dependencies of target bwi_mapper_view_graph[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/bwi_mapper_view_graph.dir/src/nodes/view_graph.cpp.o[0m
+[ 76%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/test_map_loader[0m
+[ 76%] Built target bwi_mapper_test_map_loader
+[35m[1mScanning dependencies of target bwi_mapper_generate_graph[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/bwi_mapper_generate_graph.dir/src/nodes/generate_graph.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/view_graph[0m
+[ 83%] Built target bwi_mapper_view_graph
+[35m[1mScanning dependencies of target bwi_mapper_test_voronoi[0m
+[ 86%] [32mBuilding CXX object CMakeFiles/bwi_mapper_test_voronoi.dir/test/test_voronoi.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/generate_graph[0m
+[ 90%] Built target bwi_mapper_generate_graph
+[ 93%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/test_voronoi[0m
+[ 93%] Built target bwi_mapper_test_voronoi
+[35m[1mScanning dependencies of target bwi_mapper_prepare_graph[0m
+[ 96%] [32mBuilding CXX object CMakeFiles/bwi_mapper_prepare_graph.dir/src/nodes/prepare_graph.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_mapper/lib/bwi_mapper/prepare_graph[0m
+[100%] Built target bwi_mapper_prepare_graph

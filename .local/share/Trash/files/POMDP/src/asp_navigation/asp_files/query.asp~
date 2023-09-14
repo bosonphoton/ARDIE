@@ -1,0 +1,22 @@
+at(r1_corr_h, 0).
+located(s0, r1_corr_watson, 0).
+ -loaded(s0,0).
+located(s1, r1_staff_area, 0).
+ -loaded(s1,0).
+located(s2, r1_corr_j, 0).
+ -loaded(s2,0).
+located(s3, r1_corr_watson, 0).
+ -loaded(s3,0).
+located(s4, r1_corr_g, 0).
+ -loaded(s4,0).
+located(s5, r1_corr_h, 0).
+ -loaded(s5,0).
+:- not located(s0, r1_h9_area, n-1).
+#show load/2.
+#show unload/2.
+#show approach/2.
+#show gothrough/2.
+#show opendoor/2.
+%#show at/2.
+%#show beside/2.
+%#show facing/2.

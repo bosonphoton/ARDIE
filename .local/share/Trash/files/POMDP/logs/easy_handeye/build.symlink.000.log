@@ -1,0 +1,4 @@
+Symlinking /home/chelsea/catkin_ws/devel/lib/python2.7/dist-packages/easy_handeye/__init__.py
+Symlinking /home/chelsea/catkin_ws/devel/lib/pkgconfig/easy_handeye.pc
+Symlinking /home/chelsea/catkin_ws/devel/share/easy_handeye/cmake/easy_handeyeConfig.cmake
+Symlinking /home/chelsea/catkin_ws/devel/share/easy_handeye/cmake/easy_handeyeConfig-version.cmake

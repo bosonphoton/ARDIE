@@ -1,0 +1,29 @@
+[rospy.client][INFO] 2023-09-14 15:38:57,761: init_node, name[/ros_control_stopped_spawner], pid[23594]
+[xmlrpc][INFO] 2023-09-14 15:38:57,761: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:38:57,761: Started XML-RPC server [http://segbot:36979/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:38:57,761: _ready: http://segbot:36979/
+[rospy.init][INFO] 2023-09-14 15:38:57,762: ROS Slave URI: [http://segbot:36979/]
+[rospy.registration][INFO] 2023-09-14 15:38:57,763: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 15:38:57,763: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-09-14 15:38:57,863: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:38:57,863: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:38:57,864: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:38:57,865: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-09-14 15:38:57,867: Controller Spawner: Waiting for service controller_manager/load_controller
+[rospy.internal][INFO] 2023-09-14 15:38:58,082: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2023-09-14 15:38:58,772: Controller Spawner: Waiting for service controller_manager/switch_controller
+[rosout][INFO] 2023-09-14 15:38:58,774: Controller Spawner: Waiting for service controller_manager/unload_controller
+[rosout][INFO] 2023-09-14 15:38:58,777: Loading controller: pos_joint_traj_controller
+[rosout][INFO] 2023-09-14 15:38:58,798: Loading controller: joint_group_vel_controller
+[rosout][INFO] 2023-09-14 15:38:58,807: Controller Spawner: Loaded controllers: pos_joint_traj_controller, joint_group_vel_controller
+[rospy.core][INFO] 2023-09-14 15:42:45,418: signal_shutdown [signal-2]
+[rosout][INFO] 2023-09-14 15:42:45,418: Shutting down spawner. Stopping and unloading controllers...
+[rosout][INFO] 2023-09-14 15:42:45,427: Stopping all controllers...
+[rosout][INFO] 2023-09-14 15:42:45,438: Unloading all loaded controllers...
+[rosout][INFO] 2023-09-14 15:42:45,440: Trying to unload joint_group_vel_controller
+[rosout][INFO] 2023-09-14 15:42:45,453: Succeeded in unloading joint_group_vel_controller
+[rosout][INFO] 2023-09-14 15:42:45,456: Trying to unload pos_joint_traj_controller
+[rosout][INFO] 2023-09-14 15:42:45,489: Succeeded in unloading pos_joint_traj_controller
+[rospy.internal][INFO] 2023-09-14 15:42:45,514: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 15:42:45,514: signal-2
+[rospy.core][INFO] 2023-09-14 15:42:45,646: signal_shutdown [atexit]

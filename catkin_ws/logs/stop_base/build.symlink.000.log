@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/stop_base/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/stop_base.pc
+Symlinking /home/chels/catkin_ws/devel/share/stop_base/cmake/stop_baseConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/stop_base/cmake/stop_baseConfig.cmake

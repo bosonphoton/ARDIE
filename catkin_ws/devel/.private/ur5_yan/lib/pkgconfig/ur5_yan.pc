@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/ur5_yan
+
+Name: ur5_yan
+Description: Description of ur5_yan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

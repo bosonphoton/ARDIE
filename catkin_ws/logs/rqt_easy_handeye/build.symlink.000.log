@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/rqt_easy_handeye/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/rqt_easy_handeye.pc
+Symlinking /home/chels/catkin_ws/devel/share/rqt_easy_handeye/cmake/rqt_easy_handeyeConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/rqt_easy_handeye/cmake/rqt_easy_handeyeConfig.cmake

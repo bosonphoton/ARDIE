@@ -1,0 +1,20 @@
+bwi_common/bwi_tasks
+/home/chels/catkin_ws/devel/.private/bwi_tasks/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/message_delivery /home/chels/catkin_ws/devel/lib/bwi_tasks/message_delivery
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/filtering_tasks /home/chels/catkin_ws/devel/lib/bwi_tasks/filtering_tasks
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_location_node /home/chels/catkin_ws/devel/lib/bwi_tasks/go_to_location_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/simulator_learning_tasks_node /home/chels/catkin_ws/devel/lib/bwi_tasks/simulator_learning_tasks_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/meeting_experiment /home/chels/catkin_ws/devel/lib/bwi_tasks/meeting_experiment
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/back_and_forth_node /home/chels/catkin_ws/devel/lib/bwi_tasks/back_and_forth_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_door_list_gui /home/chels/catkin_ws/devel/lib/bwi_tasks/visit_door_list_gui
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_door_node /home/chels/catkin_ws/devel/lib/bwi_tasks/go_to_door_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/go_to_object_node /home/chels/catkin_ws/devel/lib/bwi_tasks/go_to_object_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/between_doors /home/chels/catkin_ws/devel/lib/bwi_tasks/between_doors
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_door_list /home/chels/catkin_ws/devel/lib/bwi_tasks/visit_door_list
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/look_for_person_node /home/chels/catkin_ws/devel/lib/bwi_tasks/look_for_person_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/learning_tasks_node /home/chels/catkin_ws/devel/lib/bwi_tasks/learning_tasks_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/bwi_tasks/visit_and_ask_list_node /home/chels/catkin_ws/devel/lib/bwi_tasks/visit_and_ask_list_node
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/python2.7/dist-packages/bwi_tasks/__init__.py /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_tasks/__init__.py
+/home/chels/catkin_ws/devel/.private/bwi_tasks/lib/pkgconfig/bwi_tasks.pc /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_tasks.pc
+/home/chels/catkin_ws/devel/.private/bwi_tasks/share/bwi_tasks/cmake/bwi_tasksConfig-version.cmake /home/chels/catkin_ws/devel/share/bwi_tasks/cmake/bwi_tasksConfig-version.cmake
+/home/chels/catkin_ws/devel/.private/bwi_tasks/share/bwi_tasks/cmake/bwi_tasksConfig.cmake /home/chels/catkin_ws/devel/share/bwi_tasks/cmake/bwi_tasksConfig.cmake

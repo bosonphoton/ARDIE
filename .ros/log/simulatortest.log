@@ -1,0 +1,565 @@
+[rospy.client][INFO] 2023-09-08 16:55:19,427: init_node, name[/simulatortest], pid[7341]
+[xmlrpc][INFO] 2023-09-08 16:55:19,427: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 16:55:19,427: Started XML-RPC server [http://segbot:37077/]
+[rospy.init][INFO] 2023-09-08 16:55:19,428: ROS Slave URI: [http://segbot:37077/]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:55:19,428: _ready: http://segbot:37077/
+[rospy.registration][INFO] 2023-09-08 16:55:19,433: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 16:55:19,433: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 16:55:19,433: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-08 16:55:19,434: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 16:55:19,435: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 16:55:19,436: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 16:55:19,437: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 16:55:19,438: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 16:55:19,528: registered with master
+[rospy.rosout][INFO] 2023-09-08 16:55:19,529: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 16:55:19,530: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 16:55:19,531: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.core][INFO] 2023-09-08 16:55:19,557: signal_shutdown [atexit]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:55:19,563: atexit
+[rospy.client][INFO] 2023-09-08 16:57:20,872: init_node, name[/simulatortest], pid[7439]
+[xmlrpc][INFO] 2023-09-08 16:57:20,873: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 16:57:20,873: Started XML-RPC server [http://segbot:38955/]
+[rospy.init][INFO] 2023-09-08 16:57:20,873: ROS Slave URI: [http://segbot:38955/]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:57:20,874: _ready: http://segbot:38955/
+[rospy.registration][INFO] 2023-09-08 16:57:20,874: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 16:57:20,874: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 16:57:20,874: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-08 16:57:20,875: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 16:57:20,876: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 16:57:20,877: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 16:57:20,877: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 16:57:20,878: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 16:57:20,974: registered with master
+[rospy.rosout][INFO] 2023-09-08 16:57:20,974: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 16:57:20,975: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 16:57:20,976: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 16:57:21,219: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][WARNING] 2023-09-08 16:57:21,447: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:57:26,972: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:57:34,133: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:57:41,293: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:57:48,449: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:57:54,521: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rosout][WARNING] 2023-09-08 16:58:01,668: Sound command issued, but no node is subscribed to the topic. Perhaps you forgot to run soundplay_node.py?
+[rospy.client][INFO] 2023-09-08 16:58:29,026: init_node, name[/simulatortest], pid[7539]
+[xmlrpc][INFO] 2023-09-08 16:58:29,026: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 16:58:29,026: Started XML-RPC server [http://segbot:43385/]
+[rospy.init][INFO] 2023-09-08 16:58:29,027: ROS Slave URI: [http://segbot:43385/]
+[rospy.impl.masterslave][INFO] 2023-09-08 16:58:29,027: _ready: http://segbot:43385/
+[rospy.registration][INFO] 2023-09-08 16:58:29,027: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 16:58:29,027: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 16:58:29,027: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-08 16:58:29,028: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 16:58:29,029: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 16:58:29,031: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 16:58:29,032: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 16:58:29,033: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 16:58:29,127: registered with master
+[rospy.rosout][INFO] 2023-09-08 16:58:29,128: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 16:58:29,132: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 16:58:29,134: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 16:58:29,436: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-08 16:58:47,348: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-08 16:58:47,361: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-08 16:58:47,362: atexit
+[rospy.client][INFO] 2023-09-08 17:37:40,648: init_node, name[/simulatortest], pid[3048]
+[xmlrpc][INFO] 2023-09-08 17:37:40,648: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 17:37:40,648: Started XML-RPC server [http://segbot:39757/]
+[rospy.init][INFO] 2023-09-08 17:37:40,649: ROS Slave URI: [http://segbot:39757/]
+[rospy.impl.masterslave][INFO] 2023-09-08 17:37:40,649: _ready: http://segbot:39757/
+[rospy.registration][INFO] 2023-09-08 17:37:40,649: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 17:37:40,649: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 17:37:40,650: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-08 17:37:40,651: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 17:37:40,651: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 17:37:40,652: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 17:37:40,653: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 17:37:40,654: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 17:37:40,749: registered with master
+[rospy.rosout][INFO] 2023-09-08 17:37:40,750: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 17:37:40,752: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 17:37:40,755: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 17:37:41,126: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-08 17:38:04,911: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-08 17:38:04,928: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-08 17:38:04,929: atexit
+[rospy.client][INFO] 2023-09-08 17:39:03,326: init_node, name[/simulatortest], pid[3244]
+[xmlrpc][INFO] 2023-09-08 17:39:03,327: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 17:39:03,331: Started XML-RPC server [http://segbot:42723/]
+[rospy.init][INFO] 2023-09-08 17:39:03,331: ROS Slave URI: [http://segbot:42723/]
+[rospy.impl.masterslave][INFO] 2023-09-08 17:39:03,331: _ready: http://segbot:42723/
+[rospy.registration][INFO] 2023-09-08 17:39:03,332: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-08 17:39:03,332: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[xmlrpc][INFO] 2023-09-08 17:39:03,332: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 17:39:03,333: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 17:39:03,334: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 17:39:03,335: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 17:39:03,336: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 17:39:03,336: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 17:39:03,432: registered with master
+[rospy.rosout][INFO] 2023-09-08 17:39:03,432: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 17:39:03,435: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 17:39:03,436: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 17:39:03,672: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-08 17:39:27,913: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-08 17:39:27,929: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-08 17:39:27,930: atexit
+[rospy.client][INFO] 2023-09-08 17:41:13,533: init_node, name[/simulatortest], pid[3518]
+[xmlrpc][INFO] 2023-09-08 17:41:13,534: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-08 17:41:13,534: Started XML-RPC server [http://segbot:35231/]
+[rospy.init][INFO] 2023-09-08 17:41:13,534: ROS Slave URI: [http://segbot:35231/]
+[rospy.impl.masterslave][INFO] 2023-09-08 17:41:13,535: _ready: http://segbot:35231/
+[rospy.registration][INFO] 2023-09-08 17:41:13,535: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-08 17:41:13,535: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-08 17:41:13,535: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-08 17:41:13,536: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-08 17:41:13,537: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-08 17:41:13,538: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-08 17:41:13,539: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-08 17:41:13,539: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-08 17:41:13,635: registered with master
+[rospy.rosout][INFO] 2023-09-08 17:41:13,635: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-08 17:41:13,636: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-08 17:41:13,638: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-08 17:41:13,937: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-08 17:41:37,733: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-08 17:41:37,737: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-08 17:41:37,737: atexit
+[rospy.client][INFO] 2023-09-11 14:05:50,487: init_node, name[/simulatortest], pid[5910]
+[xmlrpc][INFO] 2023-09-11 14:05:50,487: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:05:50,487: Started XML-RPC server [http://segbot:34641/]
+[rospy.init][INFO] 2023-09-11 14:05:50,488: ROS Slave URI: [http://segbot:34641/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:05:50,488: _ready: http://segbot:34641/
+[rospy.registration][INFO] 2023-09-11 14:05:50,488: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-11 14:05:50,488: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:05:50,489: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-11 14:05:50,490: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-11 14:05:50,490: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-11 14:05:50,491: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-11 14:05:50,492: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-11 14:05:50,493: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-11 14:05:50,588: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:05:50,589: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:05:50,590: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:05:50,590: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-11 14:05:50,877: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-11 14:06:15,363: signal_shutdown [atexit]
+[rospy.internal][INFO] 2023-09-11 14:06:15,367: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-11 14:06:15,367: atexit
+[rospy.client][INFO] 2023-09-11 14:14:51,174: init_node, name[/simulatortest], pid[7644]
+[xmlrpc][INFO] 2023-09-11 14:14:51,174: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2023-09-11 14:14:51,174: ROS Slave URI: [http://segbot:46451/]
+[xmlrpc][INFO] 2023-09-11 14:14:51,174: Started XML-RPC server [http://segbot:46451/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:14:51,175: _ready: http://segbot:46451/
+[rospy.registration][INFO] 2023-09-11 14:14:51,175: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-11 14:14:51,175: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:14:51,175: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-11 14:14:51,176: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-11 14:14:51,177: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-11 14:14:51,178: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-11 14:14:51,179: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-11 14:14:51,179: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-11 14:14:51,275: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:14:51,275: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:14:51,276: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:14:51,277: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-11 14:14:51,540: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-11 14:23:03,771: init_node, name[/simulatortest], pid[8082]
+[xmlrpc][INFO] 2023-09-11 14:23:03,771: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:23:03,771: Started XML-RPC server [http://segbot:36059/]
+[rospy.init][INFO] 2023-09-11 14:23:03,771: ROS Slave URI: [http://segbot:36059/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:23:03,772: _ready: http://segbot:36059/
+[rospy.registration][INFO] 2023-09-11 14:23:03,772: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-11 14:23:03,772: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:23:03,772: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-11 14:23:03,773: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-11 14:23:03,775: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-11 14:23:03,776: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-11 14:23:03,777: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-11 14:23:03,777: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-11 14:23:03,872: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:23:03,872: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:23:03,874: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:23:03,875: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-11 14:23:04,175: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-11 14:23:24,513: init_node, name[/simulatortest], pid[8131]
+[xmlrpc][INFO] 2023-09-11 14:23:24,514: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:23:24,514: Started XML-RPC server [http://segbot:38645/]
+[rospy.init][INFO] 2023-09-11 14:23:24,514: ROS Slave URI: [http://segbot:38645/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:23:24,515: _ready: http://segbot:38645/
+[rospy.registration][INFO] 2023-09-11 14:23:24,515: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-11 14:23:24,515: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[xmlrpc][INFO] 2023-09-11 14:23:24,516: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:23:24,517: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-11 14:23:24,517: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-11 14:23:24,518: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-11 14:23:24,519: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-11 14:23:24,520: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-11 14:23:24,615: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:23:24,615: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:23:24,616: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:23:24,617: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-11 14:23:24,903: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-11 14:23:49,838: init_node, name[/simulatortest], pid[8181]
+[xmlrpc][INFO] 2023-09-11 14:23:49,838: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:23:49,838: Started XML-RPC server [http://segbot:45477/]
+[rospy.init][INFO] 2023-09-11 14:23:49,839: ROS Slave URI: [http://segbot:45477/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:23:49,839: _ready: http://segbot:45477/
+[rospy.registration][INFO] 2023-09-11 14:23:49,839: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-11 14:23:49,839: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:23:49,839: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-11 14:23:49,841: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-11 14:23:49,841: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-11 14:23:49,842: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-11 14:23:49,843: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-11 14:23:49,844: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-11 14:23:49,939: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:23:49,939: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:23:49,940: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:23:49,941: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-12 15:06:34,529: init_node, name[/simulatortest], pid[3644]
+[xmlrpc][INFO] 2023-09-12 15:06:34,529: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:06:34,530: Started XML-RPC server [http://segbot:34817/]
+[rospy.init][INFO] 2023-09-12 15:06:34,530: ROS Slave URI: [http://segbot:34817/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:06:34,530: _ready: http://segbot:34817/
+[rospy.registration][INFO] 2023-09-12 15:06:34,530: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-12 15:06:34,530: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:06:34,531: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:06:34,532: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:06:34,533: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:06:34,534: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:06:34,535: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:06:34,536: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:06:34,630: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:06:34,631: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:06:34,631: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:06:34,632: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-12 15:06:34,852: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-12 15:10:30,306: init_node, name[/simulatortest], pid[4866]
+[xmlrpc][INFO] 2023-09-12 15:10:30,307: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2023-09-12 15:10:30,307: ROS Slave URI: [http://segbot:43935/]
+[xmlrpc][INFO] 2023-09-12 15:10:30,307: Started XML-RPC server [http://segbot:43935/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:10:30,307: _ready: http://segbot:43935/
+[rospy.registration][INFO] 2023-09-12 15:10:30,308: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-12 15:10:30,308: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:10:30,308: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:10:30,310: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:10:30,311: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:10:30,311: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:10:30,312: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:10:30,313: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:10:30,407: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:10:30,408: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:10:30,409: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:10:30,409: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-12 15:13:26,516: init_node, name[/simulatortest], pid[5611]
+[xmlrpc][INFO] 2023-09-12 15:13:26,516: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:13:26,516: Started XML-RPC server [http://segbot:35073/]
+[rospy.init][INFO] 2023-09-12 15:13:26,517: ROS Slave URI: [http://segbot:35073/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:13:26,517: _ready: http://segbot:35073/
+[rospy.registration][INFO] 2023-09-12 15:13:26,517: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-12 15:13:26,517: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:13:26,517: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:13:26,518: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:13:26,519: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:13:26,519: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:13:26,520: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:13:26,521: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:13:26,617: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:13:26,617: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:13:26,619: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:13:26,620: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-12 15:25:33,438: init_node, name[/simulatortest], pid[7722]
+[xmlrpc][INFO] 2023-09-12 15:25:33,438: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:25:33,439: Started XML-RPC server [http://segbot:34807/]
+[rospy.init][INFO] 2023-09-12 15:25:33,439: ROS Slave URI: [http://segbot:34807/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:25:33,439: _ready: http://segbot:34807/
+[rospy.registration][INFO] 2023-09-12 15:25:33,439: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-12 15:25:33,439: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:25:33,439: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:25:33,440: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:25:33,441: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:25:33,441: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:25:33,442: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:25:33,442: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:25:33,539: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:25:33,539: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:25:33,541: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:25:33,542: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-12 15:33:43,278: init_node, name[/simulatortest], pid[8494]
+[xmlrpc][INFO] 2023-09-12 15:33:43,278: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:33:43,278: Started XML-RPC server [http://segbot:45757/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:33:43,279: _ready: http://segbot:45757/
+[rospy.init][INFO] 2023-09-12 15:33:43,279: ROS Slave URI: [http://segbot:45757/]
+[rospy.registration][INFO] 2023-09-12 15:33:43,279: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-12 15:33:43,280: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:33:43,280: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:33:43,281: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:33:43,282: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:33:43,283: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:33:43,283: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:33:43,284: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:33:43,380: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:33:43,380: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:33:43,382: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:33:43,382: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-12 15:47:00,187: init_node, name[/simulatortest], pid[9025]
+[xmlrpc][INFO] 2023-09-12 15:47:00,188: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-12 15:47:00,188: Started XML-RPC server [http://segbot:39583/]
+[rospy.init][INFO] 2023-09-12 15:47:00,188: ROS Slave URI: [http://segbot:39583/]
+[rospy.impl.masterslave][INFO] 2023-09-12 15:47:00,188: _ready: http://segbot:39583/
+[xmlrpc][INFO] 2023-09-12 15:47:00,188: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-12 15:47:00,188: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-12 15:47:00,188: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-12 15:47:00,190: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-12 15:47:00,190: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-12 15:47:00,191: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-12 15:47:00,191: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-12 15:47:00,192: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-12 15:47:00,288: registered with master
+[rospy.rosout][INFO] 2023-09-12 15:47:00,288: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-12 15:47:00,290: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-12 15:47:00,290: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.client][INFO] 2023-09-14 15:42:13,909: init_node, name[/simulatortest], pid[24324]
+[xmlrpc][INFO] 2023-09-14 15:42:13,910: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:42:13,910: Started XML-RPC server [http://segbot:43157/]
+[rospy.init][INFO] 2023-09-14 15:42:13,910: ROS Slave URI: [http://segbot:43157/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:42:13,911: _ready: http://segbot:43157/
+[rospy.registration][INFO] 2023-09-14 15:42:13,911: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 15:42:13,911: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:42:13,911: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:42:13,912: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:42:13,913: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:42:13,914: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:42:13,915: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:42:13,916: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:42:14,011: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:42:14,011: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:42:14,012: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:42:14,013: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:42:14,309: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 15:51:09,483: init_node, name[/simulatortest], pid[8338]
+[xmlrpc][INFO] 2023-09-14 15:51:09,484: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:51:09,484: Started XML-RPC server [http://segbot:34833/]
+[rospy.init][INFO] 2023-09-14 15:51:09,484: ROS Slave URI: [http://segbot:34833/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:51:09,484: _ready: http://segbot:34833/
+[xmlrpc][INFO] 2023-09-14 15:51:09,485: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:51:09,485: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 15:51:09,485: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:51:09,486: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:51:09,488: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:51:09,488: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:51:09,489: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:51:09,490: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:51:09,585: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:51:09,585: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:51:09,586: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:51:09,586: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:51:09,840: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 15:52:58,597: init_node, name[/simulatortest], pid[8611]
+[xmlrpc][INFO] 2023-09-14 15:52:58,598: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:52:58,598: Started XML-RPC server [http://segbot:45819/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:52:58,598: _ready: http://segbot:45819/
+[rospy.init][INFO] 2023-09-14 15:52:58,599: ROS Slave URI: [http://segbot:45819/]
+[rospy.registration][INFO] 2023-09-14 15:52:58,599: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 15:52:58,599: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[xmlrpc][INFO] 2023-09-14 15:52:58,599: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:52:58,600: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:52:58,601: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:52:58,602: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:52:58,603: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:52:58,604: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:52:58,699: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:52:58,699: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:52:58,701: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:52:58,702: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:52:58,976: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 15:54:01,042: init_node, name[/simulatortest], pid[8673]
+[xmlrpc][INFO] 2023-09-14 15:54:01,042: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:54:01,043: Started XML-RPC server [http://segbot:38955/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:54:01,044: _ready: http://segbot:38955/
+[rospy.init][INFO] 2023-09-14 15:54:01,044: ROS Slave URI: [http://segbot:38955/]
+[rospy.registration][INFO] 2023-09-14 15:54:01,044: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 15:54:01,044: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:54:01,045: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:54:01,046: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:54:01,047: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:54:01,047: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:54:01,048: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:54:01,049: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:54:01,145: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:54:01,145: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:54:01,146: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:54:01,147: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:54:01,399: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 15:55:23,562: init_node, name[/simulatortest], pid[9221]
+[xmlrpc][INFO] 2023-09-14 15:55:23,563: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:55:23,563: Started XML-RPC server [http://segbot:41843/]
+[rospy.init][INFO] 2023-09-14 15:55:23,563: ROS Slave URI: [http://segbot:41843/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:55:23,563: _ready: http://segbot:41843/
+[xmlrpc][INFO] 2023-09-14 15:55:23,564: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:55:23,564: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 15:55:23,564: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:55:23,565: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:55:23,566: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:55:23,566: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:55:23,567: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:55:23,568: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:55:23,664: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:55:23,664: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:55:23,665: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:55:23,665: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:55:23,906: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-14 15:55:47,903: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-14 15:55:47,913: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 15:55:47,913: signal-2
+[rospy.core][INFO] 2023-09-14 15:55:50,255: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:50,497: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:50,715: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:51,383: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:51,535: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:51,677: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:51,789: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:51,927: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:55:52,071: signal_shutdown [signal-2]
+[rospy.client][INFO] 2023-09-14 15:57:18,431: init_node, name[/simulatortest], pid[9830]
+[xmlrpc][INFO] 2023-09-14 15:57:18,432: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:57:18,432: Started XML-RPC server [http://segbot:37605/]
+[rospy.init][INFO] 2023-09-14 15:57:18,432: ROS Slave URI: [http://segbot:37605/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:57:18,432: _ready: http://segbot:37605/
+[xmlrpc][INFO] 2023-09-14 15:57:18,432: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:57:18,433: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 15:57:18,433: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:57:18,434: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:57:18,434: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:57:18,435: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:57:18,435: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:57:18,436: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:57:18,532: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:57:18,533: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:57:18,533: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:57:18,534: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:57:18,752: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 15:57:33,946: init_node, name[/simulatortest], pid[9859]
+[xmlrpc][INFO] 2023-09-14 15:57:33,947: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 15:57:33,947: Started XML-RPC server [http://segbot:43815/]
+[rospy.impl.masterslave][INFO] 2023-09-14 15:57:33,947: _ready: http://segbot:43815/
+[rospy.init][INFO] 2023-09-14 15:57:33,947: ROS Slave URI: [http://segbot:43815/]
+[rospy.registration][INFO] 2023-09-14 15:57:33,948: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 15:57:33,948: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 15:57:33,948: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 15:57:33,949: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 15:57:33,950: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 15:57:33,951: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 15:57:33,951: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 15:57:33,952: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 15:57:34,048: registered with master
+[rospy.rosout][INFO] 2023-09-14 15:57:34,048: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 15:57:34,049: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 15:57:34,049: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 15:57:34,268: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-14 15:57:48,884: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-14 15:57:48,891: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 15:57:48,892: signal-2
+[rospy.core][INFO] 2023-09-14 15:57:49,126: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:57:49,291: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:57:49,407: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:19,154: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:19,469: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:19,646: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:20,953: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:21,172: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 15:58:21,324: signal_shutdown [signal-2]
+[rospy.client][INFO] 2023-09-14 16:00:59,436: init_node, name[/simulatortest], pid[10930]
+[xmlrpc][INFO] 2023-09-14 16:00:59,437: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:00:59,437: Started XML-RPC server [http://segbot:41795/]
+[rospy.init][INFO] 2023-09-14 16:00:59,437: ROS Slave URI: [http://segbot:41795/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:00:59,437: _ready: http://segbot:41795/
+[xmlrpc][INFO] 2023-09-14 16:00:59,437: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 16:00:59,438: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 16:00:59,438: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 16:00:59,439: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 16:00:59,439: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 16:00:59,440: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 16:00:59,441: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 16:00:59,441: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 16:00:59,537: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:00:59,538: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:00:59,539: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:00:59,539: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:00:59,745: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.core][INFO] 2023-09-14 16:01:28,554: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-09-14 16:01:28,559: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-09-14 16:01:28,560: signal-2
+[rospy.core][INFO] 2023-09-14 16:01:28,794: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:28,952: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,078: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,200: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,327: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,450: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,571: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,690: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,820: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:29,940: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:30,065: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,561: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,761: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:01:35,931: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:21,861: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:22,053: signal_shutdown [signal-2]
+[rospy.core][INFO] 2023-09-14 16:02:22,224: signal_shutdown [signal-2]
+[rospy.client][INFO] 2023-09-14 16:05:45,768: init_node, name[/simulatortest], pid[12051]
+[xmlrpc][INFO] 2023-09-14 16:05:45,768: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:05:45,768: Started XML-RPC server [http://segbot:43743/]
+[rospy.init][INFO] 2023-09-14 16:05:45,769: ROS Slave URI: [http://segbot:43743/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:05:45,769: _ready: http://segbot:43743/
+[rospy.registration][INFO] 2023-09-14 16:05:45,769: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 16:05:45,769: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 16:05:45,770: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 16:05:45,771: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 16:05:45,771: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 16:05:45,772: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 16:05:45,773: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 16:05:45,775: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 16:05:45,869: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:05:45,870: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:05:45,871: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:05:45,872: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:05:46,082: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 16:06:04,358: init_node, name[/simulatortest], pid[12106]
+[xmlrpc][INFO] 2023-09-14 16:06:04,359: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:06:04,360: Started XML-RPC server [http://segbot:32949/]
+[rospy.init][INFO] 2023-09-14 16:06:04,360: ROS Slave URI: [http://segbot:32949/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:06:04,360: _ready: http://segbot:32949/
+[xmlrpc][INFO] 2023-09-14 16:06:04,361: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 16:06:04,361: Registering with master node http://localhost:11311
+[rospy.registration][INFO] 2023-09-14 16:06:04,361: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 16:06:04,362: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 16:06:04,363: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 16:06:04,363: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 16:06:04,364: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 16:06:04,365: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 16:06:04,460: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:06:04,461: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:06:04,462: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:06:04,462: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:06:04,715: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.client][INFO] 2023-09-14 16:15:28,716: init_node, name[/simulatortest], pid[14141]
+[xmlrpc][INFO] 2023-09-14 16:15:28,716: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-14 16:15:28,717: Started XML-RPC server [http://segbot:40447/]
+[rospy.init][INFO] 2023-09-14 16:15:28,717: ROS Slave URI: [http://segbot:40447/]
+[rospy.impl.masterslave][INFO] 2023-09-14 16:15:28,717: _ready: http://segbot:40447/
+[rospy.registration][INFO] 2023-09-14 16:15:28,717: Registering with master node http://localhost:11311
+[xmlrpc][INFO] 2023-09-14 16:15:28,717: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-14 16:15:28,717: Registering publisher topic [/sound_play/goal] type [sound_play/SoundRequestActionGoal] with master
+[rospy.registration][INFO] 2023-09-14 16:15:28,718: Registering publisher topic [/sound_play/cancel] type [actionlib_msgs/GoalID] with master
+[rospy.registration][INFO] 2023-09-14 16:15:28,719: Registering publisher topic [/robotsound] type [sound_play/SoundRequest] with master
+[rospy.registration][INFO] 2023-09-14 16:15:28,720: registering subscriber topic [/sound_play/result] type [sound_play/SoundRequestActionResult] with master
+[rospy.registration][INFO] 2023-09-14 16:15:28,720: registering subscriber topic [/sound_play/status] type [actionlib_msgs/GoalStatusArray] with master
+[rospy.registration][INFO] 2023-09-14 16:15:28,721: registering subscriber topic [/sound_play/feedback] type [sound_play/SoundRequestActionFeedback] with master
+[rospy.init][INFO] 2023-09-14 16:15:28,817: registered with master
+[rospy.rosout][INFO] 2023-09-14 16:15:28,817: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-14 16:15:28,818: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-14 16:15:28,819: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-14 16:15:29,056: topic[/rosout] adding connection to [/rosout], count 0

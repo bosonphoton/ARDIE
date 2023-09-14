@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_logging/share/bwi_logging/cmake/bwi_loggingConfig-version.cmake

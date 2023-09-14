@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target polygon_layer[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/polygon_layer.dir/src/polygon_layer.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/polygon_layer/lib/libpolygon_layer.so[0m
+[100%] Built target polygon_layer

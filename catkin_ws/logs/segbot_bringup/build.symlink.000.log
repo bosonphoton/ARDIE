@@ -1,0 +1,3 @@
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_bringup.pc
+Symlinking /home/chels/catkin_ws/devel/share/segbot_bringup/cmake/segbot_bringupConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/segbot_bringup/cmake/segbot_bringupConfig-version.cmake

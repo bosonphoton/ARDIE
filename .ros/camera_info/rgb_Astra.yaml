@@ -1,0 +1,26 @@
+image_width: 640
+image_height: 480
+camera_name: rgb_Astra
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [ 641.63238,    0.     ,  201.64802,
+            0.     ,  625.21018,  237.71906,
+            0.     ,    0.     ,    1.     ]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.170200, -0.042259, 0.012658, -0.088854, 0.000000]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [ 1.,  0.,  0.,
+          0.,  1.,  0.,
+          0.,  0.,  1.]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [ 615.84222,    0.     ,  167.62489,    0.     ,
+            0.     ,  675.94427,  241.16086,    0.     ,
+            0.     ,    0.     ,    1.     ,    0.     ]

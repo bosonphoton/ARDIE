@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_perception
+
+Name: bwi_perception
+Description: Description of bwi_perception
+Version: 0.0.1
+Cflags: -I/home/chels/catkin_ws/devel/.private/bwi_perception/include -I/home/chels/catkin_ws/src/bwi_common/bwi_perception/include
+Libs: -L${prefix}/lib -llibbwi_perception
+Requires: actionlib_msgs

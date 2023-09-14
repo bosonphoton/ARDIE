@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libpolygon_layer.so
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/polygon_layer.pc
+Symlinking /home/chels/catkin_ws/devel/share/polygon_layer/cmake/polygon_layerConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/polygon_layer/cmake/polygon_layerConfig.cmake

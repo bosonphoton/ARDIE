@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialogflow_ros/share/dialogflow_ros/cmake/dialogflow_rosConfig-version.cmake

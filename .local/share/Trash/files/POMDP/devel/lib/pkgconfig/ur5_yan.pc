@@ -1,0 +1,1 @@
+/home/chelsea/catkin_ws/devel/.private/ur5_yan/lib/pkgconfig/ur5_yan.pc

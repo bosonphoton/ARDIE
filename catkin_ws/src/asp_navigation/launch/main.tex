@@ -1,0 +1,251 @@
+%%%% ijcai19.tex
+
+\typeout{IJCAI-19 Instructions for Authors}
+
+% These are the instructions for authors for IJCAI-19.
+
+\documentclass{article}
+\pdfpagewidth=8.5in
+\pdfpageheight=11in
+% The file ijcai19.sty is NOT the same than previous years'
+\usepackage{ijcai19}
+
+% Use the postscript times font!
+\usepackage{times}
+\usepackage{soul}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage[small]{caption}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\urlstyle{same}
+\usepackage{color}
+
+% the following package is optional:
+%\usepackage{latexsym} 
+
+% Following comment is from ijcai97-submit.tex:
+% The preparation of these files was supported by Schlumberger Palo Alto
+% Research, AT\&T Bell Laboratories, and Morgan Kaufmann Publishers.
+% Shirley Jowell, of Morgan Kaufmann Publishers, and Peter F.
+% Patel-Schneider, of AT\&T Bell Laboratories collaborated on their
+% preparation.
+
+% These instructions can be modified and used in other conferences as long
+% as credit to the authors and supporting agencies is retained, this notice
+% is not changed, and further modification or reuse is not restricted.
+% Neither Shirley Jowell nor Peter F. Patel-Schneider can be listed as
+% contacts for providing assistance without their prior permission.
+
+% To use for other conferences, change references to files and the
+% conference appropriate and use other authors, contacts, publishers, and
+% organizations.
+% Also change the deadline and address for returning papers and the length and
+% page charge instructions.
+% Put where the files are available in the appropriate places.
+
+\title{Negotiation-based Human Robot Collaboration with Limited Domain Resources using Augmented Reality}
+
+\author{Paper ID: X}
+% \author{
+% First Author$^1$
+% \and
+% Second Author$^2$\and
+% Third Author$^{2,3}$\And
+% Fourth Author$^4$
+% \affiliations
+% $^1$First Affiliation\\
+% $^2$Second Affiliation\\
+% $^3$Third Affiliation\\
+% $^4$Fourth Affiliation
+% \emails
+% \{first, second\}@example.com,
+% third@other.example.com,
+% fourth@example.com
+% }
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+%   Collaborative work spaces need a lot of communication for efficient management of resources. Since the communication between Humans and Robots is not easy as Human-Human communication, shared spaces do need a way to elevate Human Robot Interaction to bridge the gap of Analog communication from Humans to the digitally understood communication for Robots and vice versa. We develop an Augmented Reality based interface  for bi-directional communication and aim to increase the efficiency of Human-Robot collaborative tasks in shared stochastic environments. We also evaluate our system with a number of experiments showing how such a system can help in improving the efficiency and also seamlessly bridge the communication gap. In addition, our system also offers some additional cues in Augmented Reality that help Humans understand Robot's intention in a much clearer way.
+We focus on human-robot collaboration (HRC) with limited resources in this work. 
+Domain resources, such as spaces and tools, are frequently limited and must be shared among human-robot teammates. 
+However, resource sharing requires significant communication within the team, because both humans and robots have more than one way to achieve their individual goals and they can avoid using resources on an as-needed basis. 
+In this paper, we develop a novel augmented reality-driven HRC framework that supports bi-directional, multi-turn human-robot negotiations at planning phase, and enables quick convergence to high-quality joint plans in human-robot teams. 
+In comparison to competitive baselines of AR-driven HRC methods, we observe significant improvements in collaboration efficacy and efficiency. 
+\end{abstract}
+
+
+
+
+\section{Introduction}
+\label{sec:intro}
+% The recent advancements in robotics and artificial intelligence (AI) have empowered humans to enter an era where humans and robots work hand in hand to achieve the unimaginable heights of automation. 
+% Amazon, a well known name in automation has more than 100,000 robots in it's warehouses~\cite{wurman2008coordinating}. 
+% These Robots carry large shelves to pickup stations where a Human picks up the required item from the shelf. 
+% Even though Robots and Humans work in harmony in the same warehouse, the Humans are not allowed to enter the zone where Robots work due to obvious safety reasons because the shelves are too heavy and pose severe safety issues. 
+% Humans are only allowed to enter in the zone only in case robot breaks down or drops an item. 
+% Recently Amazon's latest solution to keep Robot-Human relation smooth is their "Robotic Tech Vest". 
+% This vest allows the robot to detect humans from farther locations and hence update it's plan to avoid running into Humans.
+
+
+Robots are increasingly ubiquitous in everyday environments, but most of them do not collaborate or even communicate with people in their work time. 
+There are more than $100k$ warehouse robots used in Amazon fulfillment centers~\cite{wurman2008coordinating}. 
+However, the robots' and people's work zones are completely separated, and there is no direct human-robot communication at runtime except for object handovers or people wearing a ``Tech Vest''. 
+% Savioke, another Robotics giant works dominantly in developing and deploying autonomous delivery Robots that work in human environments~\cite{ivanov2017adoption}. They have made over 300,000 deliveries in hotels, hospitals, and logistics facilities. Though their robots work in human presence, the robots do not interact during the course of delivery. These robots interact with Humans on the moment of delivery. 
+Savioke's Relay robots have completed more than $300k$ deliveries in hotels, hospitals, and logistics facilities~\cite{ivanov2017adoption}. 
+Their robots work in human presence, but there is no human-robot interaction until the moment of delivery. 
+Despite the significant achievements in multiagent systems~\cite{wooldridge2009introduction}, effective human-robot collaboration is still rare in practice. 
+We argue that the significant communication cost is one of the most important reasons that prevent human-robot teams from effective collaborations. 
+
+
+% Nowadays robots are increasingly becoming a part of our daily life but the human robot interaction has been a known problem in \emph{shared domain resources}. 
+We develop an augmented reality (AR)-driven, negotiation-based framework for human robot collaboration (HRC) problems. 
+The framework is particularly useful to HRC problems with shared, limited domain resources by enabling  effective AR-based communication within human-robot teams. 
+AR has promising applications in the literature of robotics, where humans can visualize the state of robot in an visually enhanced form~\cite{green2007augmented}. 
+The information is overlaid in an augmented layer over the real environment to make objects interactive~\cite{azuma2001recent}.
+However, knowing one's intention is not sufficient to support effective multiagent collaboration, and frequently bi-directional, multi-turn communication is required~\cite{stone2000multiagent}. 
+
+There are a number of collaboration algorithms developed in the area of multiagent systems (MAS)~\cite{wooldridge2009introduction}. 
+A human-robot system is a kind of MAS, but the communication within human-robot systems is unreliable and frequently very expensive. 
+% Shared spaces between humans and robots require bi-directional communication to make sure the tasks are accomplished in an efficient way. 
+The recently developed iterative inter-dependent planning (IIDP) algorithm has been shown effective for multiagent robot systems~\cite{zhang2017multirobot}. 
+Our negotiation-based HRC framework uses IIDP to compute the joint plan for human-robot teams while leveraging AR to significantly reduce the cost of multi-turn human-robot communications. 
+As a result, our HRC framework allows humans and robots to quickly converge to an efficient collaboration plan while effectively sharing domain resources. 
+We emphasize the need of multi-turn bi-directional communication where humans and robots both work together to adapt in constrained environments where resources are limited. 
+Our proposed system aims mainly at increasing collaboration efficiency while using AR and try to minimize the communication cost which serves as the key bottleneck in human-robot systems.
+
+We back our system with the results of the experiments that we carried out in human-robot shared environments. 
+Our robot systems are equipped with the capabilities of autonomous navigation and task planning. 
+% In our experiments we try to leverage our system to help participants communicate with Robots in Shared Spaces. 
+Our AR-driven interface served as an effective mode of communication where the participants felt more confident in using robots since they knew the intended plan of robots. 
+The participants also felt assured after using the negotiation-based mulit-turn communication since they could see the new intended plan after the sequence of negotiations between participants and robot. 
+The results suggest that, in comparison to AR-based baselines that support unidirectional or single-turn communication, our human-robot collaboration framework improves both collaboration efficiency and human comfort. 
+
+\section{Related Work}
+
+Researchers have been actively trying to convey robot's state and motion intent to human using visual cues from a long time. \citeauthor{chadalavada2015s} in \citeyear{chadalavada2015s} developed a system that uses LED projector to internal state information and intents to allow human to respond to robot's plan in a better way.
+Due to recent advancements in open source AR SDKs such as Google's ARCore and Apple's ARKit, AR-driven human-robot interaction (HRI) has been drawing attention from both industry and academia.  
+This growing interest of researchers can be witnessed with the VAM-HRI workshop inaugural in 2018~\cite{williams2018virtual}. 
+
+Researchers have explored how AR could help elevate HRI. 
+Early AR-in-HRI research laid down the foundation~\cite{milgram1993applications}, where they emphasized how AI can be used to achieve spatial human-robot communication. 
+They developed a system called ARGOS that allows a human operator to interactively plan, and optimize robot trajectories in turn avoiding obstacles and potential collisions. 
+Robots are being largely used in industries for assisting humans in manufacturing procedures. Most recently the work by \cite{bagchi2018towards} for integrating AR in collaborative manufacturing environment. Also \cite{quintero2018robot} who worked on using AR for robot programming using trajectory specification, exhibit that the researchers have been focusing on using AR for HRC. \cite{chen2019interface} very recently portrayed how the trend was shifting to Mixed Reality for designing interactive interfaces. 
+    
+The first use of robots in field of medicine dates back to 1985 where UNIMATION PUMA 200 was used to assist in surgery \cite{1354}. Since then the field of medical robotics gained momentum largely because of the precision capabilities of robots. Such robotic systems provide increased adroitness to the surgeon because of the state-of-the-art systems. AR is being increasingly used in medical robotics to overlay visual information to assist surgeons and help them by overlaying the information on target organs. Work by \cite{zevallosreal}  unifies autonomous tumor search with augmented reality to quickly reveal the shape and location of the tumors. The researchers visually overlay this information on the real organ using AR.
+
+Until recently, most of the teleoperated robots were controlled by a human counterpart using keyboard, joysticks, touch based systems, etc. 
+There is the effort of incorporating AR in teleoperation~\cite{fang2012interactive}. 
+The system consists of an AR interface that uses a marker-cube attached to a probe that allows the user to guide a virtual robot by setting way-points and orientations. 
+Recently, researchers developed a framework that supports collocated teleoperation of aerial robots~\cite{hedayati2018improving}. 
+Their system enabled users to synthesize the knowledge and benefits of both first- and third-person view while teleoperating. 
+
+
+Gestures play an important role in human-human communication. 
+Very recently, \citeauthor{williams2019hri} focused on ``pointing'', one of the most widely used type of deictic gesture in human-robot shared environments~\cite{williams2019hri}.
+Their work used mixed reality deictic gestures for multi-modal robot communication, aiming at an accurate, likable and effective communication strategy for HRI. 
+Their results indicated that the designed system produced comparible performance in comparison to traditional physical deictic gestures. 
+% When robots and Humans work in a shared environment, it is vital that they share their intentions with each other for smoother accomplishments of tasks in constrained environments. 
+Researchers have designed a framework to help human operators to visualize the motion-level intentions of unmanned aerial vehicles (UAVs) using AR~\cite{walker2018communicating}. 
+% In that work AR helps humans to know the intended motion of UAV's collocated in a shared environment. 
+% The work focused on increasing task efficiency where humans and robots collaboratively worked in shared environments. 
+However, the communication in that work is unidirectional, i.e., their framework only conveys robot intention to human and lacks the communication the other way round. 
+
+Most relevant to this paper is the work of~\cite{muhammad2019creating}. 
+The system allowed the user to visualize robot sensory information, robot's planning, and cognitive information. 
+In addition, their interface allows the robot to prompt information as well as asking questions -- all within an augmented layer. 
+To the best of our knowledge, the system of~\citeauthor{muhammad2019creating} is the only that embraced bi-directional human-robot communication. 
+In comparison to their work, our AR-driven HRC framework allows iterative human-robot negotiations, and produces higher-quality collaboration behaviors. 
+
+
+
+\section{ARN}
+
+Multi-agent systems require the agents to extensively communicate with each other if they work together in shared environments. The necessity of constant communication is realized more in collaborative environments with limited domain resources. We introduce our algorithm ARN to facilitate seamless bi-directional communication between human and robot.
+
+ARN (Augmented Reality driven Negotiator), shows our novel algorithm which embraces IIDP for HRC in shared environments. The core system consists of two major components, a Planner which generates highly optimized plans for robot, and, a AR compnent which helps human to visualize robot's intended plan and also transfer his/her intentions. The resultant system allows multi-turn bi-directional communication mediated by AR. Each turn of communication contributes to the optimal plan generated by the planner.
+
+Algorithm \ref{alg:algorithm} presents ARN, taking the following terms as input : $C$ which is a set of constraints interpreted from the human's shared intention. In simple terms, $C$ is a set of resources the human desires to use for accomplishing his/her tasks. The algorithm also requires the set of tasks $T$ to be carried out by robot. The set of tasks are high level descriptions of tasks for example : delivering an object, or as simple as visiting a location. Another important factor considered by the algorithm is the current state $S$ of robot which consists of current location, set of tasks accomplished from the pool of tasks, etc. 
+
+We first initialize a simple plan array of size $N$ which will store the most updated plan for the robot. The planner is then invoked after passing the inputs $C$, $T$ and $S$. The planner outputs a symbolic plan which is stored in $P$. Then we enter a while loop that goes on for indefinite amount of time to constantly observe the changes in $C$. If the current observed value is consistent with the value of $C$ that was used to compute $P$, then no changes takes place. Otherwise, the updated $C$ is passed on to the planner for re-planning. Planner again computes a new plan ($P_{New}$) based on the modified input values. This modified plan $P_{New}$ overwrites $P$ and which is desired output of the system.
+
+
+\begin{algorithm}[H]
+\caption{ARN algorithm}
+\label{alg:algorithm}
+\textbf{Input}: $C$, a set of constraints considered for planning\\
+\textbf{Input}: $T$, a set of high-level tasks for robot to perform, and, $S$, the state of robot \\
+\textbf{Output}: $P^{N}$ : $[g_{1},g_{2},....,g_{N}]$
+\begin{algorithmic}[1] %[1] enables line numbers
+\STATE Initialize a plan array $P$ of size $N$ where g$_{i}$$\in$ $P^{N}$,  $i\in \{1,2,...,N\}$ .
+\STATE Compute initial $P$ based on inputs $C, T $ and $S$.
+\WHILE{true}
+\STATE Make observation C from the world.
+\IF {C is not consistent}
+\STATE Compute new plan $P_{New}$ based on new $C$ along with $T$ and $S$.
+\STATE Replace $P$ with $P_{New}$.
+\ENDIF
+\ENDWHILE
+\end{algorithmic}
+\end{algorithm}
+
+The ARN algorithm outputs a Plan $P$ which is a sequence of actions to be carried out by robot. The resultant $P$ is an highly optimized plan which ensures that the outcome of tasks carried out using $P$ will be optimal based on the $C$ and $S$ given as inputs. The algorithm runs endlessly which assures that the plan that robot executes is always up to date. 
+
+\section{Framework}
+
+\begin{figure}[H]
+  \begin{center}
+    \vspace{.5em}
+    \includegraphics[width=1\columnwidth]{System_Architecture.jpg}
+    \vspace{-.5em}
+    \caption{System Architecture :Negotiation based multi-turn HRC using IIDP. }
+    \label{fig:system_arch}
+  \end{center}
+  \vspace{-1.5em}
+\end{figure}
+
+Next, we outline our AR-driven HRC framework that enables bi-directional, multi-turn communication in human-robot collaborative environments. We also describe how the individual components work in harmony to produce high quality coordinated plans in human-robot teams. Finally we delineate how our system works and also give an illustrated example of the system to show how the system helps to improve efficiency in a human-robot shared environment compared to the baselines.
+
+The Figure 1 shows an overview of our framework where the Task Planner $P^{T}$ and AR component serve as two main components. The planner generates a symbolic plan for the robot. This symbolic plan is a sequence of actions to be performed by the robot. The AR component can extract trajectory information from this symbolic plan and overlay that in real world. The AR component also allows human to share it's intent. These intent shared by human counterpart are processed and the set of desired resources for human are passed on to Planner as constraints. The Planner keeps checking for these modified constraints and re-plans based on the constraints. Since the system runs indefinitely, the changes is human or robot's intention are constantly communicated between human and robot by the medium of AR and Planner respectively. We will see how these individual components perform their tasks in the next section.
+
+\subsection{Planner}
+We use a Answer Set Programming (ASP) based planner on Robot's end to generate a plan for the Robot to execute the tasks. Answer Set Programming is a type of declarative programming which is mainly used for difficult search problems (primarily NP-hard). --------------- A brief ASP intro using rules and all -------------------------
+The ASP planner takes in a set of constraints together with the set of human defined tasks as input and produces a Plan (P) which is a sequence of actions(A) to be performed to complete those tasks.
+
+Firstly, the planner conveys this action sequence to the robot. Since these actions are passed on at semantic level, these actions are further decomposed into set of intermediate goals. These intermediate goals are in terms of location coordinates for the robot to understand. The robot continues to follow the sequence of actions unless it gets a modified action sequence from the planner. The planner constantly observes the environment to monitor if the resources required for the pool of actions are available. Re-planning is triggered when the planner detects that resources required by the robot have been reserved by the human counterpart. The planner takes in the new constraints as input and produces a new plan based on the current availability of resources. The newly generated plan in form of sequence of actions is again fed back to robot.
+
+Secondly, the planner also communicates this plan with the environment. This helps in reserving the resources required by the robot to accomplish tasks. If the resources needed are available in the pool of shared resources, the planner reserves them. In case of any resources being occupied by the human, the planner acquires the list of those occupied resources and generates a new plan. The new plan might avoid the use of the unavailable resources or in some cases, delay the need of those resources to a later time in future being optimistic about the  availability of resources. This new plan is again coordinated with the environment, making sure that the resources desired to execute the tasks are reserved for the robot.
+
+\subsection{Augmented Reality Interface}
+We designed an AR based interface for facilitating seamless bi-directional communication between the human and robot. All the information to and from the human is tunnelled using AR. The human can use a phone, tablet or even HMDs to use the AR capabilities of our system. The AR consists of several sub-components like Human Intent Communicator (HIC), Plan Visualizer (PV), and Device Localizer (DL), that work in harmony to help human visualize robot's motion trajectories, and also convey human's intention to robot. We will briefly look at all these components.
+
+{\bf Device Localizer (DL)}: The AR device and Robot both have different co-ordinate system. The AR device using ARCore has the origin wherever the application starts while the robot’s coordinates are relative to the map generated.  Firstly, we use a marker to localize the AR device in robot’s coordinates. The user scans the marker image using the device camera. The relative distance (d) of the device from the marker image is calculated using ARCore. Using 'd' along with some arithmetic formulas we deduce the device's location in terms of robot's coordinate system.
+
+{\bf Plan Visualizer (PV)}: Once we have the device localized, the plan visualizer component initiates the placement of visual cues (robot intended trajectory) in the augmented environment. The plan obtained from the Planner is a set of x and y co-ordinates which are an output of the robot's motion planner. These points are further down sampled to reduce the points that need to be augmented. 
+
+{\bf Human Intent Communicator (HIC)}: Now, since the human can interpret the resources desired by the robot using visual Augmented Reality cues, the next challenge was to allow human to share it's intent and in-turn notify the robot about his/her desired resources. We develop an interface that helps human to interact with robot in a multi-turn fashion. Each turn of communication is indeed a part of the entire negotiation strategy which we put forward for quick convergence to efficient solutions in human-robot shared environments with limited domain resources.
+
+
+\section{Experiments}
+\subsection{Illustrative Example}
+
+\subsection{Experimental Results}
+
+\section{Conclusion}
+
+\appendix
+
+
+%% The file named.bst is a bibliography style file for BibTeX 0.99c
+\bibliographystyle{named}
+\bibliography{ref}
+
+\end{document}
+

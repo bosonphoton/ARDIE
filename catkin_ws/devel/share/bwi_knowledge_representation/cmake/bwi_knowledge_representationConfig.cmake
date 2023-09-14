@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation/share/bwi_knowledge_representation/cmake/bwi_knowledge_representationConfig.cmake

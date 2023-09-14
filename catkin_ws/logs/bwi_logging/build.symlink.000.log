@@ -1,0 +1,4 @@
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_logging/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_logging.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_logging/cmake/bwi_loggingConfig.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_logging/cmake/bwi_loggingConfig-version.cmake

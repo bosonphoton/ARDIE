@@ -1,0 +1,18 @@
+[rospy.client][INFO] 2023-09-11 14:23:06,963: init_node, name[/ur_grasp_node_8098_1694456586895], pid[8098]
+[xmlrpc][INFO] 2023-09-11 14:23:06,963: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-09-11 14:23:06,964: Started XML-RPC server [http://segbot:44713/]
+[rospy.init][INFO] 2023-09-11 14:23:06,964: ROS Slave URI: [http://segbot:44713/]
+[rospy.impl.masterslave][INFO] 2023-09-11 14:23:06,964: _ready: http://segbot:44713/
+[xmlrpc][INFO] 2023-09-11 14:23:06,965: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2023-09-11 14:23:06,965: Registering with master node http://localhost:11311
+[rospy.init][INFO] 2023-09-11 14:23:07,064: registered with master
+[rospy.rosout][INFO] 2023-09-11 14:23:07,064: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-09-11 14:23:07,066: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-09-11 14:23:07,067: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2023-09-11 14:23:08,286: topic[/tf] adding connection to [http://segbot:33419/], count 0
+[rospy.internal][INFO] 2023-09-11 14:23:08,291: topic[/tf] adding connection to [http://segbot:43949/], count 1
+[rospy.internal][INFO] 2023-09-11 14:23:08,291: topic[/tf] adding connection to [http://segbot:45693/], count 1
+[rospy.internal][INFO] 2023-09-11 14:23:08,291: topic[/tf_static] adding connection to [http://segbot:33419/], count 0
+[rospy.internal][INFO] 2023-09-11 14:23:08,387: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2023-09-11 14:23:08,387: topic[/collision_object] adding connection to [/move_group], count 0
+[rospy.internal][INFO] 2023-09-11 14:23:08,388: topic[/attached_collision_object] adding connection to [/move_group], count 0

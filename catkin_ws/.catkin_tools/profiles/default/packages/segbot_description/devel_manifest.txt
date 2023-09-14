@@ -1,0 +1,5 @@
+segbot/segbot_description
+/home/chels/catkin_ws/devel/.private/segbot_description/cmake.lock /home/chels/catkin_ws/devel/./cmake.lock
+/home/chels/catkin_ws/devel/.private/segbot_description/lib/pkgconfig/segbot_description.pc /home/chels/catkin_ws/devel/lib/pkgconfig/segbot_description.pc
+/home/chels/catkin_ws/devel/.private/segbot_description/share/segbot_description/cmake/segbot_descriptionConfig.cmake /home/chels/catkin_ws/devel/share/segbot_description/cmake/segbot_descriptionConfig.cmake
+/home/chels/catkin_ws/devel/.private/segbot_description/share/segbot_description/cmake/segbot_descriptionConfig-version.cmake /home/chels/catkin_ws/devel/share/segbot_description/cmake/segbot_descriptionConfig-version.cmake

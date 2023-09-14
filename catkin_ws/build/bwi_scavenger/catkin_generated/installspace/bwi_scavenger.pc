@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: bwi_scavenger
+Description: Description of bwi_scavenger
+Version: 0.3.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs plan_execution bwi_msgs message_runtime move_base_msgs roscpp sound_play std_msgs visualization_msgs

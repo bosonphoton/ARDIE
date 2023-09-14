@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/file_server/lib/python2.7/dist-packages/file_server/srv/__init__.py

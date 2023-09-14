@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_knowledge_representation
+
+Name: bwi_knowledge_representation
+Description: Description of bwi_knowledge_representation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

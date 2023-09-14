@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_eb/share/bu_eb/cmake/bu_ebConfig-version.cmake

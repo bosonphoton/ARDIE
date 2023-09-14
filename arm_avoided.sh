@@ -1,0 +1,1 @@
+python /home/chels/catkin_ws/src/ur5_yan/scripts/pomdp/arm_avoided.py

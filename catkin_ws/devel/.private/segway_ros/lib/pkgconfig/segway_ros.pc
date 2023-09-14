@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/segway_ros
+
+Name: segway_ros
+Description: Description of segway_ros
+Version: 0.0.1
+Cflags: -I/home/chels/catkin_ws/devel/.private/segway_ros/include
+Libs: -L${prefix}/lib 
+Requires: 

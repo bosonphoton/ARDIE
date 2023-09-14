@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/eyegaze
+
+Name: eyegaze
+Description: Description of eyegaze
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

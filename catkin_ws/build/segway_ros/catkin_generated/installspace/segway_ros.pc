@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: segway_ros
+Description: Description of segway_ros
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

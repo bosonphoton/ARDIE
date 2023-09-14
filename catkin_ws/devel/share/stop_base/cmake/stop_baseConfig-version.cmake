@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/stop_base/share/stop_base/cmake/stop_baseConfig-version.cmake

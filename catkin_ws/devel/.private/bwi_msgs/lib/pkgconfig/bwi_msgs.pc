@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/bwi_msgs
+
+Name: bwi_msgs
+Description: Description of bwi_msgs
+Version: 0.3.12
+Cflags: -I/home/chels/catkin_ws/devel/.private/bwi_msgs/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs bwi_planning_common geometry_msgs message_runtime sensor_msgs std_msgs

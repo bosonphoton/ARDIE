@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_ros/include/segway_ros/segwayConfig.h

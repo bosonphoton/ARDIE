@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_navigation_apps/lib/pkgconfig/segway_navigation_apps.pc

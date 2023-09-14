@@ -1,0 +1,8 @@
+prefix=/home/chelsea/catkin_ws/install
+
+Name: ur5_yan
+Description: Description of ur5_yan
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

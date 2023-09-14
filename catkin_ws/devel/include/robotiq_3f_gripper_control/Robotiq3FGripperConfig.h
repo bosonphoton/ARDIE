@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/robotiq_3f_gripper_control/include/robotiq_3f_gripper_control/Robotiq3FGripperConfig.h

@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target segway_ros_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/segway.cfg: /home/chels/catkin_ws/devel/.private/segway_ros/include/segway_ros/segwayConfig.h /home/chels/catkin_ws/devel/.private/segway_ros/lib/python2.7/dist-packages/segway_ros/cfg/segwayConfig.py[0m
+Generating reconfiguration files for segway in segway_ros
+Wrote header file in /home/chels/catkin_ws/devel/.private/segway_ros/include/segway_ros/segwayConfig.h
+[100%] Built target segway_ros_gencfg

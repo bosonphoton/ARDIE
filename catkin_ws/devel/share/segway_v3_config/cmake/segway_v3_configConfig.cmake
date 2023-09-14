@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/segway_v3_config/share/segway_v3_config/cmake/segway_v3_configConfig.cmake

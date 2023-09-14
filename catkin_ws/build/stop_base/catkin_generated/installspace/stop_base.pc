@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/install
+
+Name: stop_base
+Description: Description of stop_base
+Version: 0.3.12
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: bwi_msgs geometry_msgs

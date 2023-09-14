@@ -1,0 +1,5 @@
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_scavenger/draw_trajectory
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_scavenger/scavenger
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_scavenger.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_scavenger/cmake/bwi_scavengerConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_scavenger/cmake/bwi_scavengerConfig.cmake

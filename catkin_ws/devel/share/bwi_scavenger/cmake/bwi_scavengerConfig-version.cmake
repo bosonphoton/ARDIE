@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_scavenger/share/bwi_scavenger/cmake/bwi_scavengerConfig-version.cmake

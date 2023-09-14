@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bu_probabilistic_inference/lib/pkgconfig/bu_probabilistic_inference.pc

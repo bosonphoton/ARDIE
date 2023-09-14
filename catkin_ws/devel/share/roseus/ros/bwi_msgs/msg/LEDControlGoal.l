@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/bwi_msgs/share/roseus/ros/bwi_msgs/msg/LEDControlGoal.l

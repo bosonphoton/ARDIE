@@ -1,0 +1,19 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _segway_msgs_generate_messages_check_deps_ConfigCmd
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Status
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Propulsion
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Dynamics
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Faultlog
+[  0%] Built target _segway_msgs_generate_messages_check_deps_AuxPower
+[  0%] Built target _segway_msgs_generate_messages_check_deps_Configuration
+[  0%] Built target _segway_msgs_generate_messages_check_deps_SuperAux
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 19%] Built target segway_msgs_generate_messages_cpp
+[ 40%] Built target segway_msgs_generate_messages_py
+[ 59%] Built target segway_msgs_generate_messages_nodejs
+[ 80%] Built target segway_msgs_generate_messages_eus
+[100%] Built target segway_msgs_generate_messages_lisp
+[100%] Built target segway_msgs_generate_messages

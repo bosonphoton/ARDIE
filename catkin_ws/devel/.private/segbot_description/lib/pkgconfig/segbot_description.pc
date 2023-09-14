@@ -1,0 +1,8 @@
+prefix=/home/chels/catkin_ws/devel/.private/segbot_description
+
+Name: segbot_description
+Description: Description of segbot_description
+Version: 0.3.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

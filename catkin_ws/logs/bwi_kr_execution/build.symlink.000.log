@@ -1,0 +1,10 @@
+Symlinking /home/chels/catkin_ws/devel/lib/libbwikractions.so
+Symlinking /home/chels/catkin_ws/devel/lib/python2.7/dist-packages/bwi_kr_execution/__init__.py
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_kr_execution/plan_executor_node
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_kr_execution/asp_formatter
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_kr_execution/test_action_executor_node
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_kr_execution/kb_to_asp
+Symlinking /home/chels/catkin_ws/devel/lib/bwi_kr_execution/test_plan_executor
+Symlinking /home/chels/catkin_ws/devel/lib/pkgconfig/bwi_kr_execution.pc
+Symlinking /home/chels/catkin_ws/devel/share/bwi_kr_execution/cmake/bwi_kr_executionConfig-version.cmake
+Symlinking /home/chels/catkin_ws/devel/share/bwi_kr_execution/cmake/bwi_kr_executionConfig.cmake

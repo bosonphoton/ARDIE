@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target fibonacci_server[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/fibonacci_server.dir/src/fibonacci.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chels/catkin_ws/devel/.private/bwi_interruptable_action_server/lib/bwi_interruptable_action_server/fibonacci_server[0m
+[100%] Built target fibonacci_server

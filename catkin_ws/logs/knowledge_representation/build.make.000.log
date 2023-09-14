@@ -1,0 +1,9 @@
+[35m[1mScanning dependencies of target knowledge_rep[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/knowledge_rep.dir/src/libknowledge_rep/LongTermMemoryConduitPostgreSQL.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/knowledge_rep.dir/src/libknowledge_rep/convenience.cpp.o[0m
+[ 60%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/knowledge_representation/lib/libknowledge_rep.so[0m
+[ 60%] Built target knowledge_rep
+[35m[1mScanning dependencies of target _libknowledge_rep_wrapper_cpp[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/_libknowledge_rep_wrapper_cpp.dir/src/libknowledge_rep/python_wrapper.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/chels/catkin_ws/devel/.private/knowledge_representation/lib/python2.7/dist-packages/knowledge_representation/_libknowledge_rep_wrapper_cpp.so[0m
+[100%] Built target _libknowledge_rep_wrapper_cpp

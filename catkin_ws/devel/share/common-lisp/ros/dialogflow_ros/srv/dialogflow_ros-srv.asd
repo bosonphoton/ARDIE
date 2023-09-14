@@ -1,0 +1,1 @@
+/home/chels/catkin_ws/devel/.private/dialogflow_ros/share/common-lisp/ros/dialogflow_ros/srv/dialogflow_ros-srv.asd
