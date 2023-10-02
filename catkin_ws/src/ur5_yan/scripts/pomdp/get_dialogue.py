@@ -4,9 +4,31 @@ import speech_recognition as sr
 from sound_play.libsoundplay import SoundClient
 import numpy as np
 import time
+import itertools
+
 
 speaker = SoundClient()
 ear = sr.Recognizer()
+
+def hear_table():
+	speaker.say("Which table is the object?")
+	time.sleep(2)
+
+	with sr.Microphone() as source:
+	ear.adjust_for_ambient_noise(source)
+	print("Retriving table")
+	try:
+		audio = ear.listen(source,timeout = 4)
+		text = ear.recognize_google(audio)
+		if text == "one":
+			print("heard:" + text)
+			return "table1"
+		elif text == "two":
+			print("heard:"+ text)
+			return "table2"
+	except:
+		text = np.random.choice(["table1","table2"])
+		return str(text)
 
 def hear_color():
 	speaker.say("What color is the object?")
@@ -30,8 +52,8 @@ def hear_color():
 		except:
 			text = np.random.choice(["red","blue","green"])
 			print("Random " + text)
-			#text = raw_input("red or blue: ")
 			return str(text)
+
 
 def hear_confirmation():
 	speaker.say("Can I bring the projected object?")
@@ -51,13 +73,10 @@ def hear_confirmation():
 				return text
 
 		except:
-			print("Random yes")
 			text = "yes"
-			#text = raw_input("red or blue: ")
 			return text
-
-
 
 
 def ask_to_look():
 	speaker.say("Please look at the table")
+

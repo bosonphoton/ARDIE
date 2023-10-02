@@ -10,7 +10,7 @@ import pathlib
 import pandas as pd
 import os
 ########################
-from get_dialogue import hear_color, ask_to_look, hear_confirmation
+from get_dialogue import hear_color, ask_to_look, hear_confirmation, hear_table, start_trial
 import rospy
 import actionlib
 
@@ -37,6 +37,11 @@ import time
 
 current_table_number = None
 count = 0
+subject = str(input("Subject ID"))
+baseline = str(input("0 for baseline, 1 for full"))
+a,b,c,d,e,f = start_trial(subject)
+first_execution = True
+
 
 class Simulator:
 	def __init__(self, solve_pomdp=False):
@@ -63,7 +68,6 @@ class Simulator:
 							len(self.model.actions),
 							policy_file=policy_file)
 
-
 	def update(self, a_idx,o_idx,b ):
 		'''Update belief using Bayes update rule'''
 		b = np.dot(b, self.model.trans_mat[a_idx, :])
@@ -77,40 +81,51 @@ class Simulator:
 		print (df)
 
 
+
+
 	def observe(self,a_idx,next_state):
 		global count
-		if a_idx == 0: #gaze
-			# ask_to_look()
-			# while(current_table_number == None):
-			# 	print "Waiting for gaze input"
-			# return current_table_number
-			return "table1"
+		global first_execution
 
-			# return "table1"
-			# if count == 0:
-			# 	#time.sleep(1)
-			# 	return "table2"
-			# else:
-			# 	#time.sleep(1)
-			# 	return "table1"
+		stacklevel = open("stacklevel.txt", "a")
+		
+		if count == 0: 
+			stacklevel.write("\n")
+			stacklevel.write("\nbase")
+			stacklevel.close()
+			print("base")
+		elif count == 1: 
+			stacklevel.write("\n")
+			stacklevel.write("\nmiddle")
+			stacklevel.close()
+			print("middle")
+		else: 
+			stacklevel.write("\n")
+			stacklevel.write("\ntop")
+			stacklevel.close()
+			print("top")
 
+
+		# Initialize a flag variable to keep track of the execution
+		
+		if a_idx == 0: # gaze
+
+			if baseline == "0":
+				observation = hear_table()
+				return observations
+
+
+			else:
+				ask_to_look()
+				while(current_table_number == None):
+					print "Waiting for gaze input"
+				return current_table_number			
+				
 
 		elif a_idx == 1: #ask color
-			# dialogue_c = hear_color()
-			# return dialogue_c
-			return "red"
-
-
-			# if count == 0:
-			# 	#time.sleep(1)
-			# 	return "green"
-			# elif count == 1:
-			# 	#time.sleep(1)
-			# 	return "red"
-			# else:
-			# 	#time.sleep(1)
-			# 	return "blue"
-			# return np.random.choice(["red","green","blue"])
+		
+			dialogue_c = hear_color()
+			return dialogue_c
 
 
 #################START UR5e ARM CODE #######################################

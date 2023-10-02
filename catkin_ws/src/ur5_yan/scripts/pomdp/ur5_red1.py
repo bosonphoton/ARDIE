@@ -28,7 +28,11 @@ from pymodbus.client.asynchronous.serial import AsyncModbusSerialClient
 from pymodbus.client.asynchronous.twisted import ModbusClientProtocol
 
 from utils import MoveGroupInteface
+from get_pose import get_pose
 
+
+
+#####################red1 = large, red2 = small#############################
 # -----------------------------------------
 # initialize
 # -----------------------------------------
@@ -64,14 +68,14 @@ print('-'*30)
 demo.plan_joint_goal(0, -0.9, 0.5, -1.2, -1.57, 0)
 print('pose for grasping is done!')
 print('-'*30)
-v1, v2, v3, v4, v5, v6 = demo.divide_pi(16.63,-20.13,28.74,-108.75,-93.13,27.30)
+v1, v2, v3, v4, v5, v6 = demo.divide_pi(-56.45,-44.42,72.54,-113.8,-93.92,-61.13)
 print(v1, v2, v3, v4, v5, v6)
 demo.plan_joint_goal(v1, v2, v3, v4, v5, v6)
 
 # -----------------------------------------
 # reach for init position
 # -----------------------------------------
-v1, v2, v3, v4, v5, v6 = demo.divide_pi(16.69,-17.52,28.75,-110.28,-91.89,27.31)
+v1, v2, v3, v4, v5, v6 = demo.divide_pi(-56.45,-41.42,72.54,-113.8,-93.92,-61.13)
 print(v1, v2, v3, v4, v5, v6)
 demo.plan_joint_goal(v1, v2, v3, v4, v5, v6)
 print('reach for init position!')
@@ -85,11 +89,16 @@ rospy.sleep(2.0)
 print('grasp is done!')
 print('-'*30)
 
+v1, v2, v3, v4, v5, v6 = demo.divide_pi(-56.45,-47.42,72.54,-113.8,-93.92,-61.13)
+demo.plan_joint_goal(v1, v2, v3, v4, v5, v6)
 # -----------------------------------------
 # reach for dest position
 # -----------------------------------------
+v1, v2, v3, v4, v5, v6 = demo.divide_pi(-3.52,-50.66,81.9,-122.89,-92.82,-7.29)
+print("BEFORE", -3.52,-50.66,81.9,-122.89,-92.82,-7.29)
+print("After", v1, v2, v3, v4, v5, v6 )
 
-v1, v2, v3, v4, v5, v6 = demo.divide_pi(-17.06,-30.67,58.81,-148.03,-87.46,-10.43)
+v1, v2, v3, v4, v5, v6 = get_pose(v1, v2, v3, v4, v5, v6) # adjusts stack level based on count
 demo.plan_joint_goal(v1, v2, v3, v4, v5, v6)
 print('reach for dest position!')
 print('-'*30)

@@ -21,7 +21,7 @@ last_calltime = datetime.strptime("00:00:00","%H:%M:%S")
 
 
 def callback(data):
-	tablefile = open("table.txt", "a")
+	colors = open("colors.txt", "a")
 	global last_calltime, last_table
 	table = data.data
 	t = time.localtime()
