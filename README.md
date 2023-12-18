@@ -1,3 +1,5 @@
+Instructions for initializing the ARDIE agent with the UR5e robot arm.
+
 # Connect to ROS-Unity Bridge and start Soundplay
   roslaunch rosbridge_server rosbridge_websocket.launch
   
